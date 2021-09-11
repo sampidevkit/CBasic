@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.web.jsf.navigation/1">
+    <module_version install_time="1621001993962" last="true" origin="installer" specification_version="2.38">
+        <file crc="789051327" name="config/Modules/org-netbeans-modules-web-jsf-navigation.xml"/>
+        <file crc="588803207" name="modules/org-netbeans-modules-web-jsf-navigation.jar"/>
+    </module_version>
+</module>

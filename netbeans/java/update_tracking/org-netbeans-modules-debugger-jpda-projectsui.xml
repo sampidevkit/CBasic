@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.debugger.jpda.projectsui">
+    <module_version install_time="1621001614954" last="true" origin="installer" specification_version="1.15">
+        <file crc="3349085081" name="config/Modules/org-netbeans-modules-debugger-jpda-projectsui.xml"/>
+        <file crc="419162491" name="modules/org-netbeans-modules-debugger-jpda-projectsui.jar"/>
+    </module_version>
+</module>

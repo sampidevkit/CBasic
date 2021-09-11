@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.payara.micro/0">
+    <module_version install_time="1621001952544" last="true" origin="installer" specification_version="2.7">
+        <file crc="3894153237" name="config/Modules/org-netbeans-modules-payara-micro.xml"/>
+        <file crc="2039883859" name="modules/org-netbeans-modules-payara-micro.jar"/>
+    </module_version>
+</module>

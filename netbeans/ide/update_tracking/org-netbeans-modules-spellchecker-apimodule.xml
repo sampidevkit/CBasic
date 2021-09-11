@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.spellchecker.apimodule">
+    <module_version install_time="1621001361528" last="true" origin="installer" specification_version="1.37">
+        <file crc="2106395459" name="config/Modules/org-netbeans-modules-spellchecker-apimodule.xml"/>
+        <file crc="905220380" name="modules/org-netbeans-modules-spellchecker-apimodule.jar"/>
+    </module_version>
+</module>

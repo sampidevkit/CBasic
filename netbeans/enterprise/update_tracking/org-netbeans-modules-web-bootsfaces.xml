@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.web.bootsfaces">
+    <module_version install_time="1621001962705" last="true" origin="installer" specification_version="1.83">
+        <file crc="800154556" name="config/Modules/org-netbeans-modules-web-bootsfaces.xml"/>
+        <file crc="651718965" name="modules/org-netbeans-modules-web-bootsfaces.jar"/>
+    </module_version>
+</module>

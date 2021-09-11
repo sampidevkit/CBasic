@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.j2ee.genericserver">
+    <module_version install_time="1621001922251" last="true" origin="installer" specification_version="1.43">
+        <file crc="3927862749" name="config/Modules/org-netbeans-modules-j2ee-genericserver.xml"/>
+        <file crc="763685179" name="modules/org-netbeans-modules-j2ee-genericserver.jar"/>
+    </module_version>
+</module>

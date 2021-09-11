@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.updatecenters/1">
+    <module_version install_time="1621001757156" last="true" origin="installer" specification_version="1.52">
+        <file crc="2121888661" name="config/Modules/org-netbeans-modules-updatecenters.xml"/>
+        <file crc="1497329570" name="core/ide.ks"/>
+        <file crc="2408739893" name="modules/org-netbeans-modules-updatecenters.jar"/>
+    </module_version>
+</module>

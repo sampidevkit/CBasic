@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.libs.groovy">
+    <module_version install_time="1621002008505" last="true" origin="installer" specification_version="2.10">
+        <file crc="586793793" name="config/Modules/org-netbeans-modules-libs-groovy.xml"/>
+        <file crc="3469757385" name="modules/ext/groovy-ant.jar"/>
+        <file crc="3928407604" name="modules/ext/groovy.jar"/>
+        <file crc="3629665064" name="modules/org-netbeans-modules-libs-groovy.jar"/>
+    </module_version>
+</module>
