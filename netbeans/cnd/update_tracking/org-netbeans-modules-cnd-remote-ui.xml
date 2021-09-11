@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.cnd.remote.ui">
+    <module_version install_time="1631363534289" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.0.6">
+        <file crc="146883868" name="config/Modules/org-netbeans-modules-cnd-remote-ui.xml"/>
+        <file crc="182788572" name="modules/locale/org-netbeans-modules-cnd-remote-ui_ja.jar"/>
+        <file crc="1461665503" name="modules/locale/org-netbeans-modules-cnd-remote-ui_pt_BR.jar"/>
+        <file crc="4228187646" name="modules/locale/org-netbeans-modules-cnd-remote-ui_ru.jar"/>
+        <file crc="1858769925" name="modules/locale/org-netbeans-modules-cnd-remote-ui_zh_CN.jar"/>
+        <file crc="2222089210" name="modules/org-netbeans-modules-cnd-remote-ui.jar"/>
+    </module_version>
+</module>

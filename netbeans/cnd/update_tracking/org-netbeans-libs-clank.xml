@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.libs.clank/1">
+    <module_version install_time="1631363525995" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="0.4.14.1">
+        <file crc="4211140682" name="config/Modules/org-netbeans-libs-clank.xml"/>
+        <file crc="3799531414" name="modules/ext/org-clang-analysis.jar"/>
+        <file crc="207257786" name="modules/ext/org-clang-arcmigrate.jar"/>
+        <file crc="348749381" name="modules/ext/org-clang-ast.jar"/>
+        <file crc="4197304246" name="modules/ext/org-clang-astmatchers.jar"/>
+        <file crc="949493403" name="modules/ext/org-clang-basic.jar"/>
+        <file crc="778931562" name="modules/ext/org-clang-clangc.jar"/>
+        <file crc="3543861212" name="modules/ext/org-clang-codegen.jar"/>
+        <file crc="1180552534" name="modules/ext/org-clang-driver.jar"/>
+        <file crc="3123541275" name="modules/ext/org-clang-edit.jar"/>
+        <file crc="563547960" name="modules/ext/org-clang-format.jar"/>
+        <file crc="3995017906" name="modules/ext/org-clang-frontend.jar"/>
+        <file crc="1524515061" name="modules/ext/org-clang-frontendtool.jar"/>
+        <file crc="3991707512" name="modules/ext/org-clang-index.jar"/>
+        <file crc="3166547818" name="modules/ext/org-clang-lex.jar"/>
+        <file crc="3513681346" name="modules/ext/org-clang-parse.jar"/>
+        <file crc="3602015146" name="modules/ext/org-clang-rewrite.jar"/>
+        <file crc="2659254701" name="modules/ext/org-clang-sema.jar"/>
+        <file crc="3144870900" name="modules/ext/org-clang-serialization.jar"/>
+        <file crc="2819114262" name="modules/ext/org-clang-staticanalyzer.jar"/>
+        <file crc="1225566492" name="modules/ext/org-clang-tidy.jar"/>
+        <file crc="1312235924" name="modules/ext/org-clang-tooling.jar"/>
+        <file crc="4134026400" name="modules/ext/org-clang-tools-driver.jar"/>
+        <file crc="1383106937" name="modules/ext/org-clang-tools-services.jar"/>
+        <file crc="1716723690" name="modules/ext/org-clank-java.jar"/>
+        <file crc="2304826043" name="modules/ext/org-llvm-adtsupport.jar"/>
+        <file crc="42912265" name="modules/ext/org-llvm-bitcode.jar"/>
+        <file crc="2691373428" name="modules/ext/org-llvm-ir.jar"/>
+        <file crc="3415390152" name="modules/ext/org-llvm-linker.jar"/>
+        <file crc="3241556638" name="modules/ext/org-llvm-option.jar"/>
+        <file crc="333196747" name="modules/ext/org-llvm-passes.jar"/>
+        <file crc="3282904845" name="modules/ext/org-llvm-profiledata.jar"/>
+        <file crc="1990799951" name="modules/ext/org-llvm-target.jar"/>
+        <file crc="3776115887" name="modules/ext/org-llvm-utils.jar"/>
+        <file crc="1271411126" name="modules/ext/org-llvm.jar"/>
+        <file crc="1791117329" name="modules/org-netbeans-libs-clank.jar"/>
+    </module_version>
+</module>

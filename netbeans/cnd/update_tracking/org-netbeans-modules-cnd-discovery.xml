@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.cnd.discovery">
+    <module_version install_time="1631363531880" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.47.24.1">
+        <file crc="3621047409" name="bin/Linux-sparc_64/libBuildTrace.so"/>
+        <file crc="1067657829" name="bin/Linux-x86/libBuildTrace.so"/>
+        <file crc="402085430" name="bin/Linux-x86_64/libBuildTrace.so"/>
+        <file crc="4293455172" name="bin/MacOSX-x86/libBuildTrace.dylib"/>
+        <file crc="4293455172" name="bin/MacOSX-x86_64/libBuildTrace.dylib"/>
+        <file crc="615618680" name="bin/SunOS-sparc/libBuildTrace.so"/>
+        <file crc="2650408577" name="bin/SunOS-sparc_64/libBuildTrace.so"/>
+        <file crc="35149294" name="bin/SunOS-x86/libBuildTrace.so"/>
+        <file crc="3040060333" name="bin/SunOS-x86_64/libBuildTrace.so"/>
+        <file crc="138209338" name="bin/tools-wrapper/Unix/wrapper"/>
+        <file crc="171312909" name="bin/tools-wrapper/Windows/wrapper.exe"/>
+        <file crc="365188355" name="config/Modules/org-netbeans-modules-cnd-discovery.xml"/>
+        <file crc="2326572992" name="modules/locale/org-netbeans-modules-cnd-discovery_ja.jar"/>
+        <file crc="1164655614" name="modules/locale/org-netbeans-modules-cnd-discovery_pt_BR.jar"/>
+        <file crc="2764584233" name="modules/locale/org-netbeans-modules-cnd-discovery_ru.jar"/>
+        <file crc="784131878" name="modules/locale/org-netbeans-modules-cnd-discovery_zh_CN.jar"/>
+        <file crc="1172800026" name="modules/org-netbeans-modules-cnd-discovery.jar"/>
+    </module_version>
+</module>

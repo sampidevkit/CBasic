@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.cnd.kit">
+    <module_version install_time="1631363521524" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.30.6.1">
+        <file crc="1198717888" name="VERSION.txt"/>
+        <file crc="1465756219" name="config/Modules/org-netbeans-modules-cnd-kit.xml"/>
+        <file crc="1839647156" name="modules/locale/org-netbeans-modules-cnd-kit_ja.jar"/>
+        <file crc="1965276963" name="modules/locale/org-netbeans-modules-cnd-kit_pt_BR.jar"/>
+        <file crc="2164869418" name="modules/locale/org-netbeans-modules-cnd-kit_ru.jar"/>
+        <file crc="3310463310" name="modules/locale/org-netbeans-modules-cnd-kit_zh_CN.jar"/>
+        <file crc="4205149176" name="modules/org-netbeans-modules-cnd-kit.jar"/>
+    </module_version>
+</module>

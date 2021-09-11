@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.remotefs.versioning">
+    <module_version install_time="1631363520549" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.14.12.1">
+        <file crc="1304352956" name="config/Modules/org-netbeans-modules-remotefs-versioning.xml"/>
+        <file crc="3069649686" name="modules/locale/org-netbeans-modules-remotefs-versioning_ja.jar"/>
+        <file crc="2684385088" name="modules/locale/org-netbeans-modules-remotefs-versioning_pt_BR.jar"/>
+        <file crc="1938009215" name="modules/locale/org-netbeans-modules-remotefs-versioning_ru.jar"/>
+        <file crc="1882253260" name="modules/locale/org-netbeans-modules-remotefs-versioning_zh_CN.jar"/>
+        <file crc="1691301760" name="modules/org-netbeans-modules-remotefs-versioning.jar"/>
+    </module_version>
+</module>

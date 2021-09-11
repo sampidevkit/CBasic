@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.cnd.analysis.impl">
+    <module_version install_time="1631363523734" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.3.3">
+        <file crc="1959698152" name="config/Modules/org-netbeans-modules-cnd-analysis-impl.xml"/>
+        <file crc="3781610987" name="modules/locale/org-netbeans-modules-cnd-analysis-impl_ja.jar"/>
+        <file crc="2582168921" name="modules/locale/org-netbeans-modules-cnd-analysis-impl_pt_BR.jar"/>
+        <file crc="1450350614" name="modules/locale/org-netbeans-modules-cnd-analysis-impl_ru.jar"/>
+        <file crc="3171788553" name="modules/locale/org-netbeans-modules-cnd-analysis-impl_zh_CN.jar"/>
+        <file crc="811218066" name="modules/org-netbeans-modules-cnd-analysis-impl.jar"/>
+    </module_version>
+</module>

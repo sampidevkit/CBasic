@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.cnd.mixeddev">
+    <module_version install_time="1631363521123" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.4.19">
+        <file crc="3429967007" name="VERSION.txt"/>
+        <file crc="4099782579" name="config/Modules/org-netbeans-modules-cnd-mixeddev.xml"/>
+        <file crc="1336334272" name="modules/locale/org-netbeans-modules-cnd-mixeddev_ja.jar"/>
+        <file crc="2473994098" name="modules/locale/org-netbeans-modules-cnd-mixeddev_pt_BR.jar"/>
+        <file crc="3589396947" name="modules/locale/org-netbeans-modules-cnd-mixeddev_ru.jar"/>
+        <file crc="3054683740" name="modules/locale/org-netbeans-modules-cnd-mixeddev_zh_CN.jar"/>
+        <file crc="3601176361" name="modules/org-netbeans-modules-cnd-mixeddev.jar"/>
+    </module_version>
+</module>

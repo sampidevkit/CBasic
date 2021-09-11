@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.cnd.asm/1">
+    <module_version install_time="1631363533952" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.30.5.2">
+        <file crc="55411969" name="config/Modules/org-netbeans-modules-cnd-asm.xml"/>
+        <file crc="18036621" name="modules/locale/org-netbeans-modules-cnd-asm_ja.jar"/>
+        <file crc="882679386" name="modules/locale/org-netbeans-modules-cnd-asm_pt_BR.jar"/>
+        <file crc="4092761231" name="modules/locale/org-netbeans-modules-cnd-asm_ru.jar"/>
+        <file crc="614186506" name="modules/locale/org-netbeans-modules-cnd-asm_zh_CN.jar"/>
+        <file crc="1942640589" name="modules/org-netbeans-modules-cnd-asm.jar"/>
+    </module_version>
+</module>

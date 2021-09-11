@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.cnd.navigation">
+    <module_version install_time="1631363522897" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.36.11.1">
+        <file crc="3707572941" name="config/Modules/org-netbeans-modules-cnd-navigation.xml"/>
+        <file crc="1432254534" name="modules/locale/org-netbeans-modules-cnd-navigation_ja.jar"/>
+        <file crc="2517351375" name="modules/locale/org-netbeans-modules-cnd-navigation_pt_BR.jar"/>
+        <file crc="1280934788" name="modules/locale/org-netbeans-modules-cnd-navigation_ru.jar"/>
+        <file crc="1953667899" name="modules/locale/org-netbeans-modules-cnd-navigation_zh_CN.jar"/>
+        <file crc="3319206560" name="modules/org-netbeans-modules-cnd-navigation.jar"/>
+    </module_version>
+</module>
