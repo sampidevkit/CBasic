@@ -34,11 +34,11 @@ void hien_thi(uint8_t so)
 
 int main(int argc, char** argv)
 {
-    PORTAbits.val=0x00;
+    PORTAbits.val=0xFA;
     printf("\nPORTA=");
     hien_thi(PORTAbits.val);
 
-    PORTAbits.RA5=1;
+    PORTAbits.RA5=0;
     printf("\nPORTA=");
     hien_thi(PORTAbits.val);
 

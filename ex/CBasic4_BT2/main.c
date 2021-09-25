@@ -10,7 +10,7 @@ int main(int argc, char** argv)
     LOOP:
     printf("\nNhap diem so mon thu %d: ", i+1);
     scanf("%f", &diem[i++]);
-    
+
     if(i<3)
         goto LOOP;
     

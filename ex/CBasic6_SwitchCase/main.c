@@ -13,21 +13,23 @@ int main(int argc, char** argv)
     {
         char c=getchar();
 
-        if(c=='1')
-            printf("\"Hello\"\n");
-        else if(c=='2')
-            printf("\"C Basic\"\n");
-        else if(c=='3')
-        {
-            int rnd=rand();
-
-            printf("%08X\n", rnd);
-        }
-        else if((c=='e')||(c=='E'))
-            goto EXIT;
-        else
-            printf("\nBad command\n");
-        /*
+//        if(c=='1')
+//            printf("\"Hello\"\n");
+//        else if(c=='2')
+//            printf("\"C Basic\"\n");
+//        else if(c=='3')
+//        {
+//            int rnd=rand();
+//
+//            printf("%08X\n", rnd);
+//        }
+//        else if((c=='e')||(c=='E'))
+//            goto EXIT;
+//        else if((c=='\n')||(c=='\r'))
+//            ;
+//        else
+//            printf("\nBad command\n");
+        
         switch(c)
         {
             case '1':
@@ -50,11 +52,14 @@ int main(int argc, char** argv)
             case 'E':
                 goto EXIT;
 
+            case '\r':
+            case '\n':
+                break;
+                
             default:
                 printf("\nBad command\n");
                 break;
         }
-         */
     }
 
 EXIT:
