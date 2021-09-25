@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.truffleapi">
-    <module_version install_time="1621001461022" last="true" origin="installer" specification_version="1.12">
+    <module_version install_time="1631109860273" last="true" origin="installer" specification_version="1.13">
         <file crc="1510467501" name="config/Modules/org-netbeans-libs-truffleapi.xml"/>
-        <file crc="1401503302" name="modules/ext/truffle-api-20.2.0.jar"/>
-        <file crc="562838527" name="modules/org-netbeans-libs-truffleapi.jar"/>
+        <file crc="622859410" name="modules/ext/truffle-api-20.3.0.jar"/>
+        <file crc="490691755" name="modules/org-netbeans-libs-truffleapi.jar"/>
     </module_version>
 </module>

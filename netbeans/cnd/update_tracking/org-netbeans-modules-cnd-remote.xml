@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.cnd.remote">
-    <module_version install_time="1631363523070" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.28.22.1">
+    <module_version install_time="1632578198515" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.28.22.1">
         <file crc="534846752" name="bin/Linux-sparc_64/rfs_controller"/>
         <file crc="2958064256" name="bin/Linux-sparc_64/rfs_preload.so"/>
         <file crc="2368575070" name="bin/Linux-sparc_64/rfs_test_env"/>

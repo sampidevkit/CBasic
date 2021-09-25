@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.websvc.saas.codegen.php">
-    <module_version install_time="1621001820027" last="true" origin="installer" specification_version="1.39">
+    <module_version install_time="1631110362078" last="true" origin="installer" specification_version="1.40">
         <file crc="1000520390" name="config/Modules/org-netbeans-modules-websvc-saas-codegen-php.xml"/>
-        <file crc="1071376015" name="modules/org-netbeans-modules-websvc-saas-codegen-php.jar"/>
+        <file crc="825195776" name="modules/org-netbeans-modules-websvc-saas-codegen-php.jar"/>
     </module_version>
 </module>

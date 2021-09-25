@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.css.lib/1">
-    <module_version install_time="1621001383553" last="true" origin="installer" specification_version="1.95">
+    <module_version install_time="1631109725626" last="true" origin="installer" specification_version="1.96">
         <file crc="2846313870" name="config/Modules/org-netbeans-modules-css-lib.xml"/>
-        <file crc="596497454" name="modules/org-netbeans-modules-css-lib.jar"/>
+        <file crc="109635371" name="modules/org-netbeans-modules-css-lib.jar"/>
     </module_version>
 </module>

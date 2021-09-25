@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.libs.corba.omgapi">
-    <module_version install_time="1621001603665" last="true" origin="installer" specification_version="1.7">
+    <module_version install_time="1631110104672" last="true" origin="installer" specification_version="1.8">
         <file crc="475720386" name="config/Modules/org-netbeans-modules-libs-corba-omgapi.xml"/>
         <file crc="2187833771" name="modules/ext/corba/omgapi/glassfish-corba-omgapi.jar"/>
-        <file crc="3207735889" name="modules/org-netbeans-modules-libs-corba-omgapi.jar"/>
+        <file crc="114458631" name="modules/org-netbeans-modules-libs-corba-omgapi.jar"/>
     </module_version>
 </module>

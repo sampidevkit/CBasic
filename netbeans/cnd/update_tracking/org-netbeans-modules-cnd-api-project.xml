@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.cnd.api.project/1">
-    <module_version install_time="1631363534651" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.36.13.1">
+    <module_version install_time="1632578210218" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.36.13.1">
         <file crc="2651969430" name="config/Modules/org-netbeans-modules-cnd-api-project.xml"/>
         <file crc="3425673614" name="modules/locale/org-netbeans-modules-cnd-api-project_ja.jar"/>
         <file crc="154751233" name="modules/locale/org-netbeans-modules-cnd-api-project_pt_BR.jar"/>

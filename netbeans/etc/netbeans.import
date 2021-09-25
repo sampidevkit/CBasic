@@ -24,6 +24,8 @@ exclude config/Services/Platforms/org-netbeans-api-java-Platform/Default_JavaFX_
 #org.netbeans.modules.project.libraries OptionsExport/Advanced/ProjectLibraries
 include config/org-netbeans-api-project-libraries/Libraries/.*\.xml|build[.]properties#nbplatform[.].+[.].+|var[.].*
 exclude build[.]properties#nbplatform[.]default[.]netbeans[.]dest[.]dir
+#org.netbeans.modules.refactoring.java OptionsExport/Advanced/RuleFiles
+include config/rules/.*
 #org.netbeans.core.windows OptionsExport/Advanced/Toolbars
 include config/Toolbars/.*
 exclude config/Toolbars/Progress/.*

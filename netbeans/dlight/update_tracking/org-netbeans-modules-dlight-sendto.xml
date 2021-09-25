@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.dlight.sendto">
-    <module_version install_time="1631363518894" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.3.6.1">
+    <module_version install_time="1632578194515" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.3.6.1">
         <file crc="1737803882" name="config/Modules/org-netbeans-modules-dlight-sendto.xml"/>
         <file crc="1760022576" name="modules/locale/org-netbeans-modules-dlight-sendto_ja.jar"/>
         <file crc="2421433362" name="modules/locale/org-netbeans-modules-dlight-sendto_pt_BR.jar"/>

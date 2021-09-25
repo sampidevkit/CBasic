@@ -739,7 +739,7 @@ Copyright (c) 2002-2019 Pivotal, Inc.
 
 
 This product includes/uses JaCoCo Core (https://www.jacoco.org/)
-developed by EclEmma Project, 2006-2019
+developed by EclEmma Project, 2006-2021
 
 
 phpsigfiles is build from the PHP Manual by converting it to PHPdoc format.

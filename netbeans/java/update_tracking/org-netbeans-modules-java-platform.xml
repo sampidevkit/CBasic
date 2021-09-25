@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.platform/1">
-    <module_version install_time="1621001575128" last="true" origin="installer" specification_version="1.54">
+    <module_version install_time="1631110071065" last="true" origin="installer" specification_version="1.55">
         <file crc="2997928414" name="config/ModuleAutoDeps/org-netbeans-modules-java-platform.xml"/>
         <file crc="3178966345" name="config/Modules/org-netbeans-modules-java-platform.xml"/>
-        <file crc="1070694354" name="modules/org-netbeans-modules-java-platform.jar"/>
+        <file crc="1113851684" name="modules/org-netbeans-modules-java-platform.jar"/>
     </module_version>
 </module>
