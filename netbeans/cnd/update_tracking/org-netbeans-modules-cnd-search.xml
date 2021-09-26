@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.cnd.search">
-    <module_version install_time="1632578207676" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.16.3">
+    <module_version install_time="1632624994249" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.16.3">
         <file crc="3340943629" name="config/Modules/org-netbeans-modules-cnd-search.xml"/>
         <file crc="1486028967" name="modules/locale/org-netbeans-modules-cnd-search_ja.jar"/>
         <file crc="3915085877" name="modules/locale/org-netbeans-modules-cnd-search_pt_BR.jar"/>
