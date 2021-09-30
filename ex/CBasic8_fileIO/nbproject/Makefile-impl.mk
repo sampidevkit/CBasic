@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=CBasic8_ifdef
+PROJECTNAME=CBasic8_fileIO
 
 # Active Configuration
 DEFAULTCONF=Debug

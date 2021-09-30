@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=MinGW-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/MinGW-Windows
-CND_ARTIFACT_NAME_Debug=cbasic8_ifdef
-CND_ARTIFACT_PATH_Debug=dist/Debug/MinGW-Windows/cbasic8_ifdef
+CND_ARTIFACT_NAME_Debug=cbasic8_fileio
+CND_ARTIFACT_PATH_Debug=dist/Debug/MinGW-Windows/cbasic8_fileio
 CND_PACKAGE_DIR_Debug=dist/Debug/MinGW-Windows/package
-CND_PACKAGE_NAME_Debug=cbasic8ifdef.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/MinGW-Windows/package/cbasic8ifdef.tar
+CND_PACKAGE_NAME_Debug=cbasic8fileio.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/MinGW-Windows/package/cbasic8fileio.tar
 # Release configuration
 CND_PLATFORM_Release=MinGW-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/MinGW-Windows
-CND_ARTIFACT_NAME_Release=cbasic8_ifdef
-CND_ARTIFACT_PATH_Release=dist/Release/MinGW-Windows/cbasic8_ifdef
+CND_ARTIFACT_NAME_Release=cbasic8_fileio
+CND_ARTIFACT_PATH_Release=dist/Release/MinGW-Windows/cbasic8_fileio
 CND_PACKAGE_DIR_Release=dist/Release/MinGW-Windows/package
-CND_PACKAGE_NAME_Release=cbasic8ifdef.tar
-CND_PACKAGE_PATH_Release=dist/Release/MinGW-Windows/package/cbasic8ifdef.tar
+CND_PACKAGE_NAME_Release=cbasic8fileio.tar
+CND_PACKAGE_PATH_Release=dist/Release/MinGW-Windows/package/cbasic8fileio.tar
 #
 # include compiler specific variables
 #

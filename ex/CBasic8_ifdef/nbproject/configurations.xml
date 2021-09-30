@@ -37,6 +37,9 @@
       <compileType>
         <cTool>
           <standard>3</standard>
+          <preprocessorList>
+            <Elem>__HELLO__</Elem>
+          </preprocessorList>
         </cTool>
       </compileType>
       <item path="main.c" ex="false" tool="0" flavor2="0">

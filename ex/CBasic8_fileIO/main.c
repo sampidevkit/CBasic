@@ -1,23 +1,28 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/cFiles/main.c to edit this template
- */
-
-/* 
- * File:   main.c
- * Author: sampi
- *
- * Created on September 30, 2021, 9:03 PM
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
- * 
- */
 int main(int argc, char** argv)
 {
+    FILE *fp;
+
+    //    fp=fopen("vidu.txt", "w+");
+    //    fprintf(fp, "Vi du kiem tra ham fprintf ...\n");
+    //    fputs("Vi du kiem tra ham fputs ...\n", fp);
+    //    fclose(fp);
+
+    char buff[255];
+
+    fp=fopen("vidu.txt", "r");
+    fscanf(fp, "%s", buff);
+    printf("1 : %s\n", buff);
+
+    fgets(buff, 255, (FILE*) fp);
+    printf("2: %s\n", buff);
+
+    fgets(buff, 255, (FILE*) fp);
+    printf("3: %s\n", buff);
+    fclose(fp);
+
 
     return (EXIT_SUCCESS);
 }
