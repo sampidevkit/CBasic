@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.editor.bookmarks/1">
-    <module_version install_time="1631109826303" last="true" origin="installer" specification_version="1.50">
+    <module_version install_time="1637574922818" last="true" origin="installer" specification_version="1.51">
         <file crc="3233569121" name="config/Modules/org-netbeans-modules-editor-bookmarks.xml"/>
-        <file crc="1701341655" name="modules/org-netbeans-modules-editor-bookmarks.jar"/>
+        <file crc="947554963" name="modules/org-netbeans-modules-editor-bookmarks.jar"/>
     </module_version>
 </module>

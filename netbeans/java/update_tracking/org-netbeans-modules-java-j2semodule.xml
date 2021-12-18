@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.j2semodule">
-    <module_version install_time="1631110193418" last="true" origin="installer" specification_version="1.15">
+    <module_version install_time="1637575194214" last="true" origin="installer" specification_version="1.16">
         <file crc="103819200" name="config/Modules/org-netbeans-modules-java-j2semodule.xml"/>
-        <file crc="1058374188" name="modules/org-netbeans-modules-java-j2semodule.jar"/>
+        <file crc="4191432789" name="modules/org-netbeans-modules-java-j2semodule.jar"/>
     </module_version>
 </module>

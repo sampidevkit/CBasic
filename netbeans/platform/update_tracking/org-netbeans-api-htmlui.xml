@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.api.htmlui">
-    <module_version install_time="1631109555494" last="true" origin="installer" specification_version="1.20">
+    <module_version install_time="1637574778984" last="true" origin="installer" specification_version="1.21">
         <file crc="3240801667" name="config/Modules/org-netbeans-api-htmlui.xml"/>
-        <file crc="687960553" name="modules/org-netbeans-api-htmlui.jar"/>
+        <file crc="398194764" name="modules/org-netbeans-api-htmlui.jar"/>
     </module_version>
 </module>

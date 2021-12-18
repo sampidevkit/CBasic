@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.websvc.jaxwsapi">
-    <module_version install_time="1631110486690" last="true" origin="installer" specification_version="1.39">
+    <module_version install_time="1637575454105" last="true" origin="installer" specification_version="1.40">
         <file crc="1584029857" name="config/Modules/org-netbeans-modules-websvc-jaxwsapi.xml"/>
-        <file crc="773100011" name="modules/org-netbeans-modules-websvc-jaxwsapi.jar"/>
+        <file crc="3533583321" name="modules/org-netbeans-modules-websvc-jaxwsapi.jar"/>
     </module_version>
 </module>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.openide.compat">
-    <module_version install_time="1631109623597" last="true" origin="installer" specification_version="6.53">
+    <module_version install_time="1637574820629" last="true" origin="installer" specification_version="6.54">
         <file crc="1028000658" name="config/Modules/org-openide-compat.xml"/>
-        <file crc="4243183208" name="modules/org-openide-compat.jar"/>
+        <file crc="990962439" name="modules/org-openide-compat.jar"/>
     </module_version>
 </module>

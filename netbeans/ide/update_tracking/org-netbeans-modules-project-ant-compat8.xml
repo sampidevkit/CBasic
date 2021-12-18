@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.project.ant.compat8/1">
-    <module_version install_time="1631109881467" last="true" origin="installer" specification_version="1.80">
+    <module_version install_time="1637574965175" last="true" origin="installer" specification_version="1.81">
         <file crc="1430216077" name="config/Modules/org-netbeans-modules-project-ant-compat8.xml"/>
-        <file crc="2169658311" name="modules/org-netbeans-modules-project-ant-compat8.jar"/>
+        <file crc="2824133988" name="modules/org-netbeans-modules-project-ant-compat8.jar"/>
     </module_version>
 </module>

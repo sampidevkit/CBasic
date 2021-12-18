@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.jaxb/1">
-    <module_version install_time="1631109858750" last="true" origin="installer" specification_version="1.44">
+    <module_version install_time="1637574950086" last="true" origin="installer" specification_version="1.45">
         <file crc="1169736733" name="config/Modules/org-netbeans-libs-jaxb.xml"/>
         <file crc="4093094955" name="docs/jaxb-api-doc.jar"/>
         <file crc="1974574750" name="modules/ext/jaxb/jaxb-impl.jar"/>
         <file crc="3310232597" name="modules/ext/jaxb/jaxb-xjc.jar"/>
-        <file crc="2403411381" name="modules/org-netbeans-libs-jaxb.jar"/>
+        <file crc="1909687275" name="modules/org-netbeans-libs-jaxb.jar"/>
     </module_version>
 </module>

@@ -296,6 +296,8 @@ From: GitHub
     License: CDDL-1.0
   - jvyamlb: A pure Java YAML 1.1 loader and dumper.
     License: MIT license jvyamlb variant
+  - snakeyaml-engine: YAML 1.2 parser, reader, writer library
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: GlassFish Community (https://mvnrepository.com/artifact/com.sun.mail/javax.mail/1.6.2)
   - JavaMail API: JavaMail API 1.6.2
@@ -759,11 +761,6 @@ From: https://github.com/isaacs/node-graceful-fs#readme
   - graceful-fs: A drop-in replacement for fs, making various improvements.
     License: ISC license for graceful-fs
 
-From: https://github.com/javafxports/openjdk-jfx/
-  - JavaFX: JavaFX API and Implementation
-    License: GPL v2 with Classpath exception (http://openjdk.java.net/legal/gplv2+ce.html)
-    Comment: Used at compile. Possibly downloaded later.
-
 From: https://github.com/jhy/jsoup
   - jsoup: jsoup library
     License: MIT license jsoup variant
@@ -805,6 +802,11 @@ From: https://github.com/mathisonian/command-exists
 From: https://github.com/matthiasblaesing/netbeans-processtreekiller
   - NetBeans processtreekiller: Library allowing to kill external process trees.
     License: MIT
+
+From: https://github.com/openjdk/jfx
+  - JavaFX: JavaFX API and Implementation
+    License: GPL v2 with Classpath exception (http://openjdk.java.net/legal/gplv2+ce.html)
+    Comment: Used at compile. Possibly downloaded later.
 
 From: https://github.com/oracle/graal
   - Graal SDK and Truffle API: Graal SDK and Truffle API

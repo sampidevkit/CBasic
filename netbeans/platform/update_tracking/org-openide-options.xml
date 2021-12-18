@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.openide.options">
-    <module_version install_time="1631109624405" last="true" origin="installer" specification_version="6.50">
+    <module_version install_time="1637574821281" last="true" origin="installer" specification_version="6.51">
         <file crc="2763036759" name="config/Modules/org-openide-options.xml"/>
-        <file crc="219207249" name="modules/org-openide-options.jar"/>
+        <file crc="1545736335" name="modules/org-openide-options.jar"/>
     </module_version>
 </module>

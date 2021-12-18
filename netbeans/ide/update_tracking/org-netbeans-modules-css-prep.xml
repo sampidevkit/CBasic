@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.css.prep">
-    <module_version install_time="1631109737306" last="true" origin="installer" specification_version="1.43">
+    <module_version install_time="1637574887325" last="true" origin="installer" specification_version="1.44">
         <file crc="3126003007" name="config/Modules/org-netbeans-modules-css-prep.xml"/>
-        <file crc="1587706496" name="modules/org-netbeans-modules-css-prep.jar"/>
+        <file crc="2951558994" name="modules/org-netbeans-modules-css-prep.jar"/>
     </module_version>
 </module>

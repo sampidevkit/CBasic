@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.typescript.editor">
-    <module_version install_time="1631110059992" last="true" origin="installer" specification_version="1.6">
+    <module_version install_time="1637575062336" last="true" origin="installer" specification_version="1.7">
         <file crc="1332251824" name="config/Modules/org-netbeans-modules-typescript-editor.xml"/>
-        <file crc="3164277729" name="modules/org-netbeans-modules-typescript-editor.jar"/>
+        <file crc="2241112708" name="modules/org-netbeans-modules-typescript-editor.jar"/>
     </module_version>
 </module>

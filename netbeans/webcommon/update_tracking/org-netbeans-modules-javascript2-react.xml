@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javascript2.react">
-    <module_version install_time="1631110053599" last="true" origin="installer" specification_version="0.12">
+    <module_version install_time="1637575056742" last="true" origin="installer" specification_version="0.13">
         <file crc="1565923607" name="config/Modules/org-netbeans-modules-javascript2-react.xml"/>
-        <file crc="1512896992" name="modules/org-netbeans-modules-javascript2-react.jar"/>
+        <file crc="3031608628" name="modules/org-netbeans-modules-javascript2-react.jar"/>
     </module_version>
 </module>

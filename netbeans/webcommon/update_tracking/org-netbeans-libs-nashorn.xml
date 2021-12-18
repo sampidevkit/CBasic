@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.nashorn/1">
-    <module_version install_time="1631110027151" last="true" origin="installer" specification_version="1.47">
+    <module_version install_time="1637575031337" last="true" origin="installer" specification_version="1.48">
         <file crc="250435371" name="config/Modules/org-netbeans-libs-nashorn.xml"/>
         <file crc="671271256" name="modules/ext/graal-js-parser-e20fe15.jar"/>
-        <file crc="980180018" name="modules/org-netbeans-libs-nashorn.jar"/>
+        <file crc="3437877697" name="modules/org-netbeans-libs-nashorn.jar"/>
     </module_version>
 </module>

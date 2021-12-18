@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.apisupport.harness">
-    <module_version install_time="1631109634776" last="true" origin="installer" specification_version="1.55">
+    <module_version install_time="1637574826686" last="true" origin="installer" specification_version="1.56">
         <file crc="964231627" name="README"/>
         <file crc="2361081766" name="antlib/bindex-2.2.jar"/>
         <file crc="2419390860" name="build.xml"/>
@@ -10,17 +10,17 @@
         <file crc="2195682192" name="etc/applicationIcon.icns"/>
         <file crc="3739640547" name="jdk.xml"/>
         <file crc="2965842666" name="jnlp.xml"/>
-        <file crc="3902402187" name="jnlp/jnlp-launcher.jar"/>
+        <file crc="3944334045" name="jnlp/jnlp-launcher.jar"/>
         <file crc="239831841" name="launchers/app.exe"/>
         <file crc="3643845382" name="launchers/app.sh"/>
         <file crc="930645589" name="launchers/app64.exe"/>
         <file crc="1618502330" name="launchers/pre7_app.exe"/>
         <file crc="2223057369" name="launchers/pre7_app_w.exe"/>
-        <file crc="1942635359" name="modules/org-netbeans-modules-apisupport-harness.jar"/>
+        <file crc="246486683" name="modules/org-netbeans-modules-apisupport-harness.jar"/>
         <file crc="1994575623" name="no-testcoverage.xml"/>
         <file crc="3105643375" name="osgi.xml"/>
         <file crc="2123073144" name="run.xml"/>
         <file crc="1615460432" name="suite.xml"/>
-        <file crc="3883495306" name="tasks.jar"/>
+        <file crc="3188689716" name="tasks.jar"/>
     </module_version>
 </module>

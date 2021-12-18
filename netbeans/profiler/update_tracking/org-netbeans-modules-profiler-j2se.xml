@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.profiler.j2se/1">
-    <module_version install_time="1631110265622" last="true" origin="installer" specification_version="1.49">
+    <module_version install_time="1637575256356" last="true" origin="installer" specification_version="1.50">
         <file crc="407602391" name="config/Modules/org-netbeans-modules-profiler-j2se.xml"/>
-        <file crc="3062861751" name="modules/org-netbeans-modules-profiler-j2se.jar"/>
+        <file crc="1304149726" name="modules/org-netbeans-modules-profiler-j2se.jar"/>
     </module_version>
 </module>

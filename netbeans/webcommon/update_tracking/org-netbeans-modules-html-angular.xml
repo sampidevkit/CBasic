@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.html.angular">
-    <module_version install_time="1631110037821" last="true" origin="installer" specification_version="1.25">
+    <module_version install_time="1637575042720" last="true" origin="installer" specification_version="1.26">
         <file crc="2127269519" name="config/Modules/org-netbeans-modules-html-angular.xml"/>
-        <file crc="607954980" name="modules/org-netbeans-modules-html-angular.jar"/>
+        <file crc="1982808230" name="modules/org-netbeans-modules-html-angular.jar"/>
     </module_version>
 </module>

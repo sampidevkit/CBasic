@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.hudson.git">
-    <module_version install_time="1631109846368" last="true" origin="installer" specification_version="1.31">
+    <module_version install_time="1637574940581" last="true" origin="installer" specification_version="1.32">
         <file crc="1732329679" name="config/Modules/org-netbeans-modules-hudson-git.xml"/>
-        <file crc="4282430784" name="modules/org-netbeans-modules-hudson-git.jar"/>
+        <file crc="2019478859" name="modules/org-netbeans-modules-hudson-git.jar"/>
     </module_version>
 </module>

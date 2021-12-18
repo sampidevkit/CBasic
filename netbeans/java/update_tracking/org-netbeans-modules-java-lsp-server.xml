@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.lsp.server">
-    <module_version install_time="1631110197555" last="true" origin="installer" specification_version="1.9.0.1.1.12.1.17.32.5.2.1.1.1.13">
+    <module_version install_time="1637575198242" last="true" origin="installer" specification_version="1.10.0.1.1.12.1.17.32.5.2.1.1.1.13">
         <file crc="1212840409" name="config/Modules/org-netbeans-modules-java-lsp-server.xml"/>
         <file crc="1260452356" name="modules/ext/commons-io-2.5.jar"/>
         <file crc="859489288" name="modules/ext/commons-lang3-3.6.jar"/>
@@ -11,6 +11,6 @@
         <file crc="1348473589" name="modules/ext/org.eclipse.xtend.lib-2.19.0.jar"/>
         <file crc="2707929635" name="modules/ext/org.eclipse.xtend.lib.macro-2.19.0.jar"/>
         <file crc="1871157644" name="modules/ext/org.eclipse.xtext.xbase.lib-2.19.0.jar"/>
-        <file crc="1267708120" name="modules/org-netbeans-modules-java-lsp-server.jar"/>
+        <file crc="3287984545" name="modules/org-netbeans-modules-java-lsp-server.jar"/>
     </module_version>
 </module>

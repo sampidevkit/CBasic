@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.websvc.restapi/0">
-    <module_version install_time="1631110530506" last="true" origin="installer" specification_version="1.49">
+    <module_version install_time="1637575489636" last="true" origin="installer" specification_version="1.50">
         <file crc="567035595" name="config/Modules/org-netbeans-modules-websvc-restapi.xml"/>
-        <file crc="3141674047" name="modules/org-netbeans-modules-websvc-restapi.jar"/>
+        <file crc="788043874" name="modules/org-netbeans-modules-websvc-restapi.jar"/>
     </module_version>
 </module>

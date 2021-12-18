@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.lsp.client/0">
-    <module_version install_time="1631109865178" last="true" origin="installer" specification_version="1.12.0.1.1">
+    <module_version install_time="1637574955932" last="true" origin="installer" specification_version="1.13.0.1.1">
         <file crc="4233115038" name="config/Modules/org-netbeans-modules-lsp-client.xml"/>
         <file crc="1755676663" name="modules/ext/org.eclipse.lsp4j-0.9.0.jar"/>
         <file crc="1727591299" name="modules/ext/org.eclipse.lsp4j.generator-0.9.0.jar"/>
@@ -7,6 +7,6 @@
         <file crc="1348473589" name="modules/ext/org.eclipse.xtend.lib-2.19.0.jar"/>
         <file crc="2707929635" name="modules/ext/org.eclipse.xtend.lib.macro-2.19.0.jar"/>
         <file crc="1871157644" name="modules/ext/org.eclipse.xtext.xbase.lib-2.19.0.jar"/>
-        <file crc="2221759835" name="modules/org-netbeans-modules-lsp-client.jar"/>
+        <file crc="2788487181" name="modules/org-netbeans-modules-lsp-client.jar"/>
     </module_version>
 </module>
