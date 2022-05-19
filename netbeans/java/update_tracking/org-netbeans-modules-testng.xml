@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.testng">
-    <module_version install_time="1637575224539" last="true" origin="installer" specification_version="2.34">
+    <module_version install_time="1645463978324" last="true" origin="installer" specification_version="2.35">
         <file crc="3630985257" name="config/Modules/org-netbeans-modules-testng.xml"/>
-        <file crc="3156080359" name="modules/org-netbeans-modules-testng.jar"/>
+        <file crc="3626713885" name="modules/org-netbeans-modules-testng.jar"/>
     </module_version>
 </module>

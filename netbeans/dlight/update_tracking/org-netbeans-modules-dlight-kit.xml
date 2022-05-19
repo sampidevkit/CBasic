@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.dlight.kit">
-    <module_version install_time="1632624979988" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.25.4.1">
+    <module_version install_time="1652111022593" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.25.4.1">
         <file crc="1818208259" name="VERSION.txt"/>
         <file crc="750295560" name="config/Modules/org-netbeans-modules-dlight-kit.xml"/>
         <file crc="459927918" name="modules/locale/org-netbeans-modules-dlight-kit_ja.jar"/>

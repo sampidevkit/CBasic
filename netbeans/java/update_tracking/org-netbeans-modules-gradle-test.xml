@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.gradle.test">
-    <module_version install_time="1637575144881" last="true" origin="installer" specification_version="1.10">
+    <module_version install_time="1645463896174" last="true" origin="installer" specification_version="1.11">
         <file crc="2816370426" name="config/Modules/org-netbeans-modules-gradle-test.xml"/>
-        <file crc="3534609343" name="modules/org-netbeans-modules-gradle-test.jar"/>
+        <file crc="204995891" name="modules/org-netbeans-modules-gradle-test.jar"/>
     </module_version>
 </module>

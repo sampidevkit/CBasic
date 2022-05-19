@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.languages.yaml">
-    <module_version install_time="1637574948850" last="true" origin="installer" specification_version="2.46">
+    <module_version install_time="1645463686836" last="true" origin="installer" specification_version="2.47">
         <file crc="1110107827" name="config/Modules/org-netbeans-modules-languages-yaml.xml"/>
-        <file crc="159843933" name="modules/org-netbeans-modules-languages-yaml.jar"/>
+        <file crc="3191138678" name="modules/org-netbeans-modules-languages-yaml.jar"/>
     </module_version>
 </module>

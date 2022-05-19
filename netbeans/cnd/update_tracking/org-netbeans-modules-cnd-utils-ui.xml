@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.cnd.utils.ui">
-    <module_version install_time="1632624982315" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.5.5">
+    <module_version install_time="1652111028392" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.5.5">
         <file crc="1834921846" name="config/Modules/org-netbeans-modules-cnd-utils-ui.xml"/>
         <file crc="3948977745" name="modules/locale/org-netbeans-modules-cnd-utils-ui_ja.jar"/>
         <file crc="996496615" name="modules/locale/org-netbeans-modules-cnd-utils-ui_pt_BR.jar"/>

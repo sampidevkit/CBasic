@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.css.visual/3">
-    <module_version install_time="1637574892936" last="true" origin="installer" specification_version="3.46">
+    <module_version install_time="1645463628900" last="true" origin="installer" specification_version="3.47">
         <file crc="841146648" name="config/Modules/org-netbeans-modules-css-visual.xml"/>
-        <file crc="262257057" name="modules/org-netbeans-modules-css-visual.jar"/>
+        <file crc="2619694471" name="modules/org-netbeans-modules-css-visual.jar"/>
     </module_version>
 </module>

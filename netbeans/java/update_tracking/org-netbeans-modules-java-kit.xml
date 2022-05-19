@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.kit">
-    <module_version install_time="1637575194996" last="true" origin="installer" specification_version="1.49">
+    <module_version install_time="1645463948681" last="true" origin="installer" specification_version="1.50">
         <file crc="983100856" name="VERSION.txt"/>
         <file crc="2870554026" name="config/Modules/org-netbeans-modules-java-kit.xml"/>
-        <file crc="65381577" name="modules/org-netbeans-modules-java-kit.jar"/>
+        <file crc="2269706476" name="modules/org-netbeans-modules-java-kit.jar"/>
     </module_version>
 </module>

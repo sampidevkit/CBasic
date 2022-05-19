@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="bcprov">
-    <module_version install_time="1637574838065" last="true" origin="installer" specification_version="1.64">
+    <module_version install_time="1645463572962" last="true" origin="installer" specification_version="1.68">
         <file crc="3819609014" name="config/Modules/bcprov.xml"/>
-        <file crc="1831433975" name="modules/bcprov.jar"/>
+        <file crc="4273372166" name="modules/bcprov.jar"/>
     </module_version>
 </module>

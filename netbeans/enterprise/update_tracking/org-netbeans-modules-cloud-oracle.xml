@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.cloud.oracle">
+    <module_version install_time="1645464134599" last="true" origin="installer" specification_version="1.0">
+        <file crc="519643218" name="config/Modules/org-netbeans-modules-cloud-oracle.xml"/>
+        <file crc="3479268786" name="modules/ext/jakarta.activation-api-1.2.1.jar"/>
+        <file crc="984009030" name="modules/ext/jersey-apache-connector-2.34.jar"/>
+        <file crc="16844055" name="modules/ext/jersey-media-json-jackson-2.34.jar"/>
+        <file crc="541077999" name="modules/ext/jsr305-3.0.2.jar"/>
+        <file crc="1785505035" name="modules/ext/nimbus-jose-jwt-9.11.1.jar"/>
+        <file crc="11876890" name="modules/ext/oci-java-sdk-circuitbreaker-2.10.0.jar"/>
+        <file crc="3269230289" name="modules/ext/oci-java-sdk-common-2.10.0.jar"/>
+        <file crc="2068920571" name="modules/ext/oci-java-sdk-database-2.10.0.jar"/>
+        <file crc="1588845564" name="modules/ext/oci-java-sdk-identity-2.10.0.jar"/>
+        <file crc="422932537" name="modules/ext/oci-java-sdk-workrequests-2.10.0.jar"/>
+        <file crc="519599226" name="modules/ext/resilience4j-circuitbreaker-1.2.0.jar"/>
+        <file crc="2267090735" name="modules/ext/resilience4j-core-1.2.0.jar"/>
+        <file crc="1865122622" name="modules/ext/vavr-0.10.2.jar"/>
+        <file crc="1368343068" name="modules/ext/vavr-match-0.10.2.jar"/>
+        <file crc="2774850346" name="modules/org-netbeans-modules-cloud-oracle.jar"/>
+    </module_version>
+</module>

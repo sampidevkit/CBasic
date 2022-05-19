@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.php.codeception">
-    <module_version install_time="1637575297721" last="true" origin="installer" specification_version="0.18">
+    <module_version install_time="1645464043491" last="true" origin="installer" specification_version="0.19">
         <file crc="2261351570" name="config/Modules/org-netbeans-modules-php-codeception.xml"/>
-        <file crc="4261227885" name="modules/org-netbeans-modules-php-codeception.jar"/>
+        <file crc="223409173" name="modules/org-netbeans-modules-php-codeception.jar"/>
     </module_version>
 </module>

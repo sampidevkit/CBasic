@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.maven.spring/1">
-    <module_version install_time="1637575221127" last="true" origin="installer" specification_version="1.43">
+    <module_version install_time="1645463974877" last="true" origin="installer" specification_version="1.44">
         <file crc="2995813157" name="config/Modules/org-netbeans-modules-maven-spring.xml"/>
-        <file crc="386228960" name="modules/org-netbeans-modules-maven-spring.jar"/>
+        <file crc="1328554140" name="modules/org-netbeans-modules-maven-spring.jar"/>
     </module_version>
 </module>

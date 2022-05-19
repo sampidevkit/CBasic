@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.jackson/2">
+    <module_version install_time="1645464127380" last="true" origin="installer" specification_version="2.12.0">
+        <file crc="1884153638" name="config/Modules/org-netbeans-libs-jackson.xml"/>
+        <file crc="1651584476" name="modules/ext/jackson/jackson-annotations-2.12.0.jar"/>
+        <file crc="4194116438" name="modules/ext/jackson/jackson-core-2.12.0.jar"/>
+        <file crc="3066357850" name="modules/ext/jackson/jackson-databind-2.12.0.jar"/>
+        <file crc="702646048" name="modules/ext/jackson/jackson-dataformat-cbor-2.12.0.jar"/>
+        <file crc="3953968108" name="modules/ext/jackson/jackson-datatype-jsr310-2.12.0.jar"/>
+        <file crc="2886359038" name="modules/org-netbeans-libs-jackson.jar"/>
+    </module_version>
+</module>

@@ -74,8 +74,6 @@ From: Apache Software Foundation
     Comment: Only used to extract the WSDL xsd
   - Apache Commons CSV: The Apache Commons CSV library provides a simple interface for reading and writing CSV files of various types. (https://commons.apache.org/proper/commons-csv/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Apache Commons Codec: Provides implementations of common encoders and decoders. (https://commons.apache.org/proper/commons-codec/)
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Apache Commons IO: Assist with developing IO functionality (https://commons.apache.org/proper/commons-io/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Apache Commons: Assist with developing IO functionality (https://commons.apache.org/)
@@ -186,6 +184,8 @@ From: Eclipse
     License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
   - Eclipse Xtend library: Eclipse Xtend library (http://www.eclipse.org/)
     License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
+  - Eclipse Xtend library: Eclipse Xtend library (http://www.eclipse.org/)
+    License: Eclipse Public License v2.0
   - Equinox Registry: TBD
     License: EPL-v10-with-commons
   - Equinox: Eclipse OSGi container (http://www.eclipse.org/equinox/)
@@ -294,8 +294,6 @@ From: GitHub
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - ValidationAPI: Provides utilities for adding input validation to Swing forms quickly and easily (https://github.com/timboudreau/simplevalidation/tree/b26b94cc001a41ab9138496b11e2ae256a159ffd)
     License: CDDL-1.0
-  - jvyamlb: A pure Java YAML 1.1 loader and dumper.
-    License: MIT license jvyamlb variant
   - snakeyaml-engine: YAML 1.2 parser, reader, writer library
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
@@ -394,8 +392,6 @@ From: Google
 From: Gradle Inc.
   - Gradle Wrapper: Gradle Tooling API (https://gradle.org/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Gradle Wrapper: Gradle Wrapper (https://gradle.org/)
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: Hamcrest
   - Hamcrest: Provides a library of matcher objects (http://search.maven.org/#artifactdetails|org.hamcrest|hamcrest-core|1.3|jar)
@@ -470,13 +466,10 @@ From: OW2 Consortium
   - OW2 ASM: Bytecode manipulation library (https://repository.ow2.org/nexus/content/repositories/releases/org/ow2/asm/)
     License: BSD license with INRIA copyright
 
-From: OpenJDK (http://hg.openjdk.java.net/)
-  - Javac Compiler API: Javac Compiler API
-    License: GPL v2 with Classpath exception (http://openjdk.java.net/legal/gplv2+ce.html)
-    Comment: Used at design time to compile against; optional at runtime.
+From: OpenJDK (https://github.com/openjdk/jdk17)
   - Javac Compiler Implementation: Javac Compiler Implementation
     License: GPL v2 with Classpath exception (http://openjdk.java.net/legal/gplv2+ce.html)
-    Comment: Used at compile and design time to compile against; optional at runtime.
+    Comment: The binary has been reviewed to be under the Classpath Exception as a whole. Optional at runtime, but used by default.
 
 From: Oracle
   - Client OSGi Module: Client OSGi Module
@@ -691,9 +684,21 @@ From: http://www2.cs.tum.edu/projects/cup/
   - Java CUP: LALR Parser Generator in Java
     License: JavaCUP
 
+From: https://bitbucket.org/connect2id/nimbus-jose-jwt/src/master/
+  - Nimbus JOSE + JWT: Nimbus JOSE+JWT is an open source (Apache 2.0) Java library that implements the Javascript Object Signing and Encryption (JOSE) spec suite and the closely related JSON Web Token (JWT) spec.
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
 From: https://checkerframework.org
   - Checker Framework qualifiers: Checker Framework qualifiers
     License: MIT-checker
+
+From: https://code.google.com/archive/p/jsr-305
+  - JSR 305: Annotations for Software Defect Detection in Java
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: https://commons.apache.org/proper/commons-codec/
+  - Apache Commons Codec: General encoding/decoding algorithms (for example phonetic, base64, URL).
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: https://commons.apache.org/proper/commons-compress/index.html
   - Commons Compress: The Apache Commons Compress library defines an API for working with ar, cpio, Unix dump, tar, zip, gzip, XZ, Pack200, bzip2, 7z, arj, lzma, snappy, DEFLATE, lz4, Brotli, Zstandard, DEFLATE64 and Z files.
@@ -703,9 +708,17 @@ From: https://commons.apache.org/proper/commons-fileupload/
   - Apache Commons FileUpload: File upload component
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
+From: https://commons.apache.org/proper/commons-lang/
+  - Commons Lang: Provides extra functionality for classes in java.lang.
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
 From: https://github.com/3breadt/dd-plist
   - plist: An open source library to parse and generate property lists
     License: MIT license dd-plist variant
+
+From: https://github.com/FasterXML/jackson
+  - Jackson: Jackson is a high-performance JSON processor for Java.
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: https://github.com/JaroslavTulach/graaljs/commit/e20fe15dc14a42b5246901cefc524235e7b77505
   - Graal.js Parser: An ECMAScript 6 (ECMAScript 2015) compliant parser for JavaScript source code. Based on the parser of Graal.js (https://github.com/graalvm/graaljs).
@@ -737,8 +750,16 @@ From: https://github.com/eclipse-ee4j/glassfish-hk2
   - HK2: A light-weight and dynamic dependency injection framework
     License: Eclipse Public License v2.0
 
+From: https://github.com/eclipse-ee4j/jaf
+  - Jakarta Activation: Jakarta Activation™ is a standard extension to the Java platform that lets you take advantage of standard services to: determine the type of an arbitrary piece of data; encapsulate access to it; discover the operations available on it; and instantiate the appropriate bean to perform the operation(s).
+    License: EDL-1.0-jaf
+
 From: https://github.com/eclipse-ee4j/jaxrs-api
   - Jakarta RESTful Web Services: Jakarta RESTful Web Services provides a specification document, TCK and foundational API to develop web services following the Representational State Transfer (REST) architectural pattern
+    License: Eclipse Public License v2.0
+
+From: https://github.com/eclipse-ee4j/jersey
+  - Jersey: Jersey is a REST framework that provides JAX-RS Reference Implementation and more.
     License: Eclipse Public License v2.0
 
 From: https://github.com/eclipse-ee4j/jpa-api
@@ -772,11 +793,6 @@ From: https://github.com/jprichardson/node-fs-extra
 From: https://github.com/jprichardson/node-jsonfile#readme
   - jsonfile: Easily read/write JSON files.
     License: MIT license for jsonfile
-
-From: https://github.com/jruby/bytelist
-  - Bytelist: The ByteList library from JRuby.
-    License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
-    Comment: This library was wrongly reported in Maven as released under the MIT license. Version 1.0.15 is licensed under the GPL 3, LGPL 3 or EPL 1.0 see: https://github.com/jruby/bytelist/commit/9a0d9de4d21f6fc4342f946166d43cf3bf8b798a or https://github.com/jruby/bytelist/blob/bytelist-1.0.15/src/org/jruby/util/ByteList.java
 
 From: https://github.com/jruby/jcodings
   - jcodings: Java-based codings helper classes for Joni and JRuby
@@ -812,9 +828,17 @@ From: https://github.com/oracle/graal
   - Graal SDK and Truffle API: Graal SDK and Truffle API
     License: UPL
 
+From: https://github.com/oracle/oci-java-sdk
+  - OCI Java SDK: Oracle Cloud Infrastructure SDK for Java
+    License: UPL-Apache-2.0
+
 From: https://github.com/requirejs/requirejs
   - javascript2.editor-requirejs-resources: Testcase for issue #246060
     License: MIT
+
+From: https://github.com/resilience4j/resilience4j
+  - Resilience4j: Resilience4j is a fault tolerance library designed for Java8 and functional programming
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: https://github.com/sindresorhus/crypto-random-string#readme
   - crypto-random-string: Generate a cryptographically strong random string
@@ -847,6 +871,10 @@ From: https://github.com/tj/commander.js#readme
 From: https://github.com/validator/galimatias
   - ISO-RELAX: Relax validation APIs
     License: MIT-galimatias
+
+From: https://github.com/vavr-io/vavr
+  - vʌvr: vʌvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: https://github.com/vsch/flexmark-java
   - FlexMark-java: FlexMark library

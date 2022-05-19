@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.php.smarty">
-    <module_version install_time="1637575345114" last="true" origin="installer" specification_version="1.100">
+    <module_version install_time="1645464089848" last="true" origin="installer" specification_version="1.101">
         <file crc="1597519002" name="config/Modules/org-netbeans-modules-php-smarty.xml"/>
-        <file crc="2826857946" name="modules/org-netbeans-modules-php-smarty.jar"/>
+        <file crc="3140889342" name="modules/org-netbeans-modules-php-smarty.jar"/>
     </module_version>
 </module>

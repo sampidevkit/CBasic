@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.xml.tools/2">
-    <module_version install_time="1637574995117" last="true" origin="installer" specification_version="1.57">
+    <module_version install_time="1645463733512" last="true" origin="installer" specification_version="1.58">
         <file crc="3189568242" name="config/Modules/org-netbeans-modules-xml-tools.xml"/>
-        <file crc="1966948172" name="modules/org-netbeans-modules-xml-tools.jar"/>
+        <file crc="2210310913" name="modules/org-netbeans-modules-xml-tools.jar"/>
     </module_version>
 </module>

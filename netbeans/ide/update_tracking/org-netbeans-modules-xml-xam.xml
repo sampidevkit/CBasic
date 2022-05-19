@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.xml.xam/1">
-    <module_version install_time="1637574984974" last="true" origin="installer" specification_version="1.46.0.1">
+    <module_version install_time="1645463723186" last="true" origin="installer" specification_version="1.47.0.1">
         <file crc="2361317231" name="config/Modules/org-netbeans-modules-xml-xam.xml"/>
-        <file crc="3241572624" name="modules/org-netbeans-modules-xml-xam.jar"/>
+        <file crc="4040902165" name="modules/org-netbeans-modules-xml-xam.jar"/>
     </module_version>
 </module>

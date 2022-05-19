@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.cnd.remote.projectui">
-    <module_version install_time="1632624995760" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.16.11.1">
+    <module_version install_time="1652111054413" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.16.11.1">
         <file crc="3066926397" name="config/Modules/org-netbeans-modules-cnd-remote-projectui.xml"/>
         <file crc="1995088162" name="modules/locale/org-netbeans-modules-cnd-remote-projectui_ja.jar"/>
         <file crc="3660017269" name="modules/locale/org-netbeans-modules-cnd-remote-projectui_pt_BR.jar"/>

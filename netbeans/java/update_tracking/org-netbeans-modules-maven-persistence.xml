@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.maven.persistence/1">
-    <module_version install_time="1637575219070" last="true" origin="installer" specification_version="1.43">
+    <module_version install_time="1645463972838" last="true" origin="installer" specification_version="1.44">
         <file crc="1874365929" name="config/Modules/org-netbeans-modules-maven-persistence.xml"/>
-        <file crc="3696552479" name="modules/org-netbeans-modules-maven-persistence.jar"/>
+        <file crc="520159306" name="modules/org-netbeans-modules-maven-persistence.jar"/>
     </module_version>
 </module>

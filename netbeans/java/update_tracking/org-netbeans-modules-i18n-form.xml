@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.i18n.form/2">
-    <module_version install_time="1637575146949" last="true" origin="installer" specification_version="1.64.0.4.1">
+    <module_version install_time="1645463898358" last="true" origin="installer" specification_version="1.65.0.4.1">
         <file crc="2006784106" name="config/Modules/org-netbeans-modules-i18n-form.xml"/>
-        <file crc="904978250" name="modules/org-netbeans-modules-i18n-form.jar"/>
+        <file crc="2696552991" name="modules/org-netbeans-modules-i18n-form.jar"/>
     </module_version>
 </module>

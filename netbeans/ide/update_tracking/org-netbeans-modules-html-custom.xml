@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.html.custom">
-    <module_version install_time="1637574935746" last="true" origin="installer" specification_version="1.20">
+    <module_version install_time="1645463673533" last="true" origin="installer" specification_version="1.21">
         <file crc="1621603481" name="config/Modules/org-netbeans-modules-html-custom.xml"/>
-        <file crc="2614227084" name="modules/org-netbeans-modules-html-custom.jar"/>
+        <file crc="831615872" name="modules/org-netbeans-modules-html-custom.jar"/>
     </module_version>
 </module>

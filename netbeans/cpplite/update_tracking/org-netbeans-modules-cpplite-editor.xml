@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.cpplite.editor">
-    <module_version install_time="1637575568784" last="true" origin="installer" specification_version="1.5">
+    <module_version install_time="1645464305718" last="true" origin="installer" specification_version="1.6">
         <file crc="3587336185" name="config/Modules/org-netbeans-modules-cpplite-editor.xml"/>
-        <file crc="315726561" name="modules/org-netbeans-modules-cpplite-editor.jar"/>
+        <file crc="2927627202" name="modules/org-netbeans-modules-cpplite-editor.jar"/>
     </module_version>
 </module>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.editor.lib/1">
-    <module_version install_time="1637575172644" last="true" origin="installer" specification_version="1.49.0.12">
+    <module_version install_time="1645463924623" last="true" origin="installer" specification_version="1.49.0.12">
         <file crc="2942473178" name="config/Modules/org-netbeans-modules-java-editor-lib.xml"/>
-        <file crc="3772116869" name="modules/org-netbeans-modules-java-editor-lib.jar"/>
+        <file crc="555607418" name="modules/org-netbeans-modules-java-editor-lib.jar"/>
     </module_version>
 </module>

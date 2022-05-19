@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.web.freeform">
-    <module_version install_time="1637575530192" last="true" origin="installer" specification_version="1.46">
+    <module_version install_time="1645464269672" last="true" origin="installer" specification_version="1.47">
         <file crc="1020096217" name="config/Modules/org-netbeans-modules-web-freeform.xml"/>
-        <file crc="3088577327" name="modules/org-netbeans-modules-web-freeform.jar"/>
+        <file crc="2820642922" name="modules/org-netbeans-modules-web-freeform.jar"/>
     </module_version>
 </module>

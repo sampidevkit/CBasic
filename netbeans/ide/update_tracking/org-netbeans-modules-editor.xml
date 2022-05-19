@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.editor/3">
-    <module_version install_time="1637574850175" last="true" origin="installer" specification_version="1.101.0.6.3.23.55">
+    <module_version install_time="1645463584944" last="true" origin="installer" specification_version="1.102.0.6.3.23.55">
         <file crc="3429890723" name="config/ModuleAutoDeps/org-netbeans-modules-editor.xml"/>
         <file crc="2401213403" name="config/Modules/org-netbeans-modules-editor.xml"/>
-        <file crc="2475854796" name="modules/org-netbeans-modules-editor.jar"/>
+        <file crc="2063926841" name="modules/org-netbeans-modules-editor.jar"/>
     </module_version>
 </module>

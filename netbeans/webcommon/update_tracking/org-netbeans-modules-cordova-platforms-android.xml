@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.cordova.platforms.android">
-    <module_version install_time="1637575030612" last="true" origin="installer" specification_version="1.40">
+    <module_version install_time="1645463767119" last="true" origin="installer" specification_version="1.41">
         <file crc="3088425158" name="config/Modules/org-netbeans-modules-cordova-platforms-android.xml"/>
-        <file crc="2949077147" name="modules/org-netbeans-modules-cordova-platforms-android.jar"/>
+        <file crc="3009427172" name="modules/org-netbeans-modules-cordova-platforms-android.jar"/>
     </module_version>
 </module>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javascript2.source.query/0">
-    <module_version install_time="1637575058015" last="true" origin="installer" specification_version="0.13">
+    <module_version install_time="1645463797811" last="true" origin="installer" specification_version="0.14">
         <file crc="1071991252" name="config/Modules/org-netbeans-modules-javascript2-source-query.xml"/>
-        <file crc="1991104057" name="modules/org-netbeans-modules-javascript2-source-query.jar"/>
+        <file crc="523817196" name="modules/org-netbeans-modules-javascript2-source-query.jar"/>
     </module_version>
 </module>

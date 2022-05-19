@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.profiler.ppoints">
-    <module_version install_time="1637575253702" last="true" origin="installer" specification_version="1.38">
+    <module_version install_time="1645464006622" last="true" origin="installer" specification_version="1.39">
         <file crc="653708770" name="config/Modules/org-netbeans-modules-profiler-ppoints.xml"/>
-        <file crc="3117470004" name="modules/org-netbeans-modules-profiler-ppoints.jar"/>
+        <file crc="591058636" name="modules/org-netbeans-modules-profiler-ppoints.jar"/>
     </module_version>
 </module>

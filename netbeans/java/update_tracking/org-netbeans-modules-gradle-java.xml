@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.gradle.java">
-    <module_version install_time="1637575136331" last="true" origin="installer" specification_version="1.15">
+    <module_version install_time="1645463886681" last="true" origin="installer" specification_version="1.16">
         <file crc="4239814987" name="config/Modules/org-netbeans-modules-gradle-java.xml"/>
-        <file crc="2062554365" name="modules/org-netbeans-modules-gradle-java.jar"/>
+        <file crc="70239662" name="modules/org-netbeans-modules-gradle-java.jar"/>
     </module_version>
 </module>

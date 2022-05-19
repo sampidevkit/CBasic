@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.ide.ergonomics">
-    <module_version install_time="1637575583758" last="true" origin="installer" specification_version="1.41">
+    <module_version install_time="1645464319376" last="true" origin="installer" specification_version="1.42">
         <file crc="3535844926" name="config/Modules/org-apache-tools-ant-module.xml"/>
         <file crc="2213752857" name="config/Modules/org-netbeans-libs-jstl.xml"/>
+        <file crc="2732633383" name="config/Modules/org-netbeans-libs-nbjavacapi.xml"/>
         <file crc="1617045149" name="config/Modules/org-netbeans-modules-ant-browsetask.xml"/>
         <file crc="2926265228" name="config/Modules/org-netbeans-modules-ant-debugger.xml"/>
         <file crc="430181907" name="config/Modules/org-netbeans-modules-ant-freeform.xml"/>
@@ -14,6 +15,7 @@
         <file crc="1111875098" name="config/Modules/org-netbeans-modules-beans.xml"/>
         <file crc="1037246612" name="config/Modules/org-netbeans-modules-cloud-amazon.xml"/>
         <file crc="3351132391" name="config/Modules/org-netbeans-modules-cloud-common.xml"/>
+        <file crc="3174504937" name="config/Modules/org-netbeans-modules-cloud-oracle.xml"/>
         <file crc="597360658" name="config/Modules/org-netbeans-modules-cordova-platforms-android.xml"/>
         <file crc="4181476702" name="config/Modules/org-netbeans-modules-cordova.xml"/>
         <file crc="3189732143" name="config/Modules/org-netbeans-modules-cpplite-debugger.xml"/>
@@ -28,7 +30,6 @@
         <file crc="3079232482" name="config/Modules/org-netbeans-modules-debugger-jpda-ui.xml"/>
         <file crc="3317478268" name="config/Modules/org-netbeans-modules-debugger-jpda-visual.xml"/>
         <file crc="1302221290" name="config/Modules/org-netbeans-modules-extbrowser-chrome.xml"/>
-        <file crc="299874807" name="config/Modules/org-netbeans-modules-findbugs-installer.xml"/>
         <file crc="4231171412" name="config/Modules/org-netbeans-modules-form-kit.xml"/>
         <file crc="2149447945" name="config/Modules/org-netbeans-modules-form.xml"/>
         <file crc="3301232498" name="config/Modules/org-netbeans-modules-glassfish-common.xml"/>
@@ -241,6 +242,6 @@
         <file crc="1012668242" name="config/Modules/org-netbeans-modules-websvc-wsstackapi.xml"/>
         <file crc="2487084630" name="config/Modules/org-netbeans-modules-xml-jaxb.xml"/>
         <file crc="769021491" name="config/Modules/org-netbeans-modules-xml-tools-java.xml"/>
-        <file crc="297145149" name="modules/org-netbeans-modules-ide-ergonomics.jar"/>
+        <file crc="2620003271" name="modules/org-netbeans-modules-ide-ergonomics.jar"/>
     </module_version>
 </module>

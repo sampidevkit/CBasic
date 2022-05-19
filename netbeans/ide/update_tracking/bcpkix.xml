@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="bcpkix">
+    <module_version install_time="1645463572811" last="true" origin="installer" specification_version="1.68">
+        <file crc="1238390709" name="config/Modules/bcpkix.xml"/>
+        <file crc="3345774576" name="modules/bcpkix.jar"/>
+    </module_version>
+</module>
