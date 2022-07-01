@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.testrunner.ant">
-    <module_version install_time="1645463958551" last="true" origin="installer" specification_version="1.17">
+    <module_version install_time="1654092461213" last="true" origin="installer" specification_version="1.18">
         <file crc="2757294080" name="config/Modules/org-netbeans-modules-java-testrunner-ant.xml"/>
-        <file crc="3225723266" name="modules/org-netbeans-modules-java-testrunner-ant.jar"/>
+        <file crc="1000271295" name="modules/org-netbeans-modules-java-testrunner-ant.jar"/>
     </module_version>
 </module>

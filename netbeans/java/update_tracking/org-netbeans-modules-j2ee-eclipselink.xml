@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.j2ee.eclipselink/1">
-    <module_version install_time="1645463902954" last="true" origin="installer" specification_version="1.47">
+    <module_version install_time="1654092391057" last="true" origin="installer" specification_version="1.48">
         <file crc="51242465" name="config/Modules/org-netbeans-modules-j2ee-eclipselink.xml"/>
-        <file crc="3915281825" name="modules/ext/docs/javax.persistence-2.2.1-doc.zip"/>
-        <file crc="4050488544" name="modules/ext/eclipselink/javax.persistence-2.2.1.jar"/>
-        <file crc="2327946540" name="modules/ext/eclipselink/org.eclipse.persistence.antlr-2.7.9.jar"/>
-        <file crc="1395970397" name="modules/ext/eclipselink/org.eclipse.persistence.asm-9.1.0.jar"/>
-        <file crc="446194900" name="modules/ext/eclipselink/org.eclipse.persistence.core-2.7.9.jar"/>
-        <file crc="2566352598" name="modules/ext/eclipselink/org.eclipse.persistence.jpa-2.7.9.jar"/>
-        <file crc="1013578665" name="modules/ext/eclipselink/org.eclipse.persistence.jpa.jpql-2.7.9.jar"/>
-        <file crc="1817398809" name="modules/ext/eclipselink/org.eclipse.persistence.moxy-2.7.9.jar"/>
-        <file crc="3280809651" name="modules/org-netbeans-modules-j2ee-eclipselink.jar"/>
+        <file crc="1567657223" name="modules/ext/docs/jakarta.persistence-2.2.3-doc.zip"/>
+        <file crc="1983650243" name="modules/ext/eclipselink/jakarta.persistence-2.2.3.jar"/>
+        <file crc="2327946540" name="modules/ext/eclipselink/org.eclipse.persistence.antlr-2.7.10.jar"/>
+        <file crc="3903842509" name="modules/ext/eclipselink/org.eclipse.persistence.asm-9.2.0.jar"/>
+        <file crc="3972009155" name="modules/ext/eclipselink/org.eclipse.persistence.core-2.7.10.jar"/>
+        <file crc="2438596363" name="modules/ext/eclipselink/org.eclipse.persistence.jpa-2.7.10.jar"/>
+        <file crc="1209195154" name="modules/ext/eclipselink/org.eclipse.persistence.jpa.jpql-2.7.10.jar"/>
+        <file crc="4151773035" name="modules/ext/eclipselink/org.eclipse.persistence.moxy-2.7.10.jar"/>
+        <file crc="3444657340" name="modules/org-netbeans-modules-j2ee-eclipselink.jar"/>
     </module_version>
 </module>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.web.common">
-    <module_version install_time="1645463604702" last="true" origin="installer" specification_version="1.114">
+    <module_version install_time="1654091989141" last="true" origin="installer" specification_version="1.115">
         <file crc="842111795" name="config/Modules/org-netbeans-modules-web-common.xml"/>
-        <file crc="1774920050" name="modules/org-netbeans-modules-web-common.jar"/>
+        <file crc="3968241331" name="modules/org-netbeans-modules-web-common.jar"/>
     </module_version>
 </module>

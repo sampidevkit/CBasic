@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.groovy.kit">
-    <module_version install_time="1645464301544" last="true" origin="installer" specification_version="1.47">
+    <module_version install_time="1654092947683" last="true" origin="installer" specification_version="1.48">
         <file crc="4152501401" name="VERSION.txt"/>
         <file crc="3005287587" name="config/Modules/org-netbeans-modules-groovy-kit.xml"/>
-        <file crc="4243595251" name="modules/org-netbeans-modules-groovy-kit.jar"/>
+        <file crc="3258617427" name="modules/org-netbeans-modules-groovy-kit.jar"/>
     </module_version>
 </module>

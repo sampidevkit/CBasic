@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.tomcat5/1">
-    <module_version install_time="1645464247601" last="true" origin="installer" specification_version="1.57">
+    <module_version install_time="1654092876846" last="true" origin="installer" specification_version="1.58">
         <file crc="337604134" name="config/Modules/org-netbeans-modules-tomcat5.xml"/>
-        <file crc="1816648993" name="modules/org-netbeans-modules-tomcat5.jar"/>
+        <file crc="1896994213" name="modules/org-netbeans-modules-tomcat5.jar"/>
     </module_version>
 </module>

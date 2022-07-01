@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.languages.ini">
-    <module_version install_time="1645463798583" last="true" origin="installer" specification_version="1.40">
+    <module_version install_time="1654092260962" last="true" origin="installer" specification_version="1.41">
         <file crc="1062604807" name="config/Modules/org-netbeans-modules-languages-ini.xml"/>
-        <file crc="2491031622" name="modules/org-netbeans-modules-languages-ini.jar"/>
+        <file crc="1015148258" name="modules/org-netbeans-modules-languages-ini.jar"/>
     </module_version>
 </module>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.jumpto/1">
-    <module_version install_time="1645463609980" last="true" origin="installer" specification_version="1.70.0.1">
+    <module_version install_time="1654091996492" last="true" origin="installer" specification_version="1.71.0.1">
         <file crc="771737990" name="config/Modules/org-netbeans-modules-jumpto.xml"/>
-        <file crc="3965205279" name="modules/org-netbeans-modules-jumpto.jar"/>
+        <file crc="3390154259" name="modules/org-netbeans-modules-jumpto.jar"/>
     </module_version>
 </module>

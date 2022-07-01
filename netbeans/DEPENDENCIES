@@ -13,7 +13,7 @@ From: Amazon Web Services
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: Antlr
-  - Antlr: ANother Tool for Language Recognition, is a language tool that provides a framework for constructing recognizers, interpreters, compilers, and translators from grammatical descriptions. (http://www.antlr.org)
+  - Antlr: ANother Tool for Language Recognition, is a language tool that provides a framework for constructing recognizers, interpreters, compilers, and translators from grammatical descriptions. (http://www.antlr3.org)
     License: BSD-like Antlr Runtime 3 license
   - Antlr: ANother Tool for Language Recognition, is a language tool that provides a framework for constructing recognizers, interpreters, compilers, and translators from grammatical descriptions. (https://www.antlr.org)
     License: BSD-like Antlr Runtime 4 license
@@ -92,7 +92,7 @@ From: Apache Software Foundation
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Apache Lucene: Java-based indexing and search technology (https://lucene.apache.org/core/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt) with Apache Lucene addendums
-  - Apache Maven Distribution: Apache Maven Distribution (http://maven.apache.org/)
+  - Apache Maven Distribution: Apache Maven Distribution (https://maven.apache.org/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Apache WS Common Utilities: High performance XML processing based on SAX (http://ws.apache.org/commons/util/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
@@ -211,7 +211,17 @@ From: Eclipse
   - org.eclipse.mylyn.wikitext.markdown.core: Support for the Markdown wiki style (http://www.eclipse.org/mylyn/)
     License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
 
+From: Eclipse EE4J
+  - JAX-WS: Eclipse Implementation of Jakarta XML Web Services (https://github.com/eclipse-ee4j/metro-jax-ws)
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - JAX-WS: Eclipse Implementation of Jakarta XML Web Services (https://github.com/eclipse-ee4j/metro-jax-ws)
+    License: EDL-1.0
+  - JAX-WS: Eclipse Implementation of Jakarta XML Web Services (https://github.com/eclipse-ee4j/metro-jax-ws)
+    License: Eclipse Public License v2.0
+
 From: Eclipse Foundation
+  - JAX-WS API: Jakarta XML Web Services (https://projects.eclipse.org/projects/ee4j.jaxws)
+    License: EDL-1.0
   - JAXB: Jakarta XML Binding API (https://projects.eclipse.org/projects/ee4j.jaxb-impl)
     License: EDL-1.0
   - Jakarta Activation: Jakarta Activation (https://eclipse-ee4j.github.io/jaf/)
@@ -256,6 +266,8 @@ From: FasterXML
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Jackson-dataformat-CBOR: Support for reading and writing Concise Binary Object Representation ([CBOR](https://www.rfc-editor.org/info/rfc7049) encoded data using Jackson abstractions (streaming API, data binding, tree model) (http://wiki.fasterxml.com/JacksonForCbor)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Stax2 API: Extension API for Stax, Java pull-parsing API (STreaming Api for Xml) (https://github.com/FasterXML/stax2-api)
+    License: BSD-stax2-api
 
 From: FormDev Software GmbH.
   - FlatLaf Look and Feel: FlatLaf Look and Feel (https://www.formdev.com/flatlaf/)
@@ -398,9 +410,7 @@ From: Hamcrest
     License: BSD license with hamcrest copyright
 
 From: JCraft Inc.
-  - JSch-agent-proxy: A proxy to ssh-agent and Pageant in Java (http://www.jcraft.com/jsch-agent-proxy/LICENSE.txt)
-    License: BSD-like JSch license
-  - JSch: Java implementation of SSH2 (http://www.jcraft.com/jsch/)
+  - JSch: Java implementation of SSH2 (https://github.com/mwiede/jsch/tree/jsch-0.1.72)
     License: BSD-like JSch license
 
 From: JCraft, Inc.
@@ -466,10 +476,10 @@ From: OW2 Consortium
   - OW2 ASM: Bytecode manipulation library (https://repository.ow2.org/nexus/content/repositories/releases/org/ow2/asm/)
     License: BSD license with INRIA copyright
 
-From: OpenJDK (https://github.com/openjdk/jdk17)
+From: OpenJDK (https://github.com/openjdk/jdk18)
   - Javac Compiler Implementation: Javac Compiler Implementation
     License: GPL v2 with Classpath exception (http://openjdk.java.net/legal/gplv2+ce.html)
-    Comment: The binary has been reviewed to be under the Classpath Exception as a whole. Optional at runtime, but used by default.
+    Comment: Used at compile and design time to compile against; optional at runtime.
 
 From: Oracle
   - Client OSGi Module: Client OSGi Module
@@ -477,14 +487,6 @@ From: Oracle
   - Common Utilities: Common Utilities
     License: CDDL-1.1
   - Expression Language: Expression Language 2.2.6 Implementation
-    License: CDDL-1.1
-  - JAX-WS: JAX-WS Reference Implementation (http://jax-ws.java.net/)
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - JAX-WS: JAX-WS Reference Implementation (http://jax-ws.java.net/)
-    License: BSD-woodstox
-  - JAX-WS: JAX-WS Reference Implementation (http://jax-ws.java.net/)
-    License: CDDL-1.0
-  - JAX-WS: JAX-WS Reference Implementation (http://jax-ws.java.net/)
     License: CDDL-1.1
   - JAXB: JAXB Reference Implementation (https://github.com/javaee/jaxb-v2)
     License: CDDL-1.1
@@ -590,10 +592,6 @@ From: http://cglib.sourceforge.net/
   - Code Generation Library: Library for extending JAVA classes and implementing interfaces at runtime.
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
-From: http://commons.apache.org/net/
-  - Commons Net: Apache Commons Net implements the client side of many basic Internet protocols.
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-
 From: http://ecma-international.org/ecma-262/5.1/
   - js-corestubs: Documentation for JavaScript libraries processed into JavaScript stub libraries for use from code completion etc. This can be generated by the javascript.generatestubs2 project in the main/misc repository.
     License: BSD license with Ecma International copyright
@@ -605,12 +603,6 @@ From: http://groovy-lang.org/
 
 From: http://hc.apache.org/
   - Apache Commons HttpClient: HTTP client
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Apache HttpClient: HTTP client
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Apache HttpComponents Core HTTP/1.1: HTTP client
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Apache HttpComponents Core HTTP/2: HTTP client
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: http://ini4j.sourceforge.net/
@@ -663,6 +655,8 @@ From: http://www.antlr2.org/
 From: http://www.eclipse.org/eclipselink/
   - EclipseLink: The Eclipse Persistence Services Project ( EclipseLink) project.
     License: Eclipse Public License v1, eclipselink variant
+  - EclipseLink: The Eclipse Persistence Services Project (EclipseLink) project.
+    License: Eclipse Public License v1, eclipselink variant
 
 From: http://www.jdom.org/dist/binary/jdom-1.0.tar.gz
   - JDOM: Java API for XML manipulation.
@@ -712,6 +706,10 @@ From: https://commons.apache.org/proper/commons-lang/
   - Commons Lang: Provides extra functionality for classes in java.lang.
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
+From: https://commons.apache.org/proper/commons-net/index.html
+  - Commons Net: Apache Commons Net implements the client side of many basic Internet protocols.
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
 From: https://github.com/3breadt/dd-plist
   - plist: An open source library to parse and generate property lists
     License: MIT license dd-plist variant
@@ -720,9 +718,9 @@ From: https://github.com/FasterXML/jackson
   - Jackson: Jackson is a high-performance JSON processor for Java.
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
-From: https://github.com/JaroslavTulach/graaljs/commit/e20fe15dc14a42b5246901cefc524235e7b77505
-  - Graal.js Parser: An ECMAScript 6 (ECMAScript 2015) compliant parser for JavaScript source code. Based on the parser of Graal.js (https://github.com/graalvm/graaljs).
-    License: UPL
+From: https://github.com/HanSolo/jdktools
+  - JDKTools: Collection of classes for working with OpenJDK related things.
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: https://github.com/Microsoft/vscode-languageserver-node#readme
   - vscode-jsonrpc: A json rpc implementation over streams
@@ -770,9 +768,9 @@ From: https://github.com/eclipse/tm4e
   - TextMate support for Eclipse: Used to interpret TextMate grammars
     License: Eclipse Public License v2.0
 
-From: https://github.com/foojay2020/discoclient
-  - DiscoClient: A Java library that makes it easier to access the foojay discovery API
-    License: BSD-azul
+From: https://github.com/foojayio/discoclient
+  - DiscoClient: Library to access the Foojay.io Discovery API service.
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: https://github.com/google/guava
   - Guava: Guava is a set of core libraries that includes new collection types (such as multimap and multiset), immutable collections, a graph library, and utilities for concurrency, I/O, hashing, primitives, strings, and more.
@@ -814,6 +812,10 @@ From: https://github.com/kohsuke/winp
 From: https://github.com/mathisonian/command-exists
   - command-exists: check whether a command line command exists in the current environment
     License: MIT license for command-exists
+
+From: https://github.com/matthiasblaesing/graaljs-nb
+  - Graal.js Parser: An ECMAScript 13 (ECMAScript 2022) compatible parser for JavaScript source code. Based on the parser of Graal.js (https://github.com/graalvm/graaljs).
+    License: UPL
 
 From: https://github.com/matthiasblaesing/netbeans-processtreekiller
   - NetBeans processtreekiller: Library allowing to kill external process trees.
@@ -911,6 +913,8 @@ From: https://secure.php.net/manual/en/
     License: CC-BY-3.0
 
 From: https://www.bouncycastle.org/latest_releases.html
+  - Bouncy Castle ASN.1 Extension and Utility APIs: Legion of the Bouncy Castle Java cryptography APIs
+    License: MIT-bouncycastle
   - Bouncy Castle Java OpenPGP/BCPG: Legion of the Bouncy Castle Java cryptography APIs
     License: MIT-bouncycastle
   - Bouncy Castle Java Provider: Legion of the Bouncy Castle Java cryptography APIs

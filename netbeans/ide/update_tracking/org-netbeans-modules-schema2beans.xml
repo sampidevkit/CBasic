@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.schema2beans/1">
-    <module_version install_time="1645463708723" last="true" origin="installer" specification_version="1.62">
+    <module_version install_time="1654092143230" last="true" origin="installer" specification_version="1.63">
         <file crc="3280133545" name="config/Modules/org-netbeans-modules-schema2beans.xml"/>
-        <file crc="3896077378" name="modules/org-netbeans-modules-schema2beans.jar"/>
+        <file crc="515839719" name="modules/org-netbeans-modules-schema2beans.jar"/>
     </module_version>
 </module>

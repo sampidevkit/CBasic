@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.maven.indexer.ui/2">
-    <module_version install_time="1645463835410" last="true" origin="installer" specification_version="2.49">
+    <module_version install_time="1654092308000" last="true" origin="installer" specification_version="2.50">
         <file crc="3537569385" name="config/Modules/org-netbeans-modules-maven-indexer-ui.xml"/>
-        <file crc="2406989848" name="modules/org-netbeans-modules-maven-indexer-ui.jar"/>
+        <file crc="665672951" name="modules/org-netbeans-modules-maven-indexer-ui.jar"/>
     </module_version>
 </module>

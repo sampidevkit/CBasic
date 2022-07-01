@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.debugger.jpda.truffle/1">
-    <module_version install_time="1645463873780" last="true" origin="installer" specification_version="1.12">
+    <module_version install_time="1654092350037" last="true" origin="installer" specification_version="1.13">
         <file crc="2377250776" name="config/Modules/org-netbeans-modules-debugger-jpda-truffle.xml"/>
-        <file crc="3779027150" name="modules/org-netbeans-modules-debugger-jpda-truffle.jar"/>
+        <file crc="1647954036" name="modules/org-netbeans-modules-debugger-jpda-truffle.jar"/>
     </module_version>
 </module>

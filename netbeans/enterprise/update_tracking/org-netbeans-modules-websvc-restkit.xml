@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.websvc.restkit/0">
-    <module_version install_time="1645464293209" last="true" origin="installer" specification_version="1.39">
+    <module_version install_time="1654092936160" last="true" origin="installer" specification_version="1.40">
         <file crc="2448436181" name="config/Modules/org-netbeans-modules-websvc-restkit.xml"/>
-        <file crc="1837099927" name="modules/org-netbeans-modules-websvc-restkit.jar"/>
+        <file crc="2112684488" name="modules/org-netbeans-modules-websvc-restkit.jar"/>
     </module_version>
 </module>

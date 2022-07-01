@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.editor.tools.storage">
-    <module_version install_time="1645463664075" last="true" origin="installer" specification_version="1.23">
+    <module_version install_time="1654092068391" last="true" origin="installer" specification_version="1.24">
         <file crc="864286405" name="config/Modules/org-netbeans-modules-editor-tools-storage.xml"/>
-        <file crc="3099583323" name="modules/org-netbeans-modules-editor-tools-storage.jar"/>
+        <file crc="3245614971" name="modules/org-netbeans-modules-editor-tools-storage.jar"/>
     </module_version>
 </module>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.jna.platform/2">
-    <module_version install_time="1645463541550" last="true" origin="installer" specification_version="2.10">
+    <module_version install_time="1654091895090" last="true" origin="installer" specification_version="2.11">
         <file crc="2225677004" name="config/Modules/org-netbeans-libs-jna-platform.xml"/>
         <file crc="1001657413" name="modules/ext/jna-platform-5.9.0.jar"/>
-        <file crc="112163982" name="modules/org-netbeans-libs-jna-platform.jar"/>
+        <file crc="2107649075" name="modules/org-netbeans-libs-jna-platform.jar"/>
     </module_version>
 </module>

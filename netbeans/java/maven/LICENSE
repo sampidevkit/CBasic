@@ -335,14 +335,6 @@ subject to the terms and conditions of the following licenses:
 
 
 
-- lib/jsoup-1.12.1.jar: org.jsoup:jsoup:jar:1.12.1
-    Project: jsoup Java HTML Parser
-    Project URL: https://jsoup.org/
-    License: The MIT License (MIT)
-    License URL: https://jsoup.org/license (lib/jsoup.license)
-
-
-
 - lib/jcl-over-slf4j-1.7.32.jar: org.slf4j:jcl-over-slf4j:jar:1.7.32
     Project: JCL 1.2 implemented over SLF4J
     Project URL: http://www.slf4j.org

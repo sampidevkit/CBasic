@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.editor.settings/1">
-    <module_version install_time="1645463576273" last="true" origin="installer" specification_version="1.72">
+    <module_version install_time="1654091946931" last="true" origin="installer" specification_version="1.73">
         <file crc="561761059" name="config/Modules/org-netbeans-modules-editor-settings.xml"/>
-        <file crc="3929137738" name="modules/org-netbeans-modules-editor-settings.jar"/>
+        <file crc="918044651" name="modules/org-netbeans-modules-editor-settings.jar"/>
     </module_version>
 </module>

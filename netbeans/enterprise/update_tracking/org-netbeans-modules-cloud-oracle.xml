@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.cloud.oracle">
-    <module_version install_time="1645464134599" last="true" origin="installer" specification_version="1.0">
+    <module_version install_time="1654092718683" last="true" origin="installer" specification_version="1.1">
         <file crc="519643218" name="config/Modules/org-netbeans-modules-cloud-oracle.xml"/>
         <file crc="3479268786" name="modules/ext/jakarta.activation-api-1.2.1.jar"/>
         <file crc="984009030" name="modules/ext/jersey-apache-connector-2.34.jar"/>
@@ -15,6 +15,6 @@
         <file crc="2267090735" name="modules/ext/resilience4j-core-1.2.0.jar"/>
         <file crc="1865122622" name="modules/ext/vavr-0.10.2.jar"/>
         <file crc="1368343068" name="modules/ext/vavr-match-0.10.2.jar"/>
-        <file crc="2774850346" name="modules/org-netbeans-modules-cloud-oracle.jar"/>
+        <file crc="1441870383" name="modules/org-netbeans-modules-cloud-oracle.jar"/>
     </module_version>
 </module>

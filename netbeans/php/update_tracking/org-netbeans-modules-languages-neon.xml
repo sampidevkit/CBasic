@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.languages.neon">
-    <module_version install_time="1645464038635" last="true" origin="installer" specification_version="1.37">
+    <module_version install_time="1654092582198" last="true" origin="installer" specification_version="1.38">
         <file crc="2631534697" name="config/Modules/org-netbeans-modules-languages-neon.xml"/>
-        <file crc="4230187160" name="modules/org-netbeans-modules-languages-neon.jar"/>
+        <file crc="3522727183" name="modules/org-netbeans-modules-languages-neon.jar"/>
     </module_version>
 </module>

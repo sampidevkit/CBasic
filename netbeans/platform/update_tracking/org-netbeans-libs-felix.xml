@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.felix">
-    <module_version install_time="1645463551101" last="true" origin="installer" specification_version="2.30">
+    <module_version install_time="1654091908810" last="true" origin="installer" specification_version="2.31">
         <file crc="1327048437" name="config/Modules/org-netbeans-libs-felix.xml"/>
-        <file crc="3602759613" name="modules/ext/org.apache.felix.main-7.0.0.jar"/>
-        <file crc="2799132774" name="modules/org-netbeans-libs-felix.jar"/>
+        <file crc="1075354588" name="modules/ext/org.apache.felix.main-7.0.3.jar"/>
+        <file crc="4121978393" name="modules/org-netbeans-libs-felix.jar"/>
     </module_version>
 </module>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.updatecenters/1">
-    <module_version install_time="1645464023994" last="true" origin="installer" specification_version="1.55">
+    <module_version install_time="1654092558186" last="true" origin="installer" specification_version="1.56">
         <file crc="2121888661" name="config/Modules/org-netbeans-modules-updatecenters.xml"/>
-        <file crc="2873936242" name="core/ide.ks"/>
-        <file crc="1862592212" name="modules/org-netbeans-modules-updatecenters.jar"/>
+        <file crc="1422022186" name="core/ide.ks"/>
+        <file crc="3484543273" name="modules/org-netbeans-modules-updatecenters.jar"/>
     </module_version>
 </module>

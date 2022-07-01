@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.spi.navigator/1">
-    <module_version install_time="1645463610325" last="true" origin="installer" specification_version="1.53">
+    <module_version install_time="1654091997052" last="true" origin="installer" specification_version="1.54">
         <file crc="489298949" name="config/Modules/org-netbeans-spi-navigator.xml"/>
-        <file crc="1297513783" name="modules/org-netbeans-spi-navigator.jar"/>
+        <file crc="197340247" name="modules/org-netbeans-spi-navigator.jar"/>
     </module_version>
 </module>

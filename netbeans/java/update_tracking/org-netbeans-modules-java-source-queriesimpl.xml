@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.source.queriesimpl">
-    <module_version install_time="1645463958311" last="true" origin="installer" specification_version="1.32">
+    <module_version install_time="1654092460760" last="true" origin="installer" specification_version="1.33">
         <file crc="4262557433" name="config/Modules/org-netbeans-modules-java-source-queriesimpl.xml"/>
-        <file crc="2759675118" name="modules/org-netbeans-modules-java-source-queriesimpl.jar"/>
+        <file crc="3318316046" name="modules/org-netbeans-modules-java-source-queriesimpl.jar"/>
     </module_version>
 </module>

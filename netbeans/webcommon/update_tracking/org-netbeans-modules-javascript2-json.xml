@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javascript2.json">
-    <module_version install_time="1645463768086" last="true" origin="installer" specification_version="1.18">
+    <module_version install_time="1654092222933" last="true" origin="installer" specification_version="1.19">
         <file crc="4109330328" name="config/Modules/org-netbeans-modules-javascript2-json.xml"/>
-        <file crc="4156194848" name="modules/org-netbeans-modules-javascript2-json.jar"/>
+        <file crc="1870295817" name="modules/org-netbeans-modules-javascript2-json.jar"/>
     </module_version>
 </module>

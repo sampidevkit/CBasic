@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.html.indexing">
-    <module_version install_time="1645463625637" last="true" origin="installer" specification_version="1.5">
+    <module_version install_time="1654092017312" last="true" origin="installer" specification_version="1.6">
         <file crc="1970177624" name="config/Modules/org-netbeans-modules-html-indexing.xml"/>
-        <file crc="1350437373" name="modules/org-netbeans-modules-html-indexing.jar"/>
+        <file crc="1972937666" name="modules/org-netbeans-modules-html-indexing.jar"/>
     </module_version>
 </module>

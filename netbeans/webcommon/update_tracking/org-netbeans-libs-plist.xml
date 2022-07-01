@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.plist">
-    <module_version install_time="1645463799622" last="true" origin="installer" specification_version="1.22">
+    <module_version install_time="1654092262553" last="true" origin="installer" specification_version="1.23">
         <file crc="1402663302" name="config/Modules/org-netbeans-libs-plist.xml"/>
         <file crc="43015352" name="modules/ext/dd-plist.jar"/>
-        <file crc="471491568" name="modules/org-netbeans-libs-plist.jar"/>
+        <file crc="4124504249" name="modules/org-netbeans-libs-plist.jar"/>
     </module_version>
 </module>

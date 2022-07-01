@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.spi.quicksearch">
-    <module_version install_time="1645463532110" last="true" origin="installer" specification_version="1.42">
+    <module_version install_time="1654091884125" last="true" origin="installer" specification_version="1.43">
         <file crc="2420451830" name="config/Modules/org-netbeans-spi-quicksearch.xml"/>
-        <file crc="26296620" name="modules/org-netbeans-spi-quicksearch.jar"/>
+        <file crc="1880962660" name="modules/org-netbeans-spi-quicksearch.jar"/>
     </module_version>
 </module>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.languages.apacheconf">
-    <module_version install_time="1645463798219" last="true" origin="installer" specification_version="1.31">
+    <module_version install_time="1654092260394" last="true" origin="installer" specification_version="1.32">
         <file crc="1851082093" name="config/Modules/org-netbeans-modules-languages-apacheconf.xml"/>
-        <file crc="2703051587" name="modules/org-netbeans-modules-languages-apacheconf.jar"/>
+        <file crc="751382395" name="modules/org-netbeans-modules-languages-apacheconf.jar"/>
     </module_version>
 </module>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.spellchecker.bindings.php">
-    <module_version install_time="1645464094737" last="true" origin="installer" specification_version="0.15">
+    <module_version install_time="1654092663481" last="true" origin="installer" specification_version="0.16">
         <file crc="235442405" name="config/Modules/org-netbeans-modules-spellchecker-bindings-php.xml"/>
-        <file crc="4178449635" name="modules/org-netbeans-modules-spellchecker-bindings-php.jar"/>
+        <file crc="1476017636" name="modules/org-netbeans-modules-spellchecker-bindings-php.jar"/>
     </module_version>
 </module>

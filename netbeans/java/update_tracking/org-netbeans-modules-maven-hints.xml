@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.maven.hints/1">
-    <module_version install_time="1645463970799" last="true" origin="installer" specification_version="1.55">
+    <module_version install_time="1654092479174" last="true" origin="installer" specification_version="1.56">
         <file crc="2933392708" name="config/Modules/org-netbeans-modules-maven-hints.xml"/>
-        <file crc="3614790058" name="modules/org-netbeans-modules-maven-hints.jar"/>
+        <file crc="1235970422" name="modules/org-netbeans-modules-maven-hints.jar"/>
     </module_version>
 </module>

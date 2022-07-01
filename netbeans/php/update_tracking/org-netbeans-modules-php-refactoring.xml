@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.php.refactoring">
-    <module_version install_time="1645464088379" last="true" origin="installer" specification_version="1.46">
+    <module_version install_time="1654092654181" last="true" origin="installer" specification_version="1.47">
         <file crc="2570953812" name="config/Modules/org-netbeans-modules-php-refactoring.xml"/>
-        <file crc="2070014459" name="modules/org-netbeans-modules-php-refactoring.jar"/>
+        <file crc="2597793685" name="modules/org-netbeans-modules-php-refactoring.jar"/>
     </module_version>
 </module>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.web.clientproject.api">
-    <module_version install_time="1645463765302" last="true" origin="installer" specification_version="1.119">
+    <module_version install_time="1654092218338" last="true" origin="installer" specification_version="1.120">
         <file crc="690252550" name="config/Modules/org-netbeans-modules-web-clientproject-api.xml"/>
-        <file crc="2978990755" name="modules/org-netbeans-modules-web-clientproject-api.jar"/>
+        <file crc="4052581259" name="modules/org-netbeans-modules-web-clientproject-api.jar"/>
     </module_version>
 </module>
