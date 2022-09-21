@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.team.ide">
-    <module_version install_time="1654092156890" last="true" origin="installer" specification_version="1.29">
+    <module_version install_time="1661513659004" last="true" origin="installer" specification_version="1.30">
         <file crc="2935218928" name="config/Modules/org-netbeans-modules-team-ide.xml"/>
-        <file crc="230792581" name="modules/org-netbeans-modules-team-ide.jar"/>
+        <file crc="2777304582" name="modules/org-netbeans-modules-team-ide.jar"/>
     </module_version>
 </module>

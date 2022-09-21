@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.dlight.nativeexecution.nb">
-    <module_version install_time="1654092052849" last="true" origin="installer" specification_version="1.16">
+    <module_version install_time="1661513557107" last="true" origin="installer" specification_version="1.17">
         <file crc="1641420973" name="config/Modules/org-netbeans-modules-dlight-nativeexecution-nb.xml"/>
-        <file crc="1086803377" name="modules/org-netbeans-modules-dlight-nativeexecution-nb.jar"/>
+        <file crc="3344374859" name="modules/org-netbeans-modules-dlight-nativeexecution-nb.jar"/>
     </module_version>
 </module>

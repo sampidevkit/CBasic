@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.xsl/1">
-    <module_version install_time="1654092179575" last="true" origin="installer" specification_version="1.60">
+    <module_version install_time="1661513683326" last="true" origin="installer" specification_version="1.61">
         <file crc="3819907189" name="config/Modules/org-netbeans-modules-xsl.xml"/>
-        <file crc="4174148364" name="modules/org-netbeans-modules-xsl.jar"/>
+        <file crc="2391380853" name="modules/org-netbeans-modules-xsl.jar"/>
     </module_version>
 </module>

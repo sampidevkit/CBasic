@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.versioning.indexingbridge/0">
-    <module_version install_time="1654092160663" last="true" origin="installer" specification_version="1.41">
+    <module_version install_time="1661513663077" last="true" origin="installer" specification_version="1.42">
         <file crc="1602847968" name="config/Modules/org-netbeans-modules-versioning-indexingbridge.xml"/>
-        <file crc="1923757338" name="modules/org-netbeans-modules-versioning-indexingbridge.jar"/>
+        <file crc="1655744186" name="modules/org-netbeans-modules-versioning-indexingbridge.jar"/>
     </module_version>
 </module>

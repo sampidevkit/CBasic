@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.jshell.compile">
-    <module_version install_time="1654092465390" last="true" origin="installer" specification_version="1.22.0.1">
+    <module_version install_time="1661513975302" last="true" origin="installer" specification_version="1.23.0.1">
         <file crc="414093398" name="config/Modules/org-netbeans-libs-jshell-compile.xml"/>
-        <file crc="2474148437" name="modules/org-netbeans-libs-jshell-compile.jar"/>
+        <file crc="1478778578" name="modules/org-netbeans-libs-jshell-compile.jar"/>
     </module_version>
 </module>

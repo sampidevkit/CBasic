@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.ant.hints/1">
-    <module_version install_time="1654092293155" last="true" origin="installer" specification_version="1.10">
+    <module_version install_time="1661513796695" last="true" origin="installer" specification_version="1.11">
         <file crc="2366926685" name="config/Modules/org-netbeans-modules-ant-hints.xml"/>
-        <file crc="1546023358" name="modules/org-netbeans-modules-ant-hints.jar"/>
+        <file crc="3274592436" name="modules/org-netbeans-modules-ant-hints.jar"/>
     </module_version>
 </module>

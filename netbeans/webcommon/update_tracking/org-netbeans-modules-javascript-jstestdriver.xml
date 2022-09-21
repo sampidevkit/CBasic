@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javascript.jstestdriver">
-    <module_version install_time="1654092243892" last="true" origin="installer" specification_version="0.28">
+    <module_version install_time="1661513746250" last="true" origin="installer" specification_version="0.29">
         <file crc="2558934600" name="config/Modules/org-netbeans-modules-javascript-jstestdriver.xml"/>
-        <file crc="212691867" name="modules/org-netbeans-modules-javascript-jstestdriver.jar"/>
+        <file crc="2056219851" name="modules/org-netbeans-modules-javascript-jstestdriver.jar"/>
     </module_version>
 </module>

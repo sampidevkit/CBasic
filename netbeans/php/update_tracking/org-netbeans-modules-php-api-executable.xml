@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.php.api.executable/0">
-    <module_version install_time="1654092580362" last="true" origin="installer" specification_version="0.46">
+    <module_version install_time="1661514090446" last="true" origin="installer" specification_version="0.47">
         <file crc="3286617773" name="config/Modules/org-netbeans-modules-php-api-executable.xml"/>
-        <file crc="2499628539" name="modules/org-netbeans-modules-php-api-executable.jar"/>
+        <file crc="529889564" name="modules/org-netbeans-modules-php-api-executable.jar"/>
     </module_version>
 </module>

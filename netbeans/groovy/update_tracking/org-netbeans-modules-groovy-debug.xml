@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.groovy.debug/1">
+    <module_version install_time="1661514412150" last="true" origin="installer" specification_version="1.0">
+        <file crc="2762123381" name="config/Modules/org-netbeans-modules-groovy-debug.xml"/>
+        <file crc="3514715153" name="modules/org-netbeans-modules-groovy-debug.jar"/>
+    </module_version>
+</module>

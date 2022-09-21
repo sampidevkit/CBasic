@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.db.sql.visualeditor/1">
-    <module_version install_time="1654092032981" last="true" origin="installer" specification_version="2.48.0.30">
+    <module_version install_time="1661513532264" last="true" origin="installer" specification_version="2.49.0.30">
         <file crc="2560499692" name="config/Modules/org-netbeans-modules-db-sql-visualeditor.xml"/>
-        <file crc="306855822" name="modules/org-netbeans-modules-db-sql-visualeditor.jar"/>
+        <file crc="1561070775" name="modules/org-netbeans-modules-db-sql-visualeditor.jar"/>
     </module_version>
 </module>

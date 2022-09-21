@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.timers/1">
-    <module_version install_time="1654092577663" last="true" origin="installer" specification_version="1.47">
+    <module_version install_time="1661514087777" last="true" origin="installer" specification_version="1.48">
         <file crc="2928460058" name="config/Modules/org-netbeans-modules-timers.xml"/>
-        <file crc="3019638058" name="modules/org-netbeans-modules-timers.jar"/>
+        <file crc="368465641" name="modules/org-netbeans-modules-timers.jar"/>
     </module_version>
 </module>

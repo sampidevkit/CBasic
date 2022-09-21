@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.dbapi">
-    <module_version install_time="1654092029554" last="true" origin="installer" specification_version="1.50.0.30">
+    <module_version install_time="1661513528772" last="true" origin="installer" specification_version="1.51.0.30">
         <file crc="3641521545" name="config/Modules/org-netbeans-modules-dbapi.xml"/>
-        <file crc="3137219375" name="modules/org-netbeans-modules-dbapi.jar"/>
+        <file crc="3543449753" name="modules/org-netbeans-modules-dbapi.jar"/>
     </module_version>
 </module>

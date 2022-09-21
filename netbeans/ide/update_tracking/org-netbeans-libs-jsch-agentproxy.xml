@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.jsch.agentproxy/2">
-    <module_version install_time="1654092071074" last="true" origin="installer" specification_version="1.0">
+    <module_version install_time="1661513574077" last="true" origin="installer" specification_version="1.1">
         <file crc="4093348729" name="config/Modules/org-netbeans-libs-jsch-agentproxy.xml"/>
-        <file crc="582362459" name="modules/org-netbeans-libs-jsch-agentproxy.jar"/>
+        <file crc="4138557200" name="modules/org-netbeans-libs-jsch-agentproxy.jar"/>
     </module_version>
 </module>

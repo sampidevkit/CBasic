@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.gsf.codecoverage">
-    <module_version install_time="1654092083612" last="true" origin="installer" specification_version="1.48">
+    <module_version install_time="1661513584744" last="true" origin="installer" specification_version="1.49">
         <file crc="1568665605" name="config/Modules/org-netbeans-modules-gsf-codecoverage.xml"/>
-        <file crc="996846310" name="modules/org-netbeans-modules-gsf-codecoverage.jar"/>
+        <file crc="3349723000" name="modules/org-netbeans-modules-gsf-codecoverage.jar"/>
     </module_version>
 </module>

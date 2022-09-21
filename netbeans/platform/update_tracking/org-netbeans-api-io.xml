@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.api.io">
-    <module_version install_time="1654091853268" last="true" origin="installer" specification_version="1.19">
+    <module_version install_time="1661513337035" last="true" origin="installer" specification_version="1.20">
         <file crc="2603497839" name="config/Modules/org-netbeans-api-io.xml"/>
-        <file crc="917902184" name="modules/org-netbeans-api-io.jar"/>
+        <file crc="2098576591" name="modules/org-netbeans-api-io.jar"/>
     </module_version>
 </module>

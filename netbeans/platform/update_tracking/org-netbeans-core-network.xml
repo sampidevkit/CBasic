@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.core.network">
-    <module_version install_time="1654091898340" last="true" origin="installer" specification_version="1.28">
+    <module_version install_time="1661513389228" last="true" origin="installer" specification_version="1.29">
         <file crc="2799144563" name="config/Modules/org-netbeans-core-network.xml"/>
-        <file crc="2867038503" name="modules/org-netbeans-core-network.jar"/>
+        <file crc="3728844243" name="modules/org-netbeans-core-network.jar"/>
     </module_version>
 </module>

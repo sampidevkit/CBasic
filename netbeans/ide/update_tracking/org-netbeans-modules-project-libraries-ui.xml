@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.project.libraries.ui/1">
-    <module_version install_time="1654092132713" last="true" origin="installer" specification_version="1.68">
+    <module_version install_time="1661513633494" last="true" origin="installer" specification_version="1.69">
         <file crc="782599371" name="config/Modules/org-netbeans-modules-project-libraries-ui.xml"/>
-        <file crc="3780074555" name="modules/org-netbeans-modules-project-libraries-ui.jar"/>
+        <file crc="2582970264" name="modules/org-netbeans-modules-project-libraries-ui.jar"/>
     </module_version>
 </module>

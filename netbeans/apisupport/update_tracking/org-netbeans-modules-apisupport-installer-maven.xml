@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.apisupport.installer.maven">
-    <module_version install_time="1654092571567" last="true" origin="installer" specification_version="1.38">
+    <module_version install_time="1661514081906" last="true" origin="installer" specification_version="1.39">
         <file crc="777682124" name="config/Modules/org-netbeans-modules-apisupport-installer-maven.xml"/>
-        <file crc="1766044892" name="modules/org-netbeans-modules-apisupport-installer-maven.jar"/>
+        <file crc="1636784309" name="modules/org-netbeans-modules-apisupport-installer-maven.jar"/>
     </module_version>
 </module>

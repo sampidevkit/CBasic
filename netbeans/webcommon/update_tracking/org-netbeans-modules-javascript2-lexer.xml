@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javascript2.lexer/1">
-    <module_version install_time="1654092223423" last="true" origin="installer" specification_version="1.22">
+    <module_version install_time="1661513726344" last="true" origin="installer" specification_version="1.23">
         <file crc="868960659" name="config/Modules/org-netbeans-modules-javascript2-lexer.xml"/>
-        <file crc="2529401120" name="modules/org-netbeans-modules-javascript2-lexer.jar"/>
+        <file crc="2093298468" name="modules/org-netbeans-modules-javascript2-lexer.jar"/>
     </module_version>
 </module>

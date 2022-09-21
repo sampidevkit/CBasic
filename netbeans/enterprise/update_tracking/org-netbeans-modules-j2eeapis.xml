@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.j2eeapis/1">
-    <module_version install_time="1654092709909" last="true" origin="installer" specification_version="1.48">
+    <module_version install_time="1661514201786" last="true" origin="installer" specification_version="1.49">
         <file crc="4186342088" name="config/Modules/org-netbeans-modules-j2eeapis.xml"/>
         <file crc="1178542765" name="modules/ext/jsr88javax.jar"/>
-        <file crc="847387228" name="modules/org-netbeans-modules-j2eeapis.jar"/>
+        <file crc="4133570076" name="modules/org-netbeans-modules-j2eeapis.jar"/>
     </module_version>
 </module>

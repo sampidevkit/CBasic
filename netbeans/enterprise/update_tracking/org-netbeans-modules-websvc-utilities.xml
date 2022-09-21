@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.websvc.utilities/0">
-    <module_version install_time="1654092854131" last="true" origin="installer" specification_version="1.41">
+    <module_version install_time="1661514321797" last="true" origin="installer" specification_version="1.42">
         <file crc="3297036041" name="config/Modules/org-netbeans-modules-websvc-utilities.xml"/>
-        <file crc="1978644322" name="modules/org-netbeans-modules-websvc-utilities.jar"/>
+        <file crc="2714249389" name="modules/org-netbeans-modules-websvc-utilities.jar"/>
     </module_version>
 </module>

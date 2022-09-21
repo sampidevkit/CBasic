@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javafx2.scenebuilder">
-    <module_version install_time="1654092505765" last="true" origin="installer" specification_version="1.33">
+    <module_version install_time="1661514018645" last="true" origin="installer" specification_version="1.34">
         <file crc="2477435886" name="config/Modules/org-netbeans-modules-javafx2-scenebuilder.xml"/>
-        <file crc="3055802764" name="modules/org-netbeans-modules-javafx2-scenebuilder.jar"/>
+        <file crc="1140127130" name="modules/org-netbeans-modules-javafx2-scenebuilder.jar"/>
     </module_version>
 </module>

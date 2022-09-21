@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.versioning.system.cvss.installer">
-    <module_version install_time="1654092161459" last="true" origin="installer" specification_version="1.32">
+    <module_version install_time="1661513663976" last="true" origin="installer" specification_version="1.33">
         <file crc="3063872502" name="config/Modules/org-netbeans-modules-versioning-system-cvss-installer.xml"/>
-        <file crc="3182635087" name="modules/org-netbeans-modules-versioning-system-cvss-installer.jar"/>
+        <file crc="92821218" name="modules/org-netbeans-modules-versioning-system-cvss-installer.jar"/>
     </module_version>
 </module>

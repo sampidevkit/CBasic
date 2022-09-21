@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.db.kit">
-    <module_version install_time="1654092029224" last="true" origin="installer" specification_version="1.46">
+    <module_version install_time="1661513528417" last="true" origin="installer" specification_version="1.47">
         <file crc="3756709269" name="config/Modules/org-netbeans-modules-db-kit.xml"/>
-        <file crc="1173522085" name="modules/org-netbeans-modules-db-kit.jar"/>
+        <file crc="3430280923" name="modules/org-netbeans-modules-db-kit.jar"/>
     </module_version>
 </module>

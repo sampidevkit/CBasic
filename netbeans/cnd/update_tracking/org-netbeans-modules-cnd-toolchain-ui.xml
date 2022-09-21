@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.cnd.toolchain.ui">
-    <module_version install_time="1656691479474" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.0.8">
+    <module_version install_time="1663767714415" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.0.8">
         <file crc="2563895052" name="config/Modules/org-netbeans-modules-cnd-toolchain-ui.xml"/>
         <file crc="4140815607" name="modules/locale/org-netbeans-modules-cnd-toolchain-ui_ja.jar"/>
         <file crc="1146230636" name="modules/locale/org-netbeans-modules-cnd-toolchain-ui_pt_BR.jar"/>

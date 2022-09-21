@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="net.java.html.boot.fx">
-    <module_version install_time="1654091903154" last="true" origin="installer" specification_version="1.7.3">
+    <module_version install_time="1661513394463" last="true" origin="installer" specification_version="1.7.3">
         <file crc="421435064" name="config/Modules/net-java-html-boot-fx.xml"/>
         <file crc="2782416461" name="modules/net-java-html-boot-fx.jar"/>
     </module_version>

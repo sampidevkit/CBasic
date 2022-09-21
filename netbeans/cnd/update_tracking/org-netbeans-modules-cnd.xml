@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.cnd/1">
-    <module_version install_time="1656691470678" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.41.7.1">
+    <module_version install_time="1663767712277" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.41.7.1">
         <file crc="1346693608" name="bin/dorun.sh"/>
         <file crc="525386675" name="config/Modules/org-netbeans-modules-cnd.xml"/>
         <file crc="3082764085" name="modules/docs/org-netbeans-modules-cnd.jar"/>

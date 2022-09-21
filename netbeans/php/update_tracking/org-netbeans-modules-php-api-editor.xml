@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.php.api.editor/0">
-    <module_version install_time="1654092583899" last="true" origin="installer" specification_version="0.43">
+    <module_version install_time="1661514093865" last="true" origin="installer" specification_version="0.44">
         <file crc="2175418792" name="config/Modules/org-netbeans-modules-php-api-editor.xml"/>
-        <file crc="1164230991" name="modules/org-netbeans-modules-php-api-editor.jar"/>
+        <file crc="3735191314" name="modules/org-netbeans-modules-php-api-editor.jar"/>
     </module_version>
 </module>

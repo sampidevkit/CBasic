@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.cnd.classview/1">
-    <module_version install_time="1656691512126" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.31.5.1">
+    <module_version install_time="1663767721137" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.31.5.1">
         <file crc="538576181" name="config/Modules/org-netbeans-modules-cnd-classview.xml"/>
         <file crc="3369326715" name="modules/locale/org-netbeans-modules-cnd-classview_ja.jar"/>
         <file crc="3184287947" name="modules/locale/org-netbeans-modules-cnd-classview_pt_BR.jar"/>
