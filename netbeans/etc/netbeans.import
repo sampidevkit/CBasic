@@ -21,6 +21,8 @@ include config/JSPPalette/.*
 #null OptionsExport/Advanced/JavaPlatform
 include config/Services/Platforms/org-netbeans-api-java-Platform/.*\.xml
 exclude config/Services/Platforms/org-netbeans-api-java-Platform/Default_JavaFX_Platform\.xml
+#org.netbeans.swing.laf.flatlaf OptionsExport/Advanced/LookAndFeel
+include config/LookAndFeel/.*
 #org.netbeans.modules.project.libraries OptionsExport/Advanced/ProjectLibraries
 include config/org-netbeans-api-project-libraries/Libraries/.*\.xml|build[.]properties#nbplatform[.].+[.].+|var[.].*
 exclude build[.]properties#nbplatform[.]default[.]netbeans[.]dest[.]dir

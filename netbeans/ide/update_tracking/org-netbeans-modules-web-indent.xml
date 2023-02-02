@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.web.indent">
-    <module_version install_time="1661513506246" last="true" origin="installer" specification_version="1.37">
+    <module_version install_time="1668880815555" last="true" origin="installer" specification_version="1.38">
         <file crc="3344998336" name="config/Modules/org-netbeans-modules-web-indent.xml"/>
-        <file crc="3431402637" name="modules/org-netbeans-modules-web-indent.jar"/>
+        <file crc="2129144822" name="modules/org-netbeans-modules-web-indent.jar"/>
     </module_version>
 </module>

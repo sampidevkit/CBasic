@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.tomlj">
+    <module_version install_time="1668880894928" last="true" origin="installer" specification_version="1.0.0.0">
+        <file crc="4289381192" name="config/Modules/org-netbeans-libs-tomlj.xml"/>
+        <file crc="2565167518" name="modules/ext/tomlj.jar"/>
+        <file crc="1494328619" name="modules/org-netbeans-libs-tomlj.jar"/>
+    </module_version>
+</module>

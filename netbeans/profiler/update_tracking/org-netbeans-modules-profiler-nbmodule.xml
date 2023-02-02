@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.profiler.nbmodule/1">
-    <module_version install_time="1661514048491" last="true" origin="installer" specification_version="1.52">
+    <module_version install_time="1668881251689" last="true" origin="installer" specification_version="1.53">
         <file crc="1818824590" name="config/Modules/org-netbeans-modules-profiler-nbmodule.xml"/>
-        <file crc="477509168" name="modules/org-netbeans-modules-profiler-nbmodule.jar"/>
+        <file crc="714154253" name="modules/org-netbeans-modules-profiler-nbmodule.jar"/>
     </module_version>
 </module>

@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.dlight.nativeexecution">
-    <module_version install_time="1661513556245" last="true" origin="installer" specification_version="1.56.0.1">
+    <module_version install_time="1668880854001" last="true" origin="installer" specification_version="1.57.0.1">
+        <file crc="3089438335" name="bin/nativeexecution/Linux-aarch64/killall"/>
+        <file crc="912295131" name="bin/nativeexecution/Linux-aarch64/process_start"/>
+        <file crc="3584150013" name="bin/nativeexecution/Linux-aarch64/pty"/>
+        <file crc="3662800172" name="bin/nativeexecution/Linux-aarch64/pty_open"/>
+        <file crc="874678330" name="bin/nativeexecution/Linux-aarch64/sigqueue"/>
+        <file crc="1933670573" name="bin/nativeexecution/Linux-aarch64/stat"/>
+        <file crc="3030394645" name="bin/nativeexecution/Linux-aarch64/unbuffer.so"/>
         <file crc="588438809" name="bin/nativeexecution/Linux-sparc_64/killall"/>
         <file crc="1013170221" name="bin/nativeexecution/Linux-sparc_64/process_start"/>
         <file crc="1124076903" name="bin/nativeexecution/Linux-sparc_64/pty"/>
@@ -69,8 +76,8 @@
         <file crc="1328258185" name="bin/nativeexecution/Windows-x86_64/sigqueue"/>
         <file crc="238068891" name="bin/nativeexecution/Windows-x86_64/unbuffer.dll"/>
         <file crc="2190030010" name="bin/nativeexecution/dorun.sh"/>
-        <file crc="2584744811" name="bin/nativeexecution/hostinfo.sh"/>
+        <file crc="1835906848" name="bin/nativeexecution/hostinfo.sh"/>
         <file crc="249150406" name="config/Modules/org-netbeans-modules-dlight-nativeexecution.xml"/>
-        <file crc="2517519275" name="modules/org-netbeans-modules-dlight-nativeexecution.jar"/>
+        <file crc="235915944" name="modules/org-netbeans-modules-dlight-nativeexecution.jar"/>
     </module_version>
 </module>

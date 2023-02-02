@@ -126,6 +126,8 @@ From: Apache Software Foundation
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Subversion Java-HL bindings: Java bindings library for subversion client (http://subversion.apache.org/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - TOML parser in Java: A parser for Tom's Obvious, Minimal Language (TOML). (http://incubator.apache.org/projects/netbeans.html)
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - XHR via Java: XHR via Java (http://incubator.apache.org/projects/netbeans.html)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - XML Commons Resolver: Library used to load XML catalogs to resolve external references. (http://xml.apache.org/commons/)
@@ -470,7 +472,7 @@ From: OW2 Consortium
   - OW2 ASM: Bytecode manipulation library (https://repository.ow2.org/nexus/content/repositories/releases/org/ow2/asm/)
     License: BSD license with INRIA copyright
 
-From: OpenJDK (https://github.com/openjdk/jdk18)
+From: OpenJDK (https://github.com/openjdk/jdk19)
   - Javac Compiler Implementation: Javac Compiler Implementation
     License: GPL v2 with Classpath exception (http://openjdk.java.net/legal/gplv2+ce.html)
     Comment: Used at compile and design time to compile against; optional at runtime.

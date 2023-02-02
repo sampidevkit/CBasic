@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.maven.refactoring">
-    <module_version install_time="1661513994168" last="true" origin="installer" specification_version="1.37">
+    <module_version install_time="1668881208372" last="true" origin="installer" specification_version="1.38">
         <file crc="2164271570" name="config/Modules/org-netbeans-modules-maven-refactoring.xml"/>
-        <file crc="3122484569" name="modules/org-netbeans-modules-maven-refactoring.jar"/>
+        <file crc="1799167856" name="modules/org-netbeans-modules-maven-refactoring.jar"/>
     </module_version>
 </module>

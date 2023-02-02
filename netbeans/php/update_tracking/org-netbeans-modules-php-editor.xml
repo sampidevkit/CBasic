@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.php.editor/2">
-    <module_version install_time="1661514143098" last="true" origin="installer" specification_version="2.17.0.2">
+    <module_version install_time="1668881332420" last="true" origin="installer" specification_version="2.18.0.2">
         <file crc="1004887788" name="config/Modules/org-netbeans-modules-php-editor.xml"/>
         <file crc="1941087986" name="docs/predefined_vars.zip"/>
-        <file crc="1296038126" name="modules/org-netbeans-modules-php-editor.jar"/>
+        <file crc="3910334534" name="modules/org-netbeans-modules-php-editor.jar"/>
     </module_version>
 </module>

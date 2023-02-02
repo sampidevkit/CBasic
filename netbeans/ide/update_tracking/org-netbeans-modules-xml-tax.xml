@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.xml.tax/2">
-    <module_version install_time="1661513677994" last="true" origin="installer" specification_version="1.61.0.281">
+    <module_version install_time="1668880951449" last="true" origin="installer" specification_version="1.62.0.281">
         <file crc="3137623504" name="config/Modules/org-netbeans-modules-xml-tax.xml"/>
-        <file crc="1216202393" name="modules/ext/org-netbeans-tax.jar"/>
-        <file crc="2260195980" name="modules/org-netbeans-modules-xml-tax.jar"/>
+        <file crc="628216132" name="modules/ext/org-netbeans-tax.jar"/>
+        <file crc="3431176987" name="modules/org-netbeans-modules-xml-tax.jar"/>
     </module_version>
 </module>

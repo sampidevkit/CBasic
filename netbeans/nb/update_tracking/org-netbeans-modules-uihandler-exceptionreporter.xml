@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.uihandler.exceptionreporter">
-    <module_version install_time="1661514060632" last="true" origin="installer" specification_version="1.46">
+    <module_version install_time="1668881262879" last="true" origin="installer" specification_version="1.47">
         <file crc="989868602" name="config/Modules/org-netbeans-modules-uihandler-exceptionreporter.xml"/>
-        <file crc="2440824303" name="modules/org-netbeans-modules-uihandler-exceptionreporter.jar"/>
+        <file crc="171385607" name="modules/org-netbeans-modules-uihandler-exceptionreporter.jar"/>
     </module_version>
 </module>

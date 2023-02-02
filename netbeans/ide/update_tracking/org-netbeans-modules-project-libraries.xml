@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.project.libraries/1">
-    <module_version install_time="1661513509004" last="true" origin="installer" specification_version="1.70">
+    <module_version install_time="1668880817966" last="true" origin="installer" specification_version="1.71">
         <file crc="3971422353" name="config/ModuleAutoDeps/org-netbeans-modules-project-libraries.xml"/>
         <file crc="2974763789" name="config/Modules/org-netbeans-modules-project-libraries.xml"/>
-        <file crc="1607751381" name="modules/org-netbeans-modules-project-libraries.jar"/>
+        <file crc="1864707686" name="modules/org-netbeans-modules-project-libraries.jar"/>
     </module_version>
 </module>

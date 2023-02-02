@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.db.metadata.model/1">
-    <module_version install_time="1661513522154" last="true" origin="installer" specification_version="1.28">
+    <module_version install_time="1668880828568" last="true" origin="installer" specification_version="1.29">
         <file crc="3021893472" name="config/Modules/org-netbeans-modules-db-metadata-model.xml"/>
-        <file crc="2223521756" name="modules/org-netbeans-modules-db-metadata-model.jar"/>
+        <file crc="85273205" name="modules/org-netbeans-modules-db-metadata-model.jar"/>
     </module_version>
 </module>

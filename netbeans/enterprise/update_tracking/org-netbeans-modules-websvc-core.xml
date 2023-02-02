@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.websvc.core">
-    <module_version install_time="1661514348577" last="true" origin="installer" specification_version="1.61.0.1.4">
+    <module_version install_time="1668881534110" last="true" origin="installer" specification_version="1.62.0.1.4">
         <file crc="2969014844" name="config/Modules/org-netbeans-modules-websvc-core.xml"/>
-        <file crc="3893359226" name="modules/org-netbeans-modules-websvc-core.jar"/>
+        <file crc="1788708246" name="modules/org-netbeans-modules-websvc-core.jar"/>
     </module_version>
 </module>

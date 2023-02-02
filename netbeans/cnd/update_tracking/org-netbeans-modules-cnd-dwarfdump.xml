@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.cnd.dwarfdump">
-    <module_version install_time="1663767710064" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.36.4.1">
+    <module_version install_time="1675301301839" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.36.4.1">
         <file crc="2229868659" name="config/Modules/org-netbeans-modules-cnd-dwarfdump.xml"/>
         <file crc="826630822" name="modules/locale/org-netbeans-modules-cnd-dwarfdump_ja.jar"/>
         <file crc="2549770293" name="modules/locale/org-netbeans-modules-cnd-dwarfdump_pt_BR.jar"/>

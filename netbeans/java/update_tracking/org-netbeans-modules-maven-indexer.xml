@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.maven.indexer/2">
-    <module_version install_time="1661513809736" last="true" origin="installer" specification_version="2.57">
+    <module_version install_time="1668881058995" last="true" origin="installer" specification_version="2.58">
         <file crc="3741439804" name="config/Modules/org-netbeans-modules-maven-indexer.xml"/>
         <file crc="2799077179" name="modules/ext/maven/indexer-core-6.2.2.jar"/>
         <file crc="1922846449" name="modules/ext/maven/javax.annotation-api-1.2.jar"/>
@@ -7,6 +7,6 @@
         <file crc="3239262036" name="modules/ext/maven/lucene-core-8.11.1.jar"/>
         <file crc="3999642854" name="modules/ext/maven/lucene-highlighter-8.11.1.jar"/>
         <file crc="3221683217" name="modules/ext/maven/lucene-queryparser-8.11.1.jar"/>
-        <file crc="3175152587" name="modules/org-netbeans-modules-maven-indexer.jar"/>
+        <file crc="677249559" name="modules/org-netbeans-modules-maven-indexer.jar"/>
     </module_version>
 </module>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.php.nette.tester">
-    <module_version install_time="1661514149125" last="true" origin="installer" specification_version="0.31">
+    <module_version install_time="1668881337441" last="true" origin="installer" specification_version="0.32">
         <file crc="2635650070" name="config/Modules/org-netbeans-modules-php-nette-tester.xml"/>
-        <file crc="2846898761" name="modules/org-netbeans-modules-php-nette-tester.jar"/>
+        <file crc="3808255280" name="modules/org-netbeans-modules-php-nette-tester.jar"/>
     </module_version>
 </module>

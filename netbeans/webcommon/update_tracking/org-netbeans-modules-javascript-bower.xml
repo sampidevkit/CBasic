@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javascript.bower">
-    <module_version install_time="1661513742163" last="true" origin="installer" specification_version="0.22">
+    <module_version install_time="1668881003482" last="true" origin="installer" specification_version="0.23">
         <file crc="2464347559" name="config/Modules/org-netbeans-modules-javascript-bower.xml"/>
-        <file crc="2922169968" name="modules/org-netbeans-modules-javascript-bower.jar"/>
+        <file crc="2781042979" name="modules/org-netbeans-modules-javascript-bower.jar"/>
     </module_version>
 </module>

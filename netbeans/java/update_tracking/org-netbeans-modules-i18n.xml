@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.i18n/1">
-    <module_version install_time="1661513888102" last="true" origin="installer" specification_version="1.70">
+    <module_version install_time="1668881122024" last="true" origin="installer" specification_version="1.71">
         <file crc="2108769092" name="config/Modules/org-netbeans-modules-i18n.xml"/>
-        <file crc="2317135027" name="modules/org-netbeans-modules-i18n.jar"/>
+        <file crc="3270843714" name="modules/org-netbeans-modules-i18n.jar"/>
     </module_version>
 </module>
