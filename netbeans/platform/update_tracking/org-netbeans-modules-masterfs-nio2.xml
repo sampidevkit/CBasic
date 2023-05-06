@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.masterfs.nio2">
-    <module_version install_time="1668880736905" last="true" origin="installer" specification_version="1.33">
+    <module_version install_time="1676383038822" last="true" origin="installer" specification_version="1.34">
         <file crc="1000323626" name="config/Modules/org-netbeans-modules-masterfs-nio2.xml"/>
-        <file crc="1941021608" name="modules/org-netbeans-modules-masterfs-nio2.jar"/>
+        <file crc="1779031145" name="modules/org-netbeans-modules-masterfs-nio2.jar"/>
     </module_version>
 </module>

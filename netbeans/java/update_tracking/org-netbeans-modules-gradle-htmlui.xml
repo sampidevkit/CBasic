@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.gradle.htmlui">
-    <module_version install_time="1668881107333" last="true" origin="installer" specification_version="1.13">
+    <module_version install_time="1676383458459" last="true" origin="installer" specification_version="1.14">
         <file crc="1500171222" name="config/Modules/org-netbeans-modules-gradle-htmlui.xml"/>
-        <file crc="1278010175" name="modules/org-netbeans-modules-gradle-htmlui.jar"/>
+        <file crc="3546775607" name="modules/org-netbeans-modules-gradle-htmlui.jar"/>
     </module_version>
 </module>

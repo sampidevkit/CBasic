@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.maven.htmlui">
-    <module_version install_time="1668881228915" last="true" origin="installer" specification_version="1.18">
+    <module_version install_time="1676383592453" last="true" origin="installer" specification_version="1.19">
         <file crc="2058101879" name="config/Modules/org-netbeans-modules-maven-htmlui.xml"/>
-        <file crc="1276595219" name="modules/org-netbeans-modules-maven-htmlui.jar"/>
+        <file crc="3116786919" name="modules/org-netbeans-modules-maven-htmlui.jar"/>
     </module_version>
 </module>

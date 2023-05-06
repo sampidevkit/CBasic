@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.profiler.attach/2">
-    <module_version install_time="1668881239565" last="true" origin="installer" specification_version="2.39">
+    <module_version install_time="1676383605566" last="true" origin="installer" specification_version="2.40">
         <file crc="765631516" name="config/Modules/org-netbeans-modules-profiler-attach.xml"/>
-        <file crc="1994291975" name="modules/org-netbeans-modules-profiler-attach.jar"/>
+        <file crc="2315855235" name="modules/org-netbeans-modules-profiler-attach.jar"/>
     </module_version>
 </module>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.selenium2.server">
-    <module_version install_time="1668880926256" last="true" origin="installer" specification_version="1.21">
+    <module_version install_time="1676383252009" last="true" origin="installer" specification_version="1.22">
         <file crc="3688283987" name="config/Modules/org-netbeans-modules-selenium2-server.xml"/>
-        <file crc="3507652723" name="modules/org-netbeans-modules-selenium2-server.jar"/>
+        <file crc="671585677" name="modules/org-netbeans-modules-selenium2-server.jar"/>
     </module_version>
 </module>

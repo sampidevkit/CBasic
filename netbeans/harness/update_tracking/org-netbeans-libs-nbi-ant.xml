@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.nbi.ant">
-    <module_version install_time="1668880756519" last="true" origin="installer" specification_version="1.40">
+    <module_version install_time="1676383060396" last="true" origin="installer" specification_version="1.41">
         <file crc="55657938" name="config/Modules/org-netbeans-libs-nbi-ant.xml"/>
-        <file crc="1368442171" name="modules/ext/nbi-ant-tasks.jar"/>
-        <file crc="607669158" name="modules/ext/nbi-registries-management.jar"/>
-        <file crc="794798474" name="modules/org-netbeans-libs-nbi-ant.jar"/>
+        <file crc="538297995" name="modules/ext/nbi-ant-tasks.jar"/>
+        <file crc="213712250" name="modules/ext/nbi-registries-management.jar"/>
+        <file crc="962159737" name="modules/org-netbeans-libs-nbi-ant.jar"/>
         <file crc="2350530027" name="nbi/.common/common.properties"/>
         <file crc="2182362675" name="nbi/.common/common.xml"/>
         <file crc="259541933" name="nbi/.common/engine.properties"/>
@@ -44,7 +44,7 @@
         <file crc="1731174931" name="nbi/stub/ext/engine/src/org/mycompany/installer/wizard/components/actions/InitializeAction.java"/>
         <file crc="3273231567" name="nbi/stub/ext/engine/src/org/mycompany/installer/wizard/components/panels/Bundle.properties"/>
         <file crc="3100713469" name="nbi/stub/ext/engine/src/org/mycompany/installer/wizard/components/panels/PostInstallSummaryPanel.java"/>
-        <file crc="110865660" name="nbi/stub/ext/engine/src/org/mycompany/installer/wizard/components/panels/PreInstallSummaryPanel.java"/>
+        <file crc="1250930697" name="nbi/stub/ext/engine/src/org/mycompany/installer/wizard/components/panels/PreInstallSummaryPanel.java"/>
         <file crc="3354963762" name="nbi/stub/ext/engine/src/org/mycompany/installer/wizard/components/panels/WelcomePanel.java"/>
         <file crc="2194536363" name="nbi/stub/ext/engine/src/org/mycompany/installer/wizard/components/panels/resources/welcome-left-bottom.png"/>
         <file crc="1907745537" name="nbi/stub/ext/engine/src/org/mycompany/installer/wizard/components/panels/resources/welcome-left-top.png"/>

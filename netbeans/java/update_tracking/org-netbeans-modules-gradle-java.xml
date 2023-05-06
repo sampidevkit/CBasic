@@ -1,11 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<module codename="org.netbeans.modules.gradle.java">
-    <module_version install_time="1668881108731" last="false" origin="installer" specification_version="1.20.0.1">
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.gradle.java">
+    <module_version install_time="1676383460019" last="true" origin="installer" specification_version="1.21.0.1">
         <file crc="4239814987" name="config/Modules/org-netbeans-modules-gradle-java.xml"/>
-        <file crc="3906996837" name="modules/org-netbeans-modules-gradle-java.jar"/>
-    </module_version>
-    <module_version install_time="1675301369543" last="true" origin="updater" specification_version="1.20.1.1">
-        <file crc="4239814987" name="config/Modules/org-netbeans-modules-gradle-java.xml"/>
-        <file crc="2326901198" name="modules/org-netbeans-modules-gradle-java.jar"/>
+        <file crc="3484172912" name="modules/org-netbeans-modules-gradle-java.jar"/>
     </module_version>
 </module>

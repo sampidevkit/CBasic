@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.templates/1">
-    <module_version install_time="1668880745616" last="true" origin="installer" specification_version="1.25">
+    <module_version install_time="1676383048283" last="true" origin="installer" specification_version="1.26">
         <file crc="1866266725" name="config/Modules/org-netbeans-modules-templates.xml"/>
-        <file crc="1777931375" name="modules/org-netbeans-modules-templates.jar"/>
+        <file crc="4034947803" name="modules/org-netbeans-modules-templates.jar"/>
     </module_version>
 </module>

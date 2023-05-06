@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.extexecution.base/2">
-    <module_version install_time="1668880780598" last="true" origin="installer" specification_version="1.24">
+    <module_version install_time="1676383087777" last="true" origin="installer" specification_version="1.25">
         <file crc="4190027719" name="config/Modules/org-netbeans-modules-extexecution-base.xml"/>
-        <file crc="1399657796" name="modules/org-netbeans-modules-extexecution-base.jar"/>
+        <file crc="2604590531" name="modules/org-netbeans-modules-extexecution-base.jar"/>
     </module_version>
 </module>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.php.twig/1">
-    <module_version install_time="1668881347563" last="true" origin="installer" specification_version="1.43">
+    <module_version install_time="1676383727273" last="true" origin="installer" specification_version="1.44">
         <file crc="405156563" name="config/Modules/org-netbeans-modules-php-twig.xml"/>
-        <file crc="1379718500" name="modules/org-netbeans-modules-php-twig.jar"/>
+        <file crc="2142886320" name="modules/org-netbeans-modules-php-twig.jar"/>
     </module_version>
 </module>

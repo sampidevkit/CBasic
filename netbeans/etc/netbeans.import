@@ -15,7 +15,7 @@ include config/HTMLPalette/.*
 #org.netbeans.modules.code.analysis OptionsExport/Advanced/Inspections
 include config/Preferences/org/netbeans/modules/code/analysis/.*
 #org.netbeans.modules.j2eeserver OptionsExport/Advanced/J2EE
-include config/(J2EE|GlassFish|GlassFishEE6|GlassFishEE6WC||GlassFishEE7|GlassFishEE8|GlassFishJakartaEE8|GlassFishJakartaEE9|GlassFishJakartaEE91)/.*
+include config/(J2EE|GlassFish|GlassFishEE6|GlassFishEE6WC||GlassFishEE7|GlassFishEE8|GlassFishJakartaEE8|GlassFishJakartaEE9|GlassFishJakartaEE91|GlassFishJakartaEE10)/.*
 #org.netbeans.modules.web.core OptionsExport/Advanced/JSPPalette
 include config/JSPPalette/.*
 #null OptionsExport/Advanced/JavaPlatform

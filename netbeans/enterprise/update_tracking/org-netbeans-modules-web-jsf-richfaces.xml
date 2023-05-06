@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.web.jsf.richfaces">
-    <module_version install_time="1668881568030" last="true" origin="installer" specification_version="1.46">
+    <module_version install_time="1676383986376" last="true" origin="installer" specification_version="1.47">
         <file crc="2005546119" name="config/Modules/org-netbeans-modules-web-jsf-richfaces.xml"/>
-        <file crc="3206274887" name="modules/org-netbeans-modules-web-jsf-richfaces.jar"/>
+        <file crc="703119934" name="modules/org-netbeans-modules-web-jsf-richfaces.jar"/>
     </module_version>
 </module>

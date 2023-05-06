@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.web.jsf.editor">
-    <module_version install_time="1668881564890" last="true" origin="installer" specification_version="1.69">
+    <module_version install_time="1676383982905" last="true" origin="installer" specification_version="1.70">
         <file crc="2576990593" name="config/Modules/org-netbeans-modules-web-jsf-editor.xml"/>
-        <file crc="3755473658" name="modules/org-netbeans-modules-web-jsf-editor.jar"/>
+        <file crc="1053538393" name="modules/org-netbeans-modules-web-jsf-editor.jar"/>
     </module_version>
 </module>

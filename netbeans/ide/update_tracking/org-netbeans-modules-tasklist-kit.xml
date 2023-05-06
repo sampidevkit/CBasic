@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.tasklist.kit">
-    <module_version install_time="1668880934925" last="true" origin="installer" specification_version="1.46">
+    <module_version install_time="1676383261710" last="true" origin="installer" specification_version="1.47">
         <file crc="4190722416" name="config/Modules/org-netbeans-modules-tasklist-kit.xml"/>
-        <file crc="580282064" name="modules/org-netbeans-modules-tasklist-kit.jar"/>
+        <file crc="4058147653" name="modules/org-netbeans-modules-tasklist-kit.jar"/>
     </module_version>
 </module>

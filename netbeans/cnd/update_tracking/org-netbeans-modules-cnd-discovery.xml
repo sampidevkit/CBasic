@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.cnd.discovery">
-    <module_version install_time="1675301321727" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.47.24.1">
+    <module_version install_time="1683358111471" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.47.24.1">
         <file crc="3621047409" name="bin/Linux-sparc_64/libBuildTrace.so"/>
         <file crc="1067657829" name="bin/Linux-x86/libBuildTrace.so"/>
         <file crc="402085430" name="bin/Linux-x86_64/libBuildTrace.so"/>

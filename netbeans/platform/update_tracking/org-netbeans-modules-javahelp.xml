@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javahelp/1">
-    <module_version install_time="1668880731703" last="true" origin="installer" specification_version="2.59">
+    <module_version install_time="1676383033483" last="true" origin="installer" specification_version="2.60">
         <file crc="3126457443" name="config/Modules/org-netbeans-modules-javahelp.xml"/>
-        <file crc="3685322692" name="modules/org-netbeans-modules-javahelp.jar"/>
+        <file crc="871497298" name="modules/org-netbeans-modules-javahelp.jar"/>
     </module_version>
 </module>

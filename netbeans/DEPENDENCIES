@@ -16,6 +16,8 @@ From: Antlr
   - Antlr: ANother Tool for Language Recognition, is a language tool that provides a framework for constructing recognizers, interpreters, compilers, and translators from grammatical descriptions. (http://www.antlr3.org)
     License: BSD-like Antlr Runtime 3 license
   - Antlr: ANother Tool for Language Recognition, is a language tool that provides a framework for constructing recognizers, interpreters, compilers, and translators from grammatical descriptions. (https://www.antlr.org)
+    License: BSD-antlr-runtime4-2
+  - Antlr: ANother Tool for Language Recognition, is a language tool that provides a framework for constructing recognizers, interpreters, compilers, and translators from grammatical descriptions. (https://www.antlr.org)
     License: BSD-like Antlr Runtime 4 license
 
 From: Apache
@@ -141,10 +143,6 @@ From: Apache Software Foundation
   - salvation: This is a general purpose library for working with Content Security Policy policies. (https://github.com/shapesecurity/salvation)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
-From: Byte Buddy
-  - Byte Buddy: Code Generation Library (https://github.com/raphw/byte-buddy)
-    License: Apache Version 2.0 and BSD license with INRIA copyright
-
 From: Cédric Beust
   - JCommander: Parse command line parameters (https://jcommander.org)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
@@ -235,6 +233,12 @@ From: Eclipse Foundation (https://eclipse-ee4j.github.io/metro-wsit/)
   - Eclipse Metro: Eclipse Metro
     License: EDL-1.0
 
+From: Eclipse Foundation (https://mvnrepository.com/artifact/jakarta.platform/jakarta.jakartaee-api/10.0.0)
+  - JakartaEE API 10.0.0 Documentation: JakartaEE API 10.0.0 Documentation
+    License: Eclipse Public License v2.0
+  - JakartaEE API 10.0.0: JakartaEE API 10.0.0
+    License: Eclipse Public License v2.0
+
 From: Eclipse Foundation (https://mvnrepository.com/artifact/jakarta.platform/jakarta.jakartaee-api/8.0.0)
   - JakartaEE API 8.0.0 Documentation: JakartaEE API 8.0.0 Documentation
     License: Eclipse Public License v2.0
@@ -247,6 +251,10 @@ From: Eclipse Foundation (https://mvnrepository.com/artifact/jakarta.platform/ja
 
 From: Eclipse Foundation (https://mvnrepository.com/artifact/jakarta.platform/jakarta.jakartaee-api/9s.0.0)
   - JakartaEE API 9.0.0: JakartaEE API 9.0.0
+    License: Eclipse Public License v2.0
+
+From: Eclipse Foundation (https://mvnrepository.com/artifact/jakarta.platform/jakarta.jakartaee-web-api/10.0.0)
+  - JakartaEE Web API 10.0.0: JakartaEE Web API 10.0.0
     License: Eclipse Public License v2.0
 
 From: Eclipse Foundation (https://mvnrepository.com/artifact/jakarta.platform/jakarta.jakartaee-web-api/8.0.0)
@@ -276,6 +284,10 @@ From: FormDev Software GmbH.
 From: Generated from common-util-5.0.jar, glassfish-ee-api-4.1.jar, javax.el-2.2.6.jar, and javax.servlet.jsp-2.3.2.jar
   - GlassFish JSP Parser: GlassFish Unified JSP Parser
     License: CDDL-1.1
+
+From: Generated from jakarta.jakartaee-api-10.0.0-javadoc.jar
+  - JakartaEE API 10.0.0 Documentation: JakartaEE API 10.0.0 Documentation
+    License: Eclipse Public License v2.0
 
 From: Generated from jakarta.jakartaee-api-8.0.0-javadoc.jar
   - JakartaEE API 8.0.0 Documentation: JakartaEE API 8.0.0 Documentation
@@ -937,10 +949,6 @@ From: httpshttps://github.com/microsoft/vscode-textbuffer#readme
 From: jemmy.java.net
   - Jemmy: Jemmy UI testing tool (https://web.archive.org/web/20120822233211/http://java.net:80/projects/jemmy)
     License: CDDL-1.0
-
-From: pantsbuild
-  - Jar Jar Links: Jar Jar Links is a utility that makes it easy to repackage Java libraries and embed them into your own distribution. (https://github.com/pantsbuild/jarjar)
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: validator.nu
   - HTML 5 Parser Patched: HTML4/5 parser patched for editing purposes

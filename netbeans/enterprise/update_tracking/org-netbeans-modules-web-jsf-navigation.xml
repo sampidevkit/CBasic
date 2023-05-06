@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.web.jsf.navigation/1">
-    <module_version install_time="1668881567297" last="true" origin="installer" specification_version="2.44">
+    <module_version install_time="1676383985548" last="true" origin="installer" specification_version="2.45">
         <file crc="789051327" name="config/Modules/org-netbeans-modules-web-jsf-navigation.xml"/>
-        <file crc="886887816" name="modules/org-netbeans-modules-web-jsf-navigation.jar"/>
+        <file crc="2258332938" name="modules/org-netbeans-modules-web-jsf-navigation.jar"/>
     </module_version>
 </module>

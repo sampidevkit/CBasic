@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.j2ee.persistence.kit">
-    <module_version install_time="1668881147021" last="true" origin="installer" specification_version="1.50">
+    <module_version install_time="1676383502810" last="true" origin="installer" specification_version="1.51">
         <file crc="1682852127" name="config/Modules/org-netbeans-modules-j2ee-persistence-kit.xml"/>
-        <file crc="2934846936" name="modules/org-netbeans-modules-j2ee-persistence-kit.jar"/>
+        <file crc="3853587533" name="modules/org-netbeans-modules-j2ee-persistence-kit.jar"/>
     </module_version>
 </module>

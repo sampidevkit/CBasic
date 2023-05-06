@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.docker.api/0">
-    <module_version install_time="1668880858555" last="true" origin="installer" specification_version="1.38">
+    <module_version install_time="1676383175472" last="true" origin="installer" specification_version="1.39">
         <file crc="2278911438" name="config/Modules/org-netbeans-modules-docker-api.xml"/>
-        <file crc="727421116" name="modules/org-netbeans-modules-docker-api.jar"/>
+        <file crc="3351754876" name="modules/org-netbeans-modules-docker-api.jar"/>
     </module_version>
 </module>

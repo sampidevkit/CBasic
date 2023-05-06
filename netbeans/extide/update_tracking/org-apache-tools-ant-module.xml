@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.apache.tools.ant.module/3">
-    <module_version install_time="1668880977746" last="true" origin="installer" specification_version="3.102.0.2">
+    <module_version install_time="1676383310750" last="true" origin="installer" specification_version="3.103.0.2">
         <file crc="431967041" name="VERSION.txt"/>
         <file crc="2528762066" name="ant/bin/ant"/>
         <file crc="2256991601" name="ant/bin/ant.bat"/>
@@ -53,8 +53,8 @@
         <file crc="297067938" name="ant/lib/ant-testutil.jar"/>
         <file crc="1145862024" name="ant/lib/ant-xz.jar"/>
         <file crc="3940449354" name="ant/lib/ant.jar"/>
-        <file crc="770044899" name="ant/nblib/bridge.jar"/>
+        <file crc="4166686225" name="ant/nblib/bridge.jar"/>
         <file crc="953143122" name="config/Modules/org-apache-tools-ant-module.xml"/>
-        <file crc="75322830" name="modules/org-apache-tools-ant-module.jar"/>
+        <file crc="1937313174" name="modules/org-apache-tools-ant-module.jar"/>
     </module_version>
 </module>

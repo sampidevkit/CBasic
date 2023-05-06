@@ -231,14 +231,6 @@ subject to the terms and conditions of the following licenses:
 
 
 
-- lib/commons-io-2.6.jar: commons-io:commons-io:jar:2.6
-    Project: Apache Commons IO
-    Project URL: http://commons.apache.org/proper/commons-io/
-    License: Apache License, Version 2.0 (Apache-2.0)
-    License URL: https://www.apache.org/licenses/LICENSE-2.0.txt (lib/commons-io.license)
-
-
-
 - lib/javax.annotation-api-1.2.jar: javax.annotation:javax.annotation-api:jar:1.2
     Project: javax.annotation API
     Project URL: http://jcp.org/en/jsr/detail?id=250

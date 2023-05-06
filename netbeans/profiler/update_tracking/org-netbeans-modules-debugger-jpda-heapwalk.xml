@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.debugger.jpda.heapwalk/1">
-    <module_version install_time="1668881246073" last="true" origin="installer" specification_version="1.49">
+    <module_version install_time="1676383613216" last="true" origin="installer" specification_version="1.50">
         <file crc="2879458734" name="config/Modules/org-netbeans-modules-debugger-jpda-heapwalk.xml"/>
-        <file crc="2428031974" name="modules/org-netbeans-modules-debugger-jpda-heapwalk.jar"/>
+        <file crc="510164680" name="modules/org-netbeans-modules-debugger-jpda-heapwalk.jar"/>
     </module_version>
 </module>

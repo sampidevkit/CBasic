@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.cnd.makeproject.ui">
-    <module_version install_time="1675301306149" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.0.17">
+    <module_version install_time="1683358098815" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.0.17">
         <file crc="1567146510" name="config/Modules/org-netbeans-modules-cnd-makeproject-ui.xml"/>
         <file crc="1249159376" name="modules/locale/org-netbeans-modules-cnd-makeproject-ui_ja.jar"/>
         <file crc="1024037830" name="modules/locale/org-netbeans-modules-cnd-makeproject-ui_pt_BR.jar"/>

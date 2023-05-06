@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.jellytools.platform/3">
-    <module_version install_time="1668880752335" last="true" origin="installer" specification_version="3.47">
+    <module_version install_time="1676383055725" last="true" origin="installer" specification_version="3.48">
         <file crc="1104713638" name="config/Modules/org-netbeans-modules-jellytools-platform.xml"/>
-        <file crc="2436616426" name="modules/org-netbeans-modules-jellytools-platform.jar"/>
+        <file crc="2748999903" name="modules/org-netbeans-modules-jellytools-platform.jar"/>
     </module_version>
 </module>

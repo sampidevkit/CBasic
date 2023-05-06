@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.groovy.editor/3">
-    <module_version install_time="1668881591381" last="true" origin="installer" specification_version="1.87">
+    <module_version install_time="1676384013642" last="true" origin="installer" specification_version="1.88">
         <file crc="1236435685" name="config/Modules/org-netbeans-modules-groovy-editor.xml"/>
-        <file crc="1023898111" name="modules/org-netbeans-modules-groovy-editor.jar"/>
+        <file crc="3571856616" name="modules/org-netbeans-modules-groovy-editor.jar"/>
     </module_version>
 </module>

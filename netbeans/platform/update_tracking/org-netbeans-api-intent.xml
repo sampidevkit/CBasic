@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.api.intent">
-    <module_version install_time="1668880683750" last="true" origin="installer" specification_version="1.20">
+    <module_version install_time="1676382981023" last="true" origin="installer" specification_version="1.21">
         <file crc="406711867" name="config/Modules/org-netbeans-api-intent.xml"/>
-        <file crc="1203935447" name="modules/org-netbeans-api-intent.jar"/>
+        <file crc="928027536" name="modules/org-netbeans-api-intent.jar"/>
     </module_version>
 </module>
