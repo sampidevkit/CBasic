@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.target.iterator/1">
-    <module_version install_time="1676383261480" last="true" origin="installer" specification_version="1.43">
+    <module_version install_time="1684755064718" last="true" origin="installer" specification_version="1.44">
         <file crc="4049777741" name="config/Modules/org-netbeans-modules-target-iterator.xml"/>
-        <file crc="917044932" name="modules/org-netbeans-modules-target-iterator.jar"/>
+        <file crc="3863359749" name="modules/org-netbeans-modules-target-iterator.jar"/>
     </module_version>
 </module>

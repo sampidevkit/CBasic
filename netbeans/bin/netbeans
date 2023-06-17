@@ -1,0 +1,261 @@
+#!/bin/sh
+# Licensed to the Apache Software Foundation (ASF) under one
+# or more contributor license agreements.  See the NOTICE file
+# distributed with this work for additional information
+# regarding copyright ownership.  The ASF licenses this file
+# to you under the Apache License, Version 2.0 (the
+# "License"); you may not use this file except in compliance
+# with the License.  You may obtain a copy of the License at
+#
+#   http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing,
+# software distributed under the License is distributed on an
+# "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+# KIND, either express or implied.  See the License for the
+# specific language governing permissions and limitations
+# under the License.
+
+#
+# resolve symlinks
+#
+
+PRG=$0
+
+while [ -h "$PRG" ]; do
+    ls=`ls -ld "$PRG"`
+    link=`expr "$ls" : '^.*-> \(.*\)$' 2>/dev/null`
+    if expr "$link" : '^/' 2> /dev/null >/dev/null; then
+	PRG="$link"
+    else
+	PRG="`dirname "$PRG"`/$link"
+    fi
+done
+
+progdir=`dirname "$PRG"`
+old=`pwd`
+cd "$progdir"/..
+basedir=`pwd`
+cd "$old"
+
+case "`uname`" in
+    Darwin*)
+        # set default userdir and cachedir on Mac OS X
+        DEFAULT_USERDIR_ROOT="${HOME}/Library/Application Support/NetBeans"
+        DEFAULT_CACHEDIR_ROOT=${HOME}/Library/Caches/NetBeans
+        ;;
+    *) 
+        # set default userdir and cachedir on unix systems
+        DEFAULT_USERDIR_ROOT=${HOME}/.netbeans
+        DEFAULT_CACHEDIR_ROOT=${HOME}/.cache/netbeans
+        ;;
+esac
+
+
+if [ -f "$basedir"/etc/netbeans.conf ] ; then
+    . "$basedir"/etc/netbeans.conf
+fi
+
+# following should be done just in RPM or Solaris Launcher
+# if [ -f /etc/netbeans.conf ] ; then
+#     . /etc/netbeans.conf
+# fi
+
+export DEFAULT_USERDIR_ROOT
+
+# #68373: look for userdir, but do not modify "$@"
+userdir="${netbeans_default_userdir}"
+cachedir="${netbeans_default_cachedir}"
+
+founduserdir=""
+for opt in "$@"; do
+    if [ "${founduserdir}" = "yes" ]; then
+        userdir="$opt"
+        break
+    elif [ "$opt" = "--userdir" ]; then
+        founduserdir="yes"
+    fi
+done
+foundcachedir=""
+for opt in "$@"; do
+    if [ "${foundcachedir}" = "yes" ]; then
+        cachedir="$opt"
+        break
+    elif [ "$opt" = "--cachedir" ]; then
+        foundcachedir="yes"
+    fi
+done
+
+if [ -f "${userdir}"/etc/netbeans.conf ] ; then
+    . "${userdir}"/etc/netbeans.conf
+fi
+
+
+if [ ! -f "$basedir"/etc/netbeans.clusters ]; then
+    echo Cannot read cluster file: "$basedir"/etc/netbeans.clusters 1>&2
+    exit 1
+fi
+
+readClusters() {
+    grep -v "^#" "$basedir"/etc/netbeans.clusters | grep -v "^$" | grep -v platform | while read X; do
+        if expr "$X" : "/.*" >/dev/null; then
+            echo "$X"
+        else
+            echo "$basedir/$X"
+        fi
+    done
+}
+
+absolutize_paths() {
+    while read path; do
+        if [ -d "$path" ]; then
+            (cd "$path" 2>/dev/null && pwd)
+        else
+            echo "$path"
+        fi
+    done
+}
+
+netbeans_clusters=`readClusters | absolutize_paths | tr '\012' ':'`
+
+if [ ! -z "$netbeans_extraclusters" ] ; then
+    netbeans_clusters="$netbeans_clusters:$netbeans_extraclusters"
+fi
+
+launchNbexec() {
+    nbexec=`grep -v "^#" "$basedir"/etc/netbeans.clusters | grep -v "^$" | grep platform | while read X; do
+        if expr "$X" : "/.*" >/dev/null; then
+           echo $X/lib/nbexec
+        elif [ -f "$basedir"/$X/lib/nbexec ]; then
+            echo "$basedir"/$X/lib/nbexec
+        fi
+    done | head -n 1`
+    sh=sh
+    # #73162: Ubuntu uses the ancient Bourne shell, which does not implement trap well.
+    if [ -x /bin/bash ]
+    then
+        sh=/bin/bash
+    fi
+    if [ "${founduserdir}" = "yes" ]; then
+        exec $sh "$nbexec" "$@"
+    else
+        if [ "${foundcachedir}" = "yes" ]; then
+            exec $sh "$nbexec" --userdir "${userdir}" "$@"
+        else
+            exec $sh "$nbexec" --userdir "${userdir}" --cachedir "${cachedir}" "$@"
+        fi
+    fi
+}
+
+# in case of macosx, the apple.laf.useScreenMenuBar property should be ideally in the Info.plist file
+# but it doesn't get propagated into the executed java VM. 
+case "`uname`" in
+    Darwin*)
+        eval launchNbexec \
+            --jdkhome '"$netbeans_jdkhome"' \
+            -J-Xdock:name=NetBeans \
+            '"-J-Xdock:icon=$basedir/nb/netbeans.icns"' \
+            --branding nb \
+            --clusters '"$netbeans_clusters"' \
+            -J-Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade \
+            ${netbeans_default_options} \
+            '"$@"'
+        ;;
+    *)
+        # Support 2x HiDPI scaling on Linux systems that have configured this via Xft.dpi but not via
+        # GDK_SCALE, notably Ubuntu as of 20.04.1. Xft.dpi technically relates to the size of fonts
+        # only, but Ubuntu sets it when the "Scaling" setting is changed in the "Displays" settings
+        # UI. OpenJDK supports the GDK_SCALE setting at the GraphicsConfiguration level, but not
+        # Xft.dpi (as of 2020-11-22 and LTS 11.0.9). Individual LAFs may react to the latter, though
+        # FlatLAF in particular works correctly even both are set at the same time.
+        #
+        # OpenJDK does not support fractional scalings in GDK_SCALE, so we only handle the 2x case
+        # here. OpenJDK also does not query the separate GDK_DPI_SCALE variable.
+        #
+        # We do not attempt to support per-monitor DPI scalings here. OpenJDK might support this
+        # through the ubuntu.user-interface/scale-factor setting, but as of Ubuntu 20.04.1, the
+        # Displays setting UI does not appear to touch this setting at all, and does in fact appear
+        # to force all monitors to use the same scaling. JetBrains mentions the scale-factor setting,
+        # saying it is "not well supported yet" (presumably in their own OpenJDK fork).
+        # https://intellij-support.jetbrains.com/hc/en-us/articles/360007994999-HiDPI-configuration
+
+        # If the xrdb command does not exist, no action will be taken here.
+        if [ "`command xrdb -query 2> /dev/null | grep Xft.dpi | cut -d ':' -f2 | xargs`" = 192 ]
+        then
+            echo "Detected 2x HiDPI scaling in Xft.dpi setting; setting GDK_SCALE=2"
+            export GDK_SCALE=2
+        fi
+
+        # Handle another case that indicates a need for 2x HiDPI scaling, observed on openSUSE
+        # Tumbleweed (see NETBEANS-2360). A user with a HiDPI monitor and 2x HiDPI scaling
+        # enabled reported that "xdpyinfo | grep -B 2 resolution" yielded the following:
+        #
+        #   screen #0:
+        #     dimensions:    3840x2160 pixels (508x285 millimeters)
+        #     resolution:    192x193 dots per inch
+        #
+        # Xft.dpi was not set in this case, however. In the following test, we
+        # set GDK_SCALE=2 if _all_ monitors report a resolution of "192x"
+        # something (ignoring the odd "193" figure observed above).
+        if [ "`command xdpyinfo 2> /dev/null | grep 'resolution:.*dots per inch' | cut -d ':' -f2 | cut -d 'x' -f1 | sort -u | xargs`" = 192 ]
+        then
+            echo "Detected 192 DPI on all screens in xdpyinfo; setting GDK_SCALE=2"
+            export GDK_SCALE=2
+        fi
+
+        extra_automatic_options=""
+
+        # Java/AWT/Swing will correctly detect text anti-aliasing settings on
+        # GNOME, but not (always) on KDE. Force anti-aliasing on in this case
+        # using the "awt.useSystemAAFontSettings" property, as recommended in
+        # https://bugs.openjdk.java.net/browse/JDK-6408759 . Said bug is old,
+        # but the relevant logic (in sun.awt.X11.XToolkit.initXSettingsIfNeeded ,
+        # and fontpath.c ) seems not to have changed significantly since then.
+        # Don't set the "swing.aatext" property; it was "an interim property
+        # strictly for testing" that has been removed from the JDK and
+        # superseded by awt.useSystemAAFontSettings (see
+        # https://bugs.openjdk.java.net/browse/JDK-6391267 ).
+
+        # "If you plan on using this variable to detect a running KDE session,
+        # check if the value is not empty instead of seeing if it equals true.
+        # The value might be changed in the future to include KDE version
+        # information."
+        # https://userbase.kde.org/KDE_System_Administration/Environment_Variables
+        if [ ! -z "$KDE_FULL_SESSION" ] ; then
+            # Try to detect the correct subpixel antialiasing mode
+            # (https://github.com/apache/netbeans/issues/4228)
+
+            # See https://docs.gtk.org/gtk4/property.Settings.gtk-xft-rgba.html
+            # See https://docs.oracle.com/javase/7/docs/technotes/guides/2d/flags.html#aaFonts
+            case "`command xrdb -query 2> /dev/null | grep Xft.rgba | cut -d ':' -f2 | xargs`" in
+                rgb)
+                    extra_automatic_options="-J-Dawt.useSystemAAFontSettings=lcd_hrgb"
+                    ;;
+                bgr)
+                    extra_automatic_options="-J-Dawt.useSystemAAFontSettings=lcd_hbgr"
+                    ;;
+                vrgb)
+                    extra_automatic_options="-J-Dawt.useSystemAAFontSettings=lcd_vrgb"
+                    ;;
+                vbgr)
+                    extra_automatic_options="-J-Dawt.useSystemAAFontSettings=lcd_vbgr"
+                    ;;
+                *)
+                    extra_automatic_options="-J-Dawt.useSystemAAFontSettings=on"
+                    ;;
+            esac
+            echo "Detected KDE; use explicit setting for font antialiasing ($extra_automatic_options)"
+        fi
+
+        # Add extra_automatic_options before default_options, to allow system
+        # property definitions from the configuration file to take precedence.
+        eval launchNbexec \
+            --jdkhome '"$netbeans_jdkhome"' \
+            --branding nb \
+            --clusters '"$netbeans_clusters"' \
+            -J-Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade \
+            ${extra_automatic_options} \
+            ${netbeans_default_options} \
+            '"$@"'
+        ;;
+esac

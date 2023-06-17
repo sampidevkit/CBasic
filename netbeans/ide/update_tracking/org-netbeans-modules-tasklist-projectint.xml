@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.tasklist.projectint/1">
-    <module_version install_time="1676383262125" last="true" origin="installer" specification_version="1.48">
+    <module_version install_time="1684755065474" last="true" origin="installer" specification_version="1.49">
         <file crc="3766441604" name="config/Modules/org-netbeans-modules-tasklist-projectint.xml"/>
-        <file crc="1351866712" name="modules/org-netbeans-modules-tasklist-projectint.jar"/>
+        <file crc="2541059507" name="modules/org-netbeans-modules-tasklist-projectint.jar"/>
     </module_version>
 </module>

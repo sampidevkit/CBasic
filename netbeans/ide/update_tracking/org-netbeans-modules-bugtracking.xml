@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.bugtracking">
-    <module_version install_time="1676383070730" last="true" origin="installer" specification_version="1.128">
+    <module_version install_time="1684754867152" last="true" origin="installer" specification_version="1.129">
         <file crc="3527920300" name="config/Modules/org-netbeans-modules-bugtracking.xml"/>
-        <file crc="3127311640" name="modules/org-netbeans-modules-bugtracking.jar"/>
+        <file crc="2111955060" name="modules/org-netbeans-modules-bugtracking.jar"/>
     </module_version>
 </module>

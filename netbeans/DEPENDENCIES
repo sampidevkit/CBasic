@@ -120,8 +120,6 @@ From: Apache Software Foundation
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Knockout4J: Knockout4J (http://incubator.apache.org/projects/netbeans.html)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Log4j: Logging support library (http://logging.apache.org/log4j/)
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Maven Dependency Tree: Maven Dependency Tree (https://maven.apache.org/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Maven Indexer: Maven remote repository indexing engine. (https://repo1.maven.org/maven2/org/apache/maven/indexer/)
@@ -265,6 +263,14 @@ From: Eclipse Foundation (https://mvnrepository.com/artifact/jakarta.platform/ja
   - JakartaEE Web API 9.0.0: JakartaEE Web API 9.0.0
     License: Eclipse Public License v2.0
 
+From: Eclipse Foundation (https://projects.eclipse.org/projects/ee4j)
+  - Java API for Jakarta Servlets, Java API for Jakarta Server Pages: Java API for Jakarta Servlets, Java API for Jakarta Server Pages, Java API for Jakarta Expression Language
+    License: Eclipse Public License v2.0
+
+From: Eclipse Foundation (https://projects.eclipse.org/projects/ee4j.jstl)
+  - Jakarta Standard Tag Library: Jakarta Standard Tag Library
+    License: Eclipse Public License v2.0
+
 From: FasterXML
   - Jackson-annotations: Core annotations used for value types, used by Jackson data binding package (https://github.com/FasterXML/jackson-annotations)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
@@ -281,9 +287,9 @@ From: FormDev Software GmbH.
   - FlatLaf Look and Feel: FlatLaf Look and Feel (https://www.formdev.com/flatlaf/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
-From: Generated from common-util-5.0.jar, glassfish-ee-api-4.1.jar, javax.el-2.2.6.jar, and javax.servlet.jsp-2.3.2.jar
+From: Generated from common-util-5.1.0.jar, glassfish-ee-api-5.1.0.jar, jakarta.el-3.0.4.jar, and jakarta.servlet.jsp-2.3.6.jar
   - GlassFish JSP Parser: GlassFish Unified JSP Parser
-    License: CDDL-1.1
+    License: Eclipse Public License v2.0
 
 From: Generated from jakarta.jakartaee-api-10.0.0-javadoc.jar
   - JakartaEE API 10.0.0 Documentation: JakartaEE API 10.0.0 Documentation
@@ -484,32 +490,16 @@ From: OW2 Consortium
   - OW2 ASM: Bytecode manipulation library (https://repository.ow2.org/nexus/content/repositories/releases/org/ow2/asm/)
     License: BSD license with INRIA copyright
 
-From: OpenJDK (https://github.com/openjdk/jdk19)
+From: OpenJDK (https://github.com/openjdk/jdk20)
   - Javac Compiler Implementation: Javac Compiler Implementation
     License: GPL v2 with Classpath exception (http://openjdk.java.net/legal/gplv2+ce.html)
-    Comment: Used at compile and design time to compile against; optional at runtime.
+    Comment: The binary has been reviewed to be under the Classpath Exception as a whole. Optional at runtime, but used by default.
 
 From: Oracle
-  - Client OSGi Module: Client OSGi Module
-    License: CDDL-1.1
-  - Common Utilities: Common Utilities
-    License: CDDL-1.1
-  - Expression Language: Expression Language 2.2.6 Implementation
-    License: CDDL-1.1
   - JAXB: JAXB Reference Implementation (https://github.com/javaee/jaxb-v2)
     License: CDDL-1.1
   - JAXB: JAXB Reference Implementation (https://github.com/javaee/jaxb-v2)
     License: CDDL-1.1-MIT-jaxb-xjc
-  - JSP implementation: JSP implementation
-    License: CDDL-1.1
-  - Java API for Expression Language: Java API for Expression Language
-    License: CDDL-1.1
-  - Java API for JavaServer Pages: Java API for JavaServer Pages
-    License: CDDL-1.1
-  - Java API for Servlets: Java API for Servlets
-    License: CDDL-1.0
-  - Java EE dependent public APIs of Glassfish: Java EE dependent public APIs of Glassfish
-    License: CDDL-1.1
   - Java Server Faces API documentation: Java Server Faces API documentation
     License: CDDL-1.1
   - JavaServer Faces: JavaServer Faces for building component-based user interfaces
@@ -525,18 +515,8 @@ From: Oracle (http://glassfish.dev.java.net)
   - JSP Syntax Reference: Reference for the JSP 2.0 syntax
     License: CDDL-1.0
 
-From: Oracle (https://glassfish.dev.java.net/)
-  - Java API for Servlets, Java API for JavaServer Pages: Java API for Servlets, Java API for JavaServer Pages, Java API for Expression Language
-    License: CDDL-1.0+1.1
-
 From: Oracle (https://javaee.github.io/)
   - Java(TM) Enterprise Edition 8 API Documentation: Java(TM) Enterprise Edition 8 API Documentation
-    License: CDDL-1.0
-
-From: Oracle (https://javaee.github.io/jstl-api/)
-  - JSP Standard Tag Library (API): JavaServer Pages Standard Tag Library (API)
-    License: CDDL-1.0
-  - JSP Standard Tag Library (implementation): JavaServer Pages Standard Tag Library (implementation)
     License: CDDL-1.0
 
 From: Oracle (https://javaee.github.io/uel-ri/)
@@ -615,18 +595,11 @@ From: http://java.sun.com/javaee/javaserverfaces/download.html
   - Java Server Faces: Java Server Faces
     License: CDDL-1.0
 
-From: http://java.sun.com/products/servlet/2.2/
-  - Servlet API: Java Servlet API
-    License: Apache-1.1
-    Comment: Servlet API 2.2 is a JCP standard, however we are including it under the Apache 1.1 license, as it comes with Tomcat 3.2, which includes it under the Apache 1.1 license.
-
 From: http://jcp.org/en/jsr/detail?id=88
   - Java EE Deployment API: Java EE Deployment API
     License: CDDL-1.0
 
 From: http://jquery.com
-  - javascript2.editor-jquery-resources: Testcase for issue #226930
-    License: MIT license JQuery variant
   - jquery-api.xml: Documentation api file for jQuery
     License: MIT license JQuery variant
 
@@ -641,8 +614,10 @@ From: http://site.icu-project.org/
     License: MIT license icu4j variant
 
 From: http://tomcat.apache.org
-  - Apache Tomcat: Tomcat HTTP server (internal)
+  - Apache Tomcat (Annotations Package): Annotations used in Apache Tomcat
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tomcat (embedded): Apache Tomcat (embedded) is a library version of the Apache Tomcat servlet container, which can be used to create embedded servlet containers in other applications.
+    License: Apache-2.0-tomcat
 
 From: http://wordlist.sourceforge.net/
   - SCOWL Wordlist: English dictionary word list
@@ -813,10 +788,6 @@ From: https://github.com/mathisonian/command-exists
   - command-exists: check whether a command line command exists in the current environment
     License: MIT license for command-exists
 
-From: https://github.com/matthiasblaesing/graaljs-nb
-  - Graal.js Parser: An ECMAScript 13 (ECMAScript 2022) compatible parser for JavaScript source code. Based on the parser of Graal.js (https://github.com/graalvm/graaljs).
-    License: UPL
-
 From: https://github.com/matthiasblaesing/netbeans-processtreekiller
   - NetBeans processtreekiller: Library allowing to kill external process trees.
     License: MIT
@@ -837,10 +808,6 @@ From: https://github.com/oracle/graal
 From: https://github.com/oracle/oci-java-sdk
   - OCI Java SDK: Oracle Cloud Infrastructure SDK for Java
     License: UPL-Apache-2.0
-
-From: https://github.com/requirejs/requirejs
-  - javascript2.editor-requirejs-resources: Testcase for issue #246060
-    License: MIT
 
 From: https://github.com/resilience4j/resilience4j
   - Resilience4j: Resilience4j is a fault tolerance library designed for Java8 and functional programming
@@ -895,11 +862,6 @@ From: https://jdbc.postgresql.org/about/license.html
     License: BSD with PostgreSQL Global Development Group copyright
     Comment: Out-of-the-box support for Postgres Java database applications
 
-From: https://js.foundation/
-  - javascript2.editor-requirejs-resources: Testcase for issue #246060
-    License: BSD license with JS Foundation copyright
-    Comment: the actual version/revision of the resources is unknown. Using origin's site current license.
-
 From: https://mvnrepository.com/artifact/org.glassfish.corba/glassfish-corba-omgapi/4.1.0
   - GlassFish Corba OMG APIs: GlassFish Corba OMG APIs
     License: CDDL-1.1
@@ -909,7 +871,7 @@ From: https://projects.eclipse.org/projects/ee4j.ca
     License: Eclipse Public License v2.0
 
 From: https://projects.eclipse.org/projects/ee4j.servlet
-  - Jakarta Servlet API: Jakarta Servlet defines a server-side API for handling HTTP requests and responses
+  - Servlet API: Java Servlet API
     License: Eclipse Public License v2.0
 
 From: https://secure.php.net/manual/en/

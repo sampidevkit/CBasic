@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.php.dbgp">
-    <module_version install_time="1676383712946" last="true" origin="installer" specification_version="1.61">
+    <module_version install_time="1684755507279" last="true" origin="installer" specification_version="1.62">
         <file crc="3110430785" name="config/Modules/org-netbeans-modules-php-dbgp.xml"/>
-        <file crc="871452672" name="modules/org-netbeans-modules-php-dbgp.jar"/>
+        <file crc="2277205513" name="modules/org-netbeans-modules-php-dbgp.jar"/>
     </module_version>
 </module>

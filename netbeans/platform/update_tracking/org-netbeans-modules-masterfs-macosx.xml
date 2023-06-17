@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.masterfs.macosx">
-    <module_version install_time="1676383038561" last="true" origin="installer" specification_version="1.32">
+    <module_version install_time="1684754834186" last="true" origin="installer" specification_version="1.33">
         <file crc="4284776310" name="config/Modules/org-netbeans-modules-masterfs-macosx.xml"/>
-        <file crc="223122782" name="modules/org-netbeans-modules-masterfs-macosx.jar"/>
+        <file crc="876279490" name="modules/org-netbeans-modules-masterfs-macosx.jar"/>
     </module_version>
 </module>

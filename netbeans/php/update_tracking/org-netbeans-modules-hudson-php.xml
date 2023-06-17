@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.hudson.php">
-    <module_version install_time="1676383657700" last="true" origin="installer" specification_version="1.37">
+    <module_version install_time="1684755454902" last="true" origin="installer" specification_version="1.38">
         <file crc="2739177703" name="config/Modules/org-netbeans-modules-hudson-php.xml"/>
-        <file crc="1199320809" name="modules/org-netbeans-modules-hudson-php.jar"/>
+        <file crc="3596729370" name="modules/org-netbeans-modules-hudson-php.jar"/>
     </module_version>
 </module>

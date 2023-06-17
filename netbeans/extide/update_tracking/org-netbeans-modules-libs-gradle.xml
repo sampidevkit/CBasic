@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.libs.gradle/8">
-    <module_version install_time="1676383308665" last="true" origin="installer" specification_version="8.0.1">
+    <module_version install_time="1684755110031" last="true" origin="installer" specification_version="8.1">
         <file crc="200781294" name="config/Modules/org-netbeans-modules-libs-gradle.xml"/>
-        <file crc="3664689868" name="modules/gradle/gradle-tooling-api.jar"/>
-        <file crc="3667613170" name="modules/org-netbeans-modules-libs-gradle.jar"/>
+        <file crc="2410339319" name="modules/gradle/gradle-tooling-api.jar"/>
+        <file crc="3621564465" name="modules/org-netbeans-modules-libs-gradle.jar"/>
     </module_version>
 </module>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.profiler.oql.language/0">
-    <module_version install_time="1676383621059" last="true" origin="installer" specification_version="0.47">
+    <module_version install_time="1684755418030" last="true" origin="installer" specification_version="0.48">
         <file crc="1408679169" name="config/Modules/org-netbeans-modules-profiler-oql-language.xml"/>
-        <file crc="1823519907" name="modules/org-netbeans-modules-profiler-oql-language.jar"/>
+        <file crc="1415673629" name="modules/org-netbeans-modules-profiler-oql-language.jar"/>
     </module_version>
 </module>

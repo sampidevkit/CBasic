@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.api.progress.compat8">
-    <module_version install_time="1676382982720" last="true" origin="installer" specification_version="1.66">
+    <module_version install_time="1684754773982" last="true" origin="installer" specification_version="1.67">
         <file crc="512444818" name="config/Modules/org-netbeans-api-progress-compat8.xml"/>
-        <file crc="3463289541" name="modules/org-netbeans-api-progress-compat8.jar"/>
+        <file crc="3639199022" name="modules/org-netbeans-api-progress-compat8.jar"/>
     </module_version>
 </module>

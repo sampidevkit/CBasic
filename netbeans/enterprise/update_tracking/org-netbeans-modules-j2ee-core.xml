@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.j2ee.core/0">
-    <module_version install_time="1676383732790" last="true" origin="installer" specification_version="1.44">
+    <module_version install_time="1684755525625" last="true" origin="installer" specification_version="1.45">
         <file crc="709817592" name="config/Modules/org-netbeans-modules-j2ee-core.xml"/>
-        <file crc="2666295603" name="modules/org-netbeans-modules-j2ee-core.jar"/>
+        <file crc="336527632" name="modules/org-netbeans-modules-j2ee-core.jar"/>
     </module_version>
 </module>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.maven.checkstyle">
-    <module_version install_time="1676383560247" last="true" origin="installer" specification_version="1.36">
+    <module_version install_time="1684755358985" last="true" origin="installer" specification_version="1.37">
         <file crc="3364178083" name="config/Modules/org-netbeans-modules-maven-checkstyle.xml"/>
-        <file crc="2856314746" name="modules/org-netbeans-modules-maven-checkstyle.jar"/>
+        <file crc="371774246" name="modules/org-netbeans-modules-maven-checkstyle.jar"/>
     </module_version>
 </module>

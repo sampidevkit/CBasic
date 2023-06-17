@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.jakartaee9.platform/1">
-    <module_version install_time="1676383897210" last="true" origin="installer" specification_version="1.19">
+    <module_version install_time="1684755678275" last="true" origin="installer" specification_version="1.20">
         <file crc="2395264022" name="config/Modules/org-netbeans-modules-jakartaee9-platform.xml"/>
-        <file crc="2393249769" name="docs/jakartaee9-doc-api.jar"/>
-        <file crc="3601503799" name="modules/org-netbeans-modules-jakartaee9-platform.jar"/>
+        <file crc="744570476" name="docs/jakartaee9-doc-api.jar"/>
+        <file crc="584387991" name="modules/org-netbeans-modules-jakartaee9-platform.jar"/>
     </module_version>
 </module>

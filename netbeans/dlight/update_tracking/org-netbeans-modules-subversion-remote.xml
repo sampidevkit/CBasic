@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.subversion.remote">
-    <module_version install_time="1683358090945" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.2.5.42.1">
+    <module_version install_time="1687015381225" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.2.5.42.1">
         <file crc="2480990334" name="config/Modules/org-netbeans-modules-subversion-remote.xml"/>
         <file crc="2209862299" name="modules/locale/org-netbeans-modules-subversion-remote_ja.jar"/>
         <file crc="801883028" name="modules/locale/org-netbeans-modules-subversion-remote_pt_BR.jar"/>

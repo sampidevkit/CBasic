@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.web.inspect">
-    <module_version install_time="1676383368968" last="true" origin="installer" specification_version="0.49">
+    <module_version install_time="1684755166343" last="true" origin="installer" specification_version="0.50">
         <file crc="3968461711" name="config/Modules/org-netbeans-modules-web-inspect.xml"/>
-        <file crc="1886030347" name="modules/org-netbeans-modules-web-inspect.jar"/>
+        <file crc="3978535065" name="modules/org-netbeans-modules-web-inspect.jar"/>
     </module_version>
 </module>

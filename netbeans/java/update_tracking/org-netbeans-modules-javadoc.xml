@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javadoc/1">
-    <module_version install_time="1676383548129" last="true" origin="installer" specification_version="1.74.0.2">
+    <module_version install_time="1684755345324" last="true" origin="installer" specification_version="1.75.0.2">
         <file crc="2725695938" name="config/Modules/org-netbeans-modules-javadoc.xml"/>
-        <file crc="2104754544" name="modules/org-netbeans-modules-javadoc.jar"/>
+        <file crc="1727740945" name="modules/org-netbeans-modules-javadoc.jar"/>
     </module_version>
 </module>

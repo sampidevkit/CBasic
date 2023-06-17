@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.eclipse.core.jobs">
-    <module_version install_time="1676383235312" last="false" origin="installer" specification_version="3.5.100.v20110404">
+    <module_version install_time="1684755036848" last="false" origin="installer" specification_version="3.5.100.v20110404">
         <file crc="3820067141" name="config/Modules/org-eclipse-core-jobs.xml"/>
         <file crc="3760773860" name="modules/org-eclipse-core-jobs.jar"/>
     </module_version>
-    <module_version install_time="1683358215791" last="true" origin="updater" specification_version="3.5.101">
+    <module_version install_time="1687015452298" last="true" origin="updater" specification_version="3.5.101">
         <file crc="2419101424" name="modules/org-eclipse-core-jobs.jar"/>
         <file crc="3820067141" name="config/Modules/org-eclipse-core-jobs.xml"/>
     </module_version>

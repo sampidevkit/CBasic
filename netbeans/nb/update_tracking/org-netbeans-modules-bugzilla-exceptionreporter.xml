@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.bugzilla.exceptionreporter">
-    <module_version install_time="1676383629723" last="true" origin="installer" specification_version="1.43">
+    <module_version install_time="1684755425328" last="true" origin="installer" specification_version="1.44">
         <file crc="1739748943" name="config/Modules/org-netbeans-modules-bugzilla-exceptionreporter.xml"/>
-        <file crc="4115989110" name="modules/org-netbeans-modules-bugzilla-exceptionreporter.jar"/>
+        <file crc="2496926602" name="modules/org-netbeans-modules-bugzilla-exceptionreporter.jar"/>
     </module_version>
 </module>

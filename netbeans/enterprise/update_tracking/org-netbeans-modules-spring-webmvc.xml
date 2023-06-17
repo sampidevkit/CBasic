@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.spring.webmvc">
-    <module_version install_time="1676383937986" last="true" origin="installer" specification_version="1.55">
+    <module_version install_time="1684755715865" last="true" origin="installer" specification_version="1.56">
         <file crc="4253315946" name="config/Modules/org-netbeans-modules-spring-webmvc.xml"/>
-        <file crc="3643973460" name="modules/org-netbeans-modules-spring-webmvc.jar"/>
+        <file crc="2192008362" name="modules/org-netbeans-modules-spring-webmvc.jar"/>
     </module_version>
 </module>

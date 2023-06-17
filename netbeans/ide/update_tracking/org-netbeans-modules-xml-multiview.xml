@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.xml.multiview/1">
-    <module_version install_time="1676383277526" last="true" origin="installer" specification_version="1.57.0.2">
+    <module_version install_time="1684755082495" last="true" origin="installer" specification_version="1.58.0.2">
         <file crc="3843291236" name="config/Modules/org-netbeans-modules-xml-multiview.xml"/>
-        <file crc="1928435688" name="modules/org-netbeans-modules-xml-multiview.jar"/>
+        <file crc="542047299" name="modules/org-netbeans-modules-xml-multiview.jar"/>
     </module_version>
 </module>

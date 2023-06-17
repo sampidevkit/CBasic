@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.openide.execution">
-    <module_version install_time="1676383015167" last="true" origin="installer" specification_version="9.22">
+    <module_version install_time="1684754807672" last="true" origin="installer" specification_version="9.23">
         <file crc="1901269493" name="config/ModuleAutoDeps/org-openide-execution.xml"/>
         <file crc="1899864534" name="config/Modules/org-openide-execution.xml"/>
-        <file crc="1783127083" name="modules/org-openide-execution.jar"/>
+        <file crc="862498510" name="modules/org-openide-execution.jar"/>
     </module_version>
 </module>

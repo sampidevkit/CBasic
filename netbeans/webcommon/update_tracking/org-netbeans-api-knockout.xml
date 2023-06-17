@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.api.knockout">
-    <module_version install_time="1676383318816" last="true" origin="installer" specification_version="1.20">
+    <module_version install_time="1684755120180" last="true" origin="installer" specification_version="1.21">
         <file crc="1402761809" name="config/Modules/org-netbeans-api-knockout.xml"/>
-        <file crc="2326290349" name="modules/org-netbeans-api-knockout.jar"/>
+        <file crc="881762630" name="modules/org-netbeans-api-knockout.jar"/>
     </module_version>
 </module>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.selenium2.webclient.mocha">
-    <module_version install_time="1676383363516" last="true" origin="installer" specification_version="1.25">
+    <module_version install_time="1684755160935" last="true" origin="installer" specification_version="1.26">
         <file crc="2447181330" name="config/Modules/org-netbeans-modules-selenium2-webclient-mocha.xml"/>
         <file crc="2716806805" name="mocha/netbeans-reporter.js"/>
-        <file crc="4234764519" name="modules/org-netbeans-modules-selenium2-webclient-mocha.jar"/>
+        <file crc="722627129" name="modules/org-netbeans-modules-selenium2-webclient-mocha.jar"/>
     </module_version>
 </module>
