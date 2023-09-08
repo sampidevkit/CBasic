@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.snakeyaml_engine/2">
-    <module_version install_time="1684755018724" last="true" origin="installer" specification_version="2.9">
+    <module_version install_time="1692868242395" last="true" origin="installer" specification_version="2.10">
         <file crc="951672100" name="config/Modules/org-netbeans-libs-snakeyaml_engine.xml"/>
         <file crc="862952457" name="modules/ext/snakeyaml-engine.jar"/>
-        <file crc="1441932334" name="modules/org-netbeans-libs-snakeyaml_engine.jar"/>
+        <file crc="4048937221" name="modules/org-netbeans-libs-snakeyaml_engine.jar"/>
     </module_version>
 </module>

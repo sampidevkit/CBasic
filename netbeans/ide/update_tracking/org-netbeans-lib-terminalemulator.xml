@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.lib.terminalemulator">
-    <module_version install_time="1684754968145" last="true" origin="installer" specification_version="1.57">
+    <module_version install_time="1692868156139" last="true" origin="installer" specification_version="1.58">
         <file crc="3582975702" name="config/Modules/org-netbeans-lib-terminalemulator.xml"/>
-        <file crc="3808795556" name="modules/org-netbeans-lib-terminalemulator.jar"/>
+        <file crc="1134855732" name="modules/org-netbeans-lib-terminalemulator.jar"/>
     </module_version>
 </module>

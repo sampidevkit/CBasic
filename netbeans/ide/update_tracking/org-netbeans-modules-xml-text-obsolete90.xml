@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.xml.text.obsolete90">
-    <module_version install_time="1684755085634" last="true" origin="installer" specification_version="1.20.0.1.1">
+    <module_version install_time="1692868356770" last="true" origin="installer" specification_version="1.21.0.1.1">
         <file crc="3907667328" name="config/Modules/org-netbeans-modules-xml-text-obsolete90.xml"/>
-        <file crc="44878081" name="modules/org-netbeans-modules-xml-text-obsolete90.jar"/>
+        <file crc="785158611" name="modules/org-netbeans-modules-xml-text-obsolete90.jar"/>
     </module_version>
 </module>

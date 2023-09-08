@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.source">
-    <module_version install_time="1684755186629" last="true" origin="installer" specification_version="0.185.0.32.4.3.6.1">
+    <module_version install_time="1692868542221" last="true" origin="installer" specification_version="0.186.0.32.4.3.6.1">
         <file crc="3021042637" name="config/ModuleAutoDeps/org-netbeans-modules-java-source.xml"/>
         <file crc="4176813532" name="config/Modules/org-netbeans-modules-java-source.xml"/>
-        <file crc="2605424211" name="modules/org-netbeans-modules-java-source.jar"/>
+        <file crc="1069745853" name="modules/org-netbeans-modules-java-source.jar"/>
     </module_version>
 </module>

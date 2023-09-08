@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.core.browser/1">
-    <module_version install_time="1684754904014" last="true" origin="installer" specification_version="1.48.0.1">
+    <module_version install_time="1692868055967" last="true" origin="installer" specification_version="1.49.0.1">
         <file crc="2536127157" name="config/Modules/org-netbeans-core-browser.xml"/>
-        <file crc="2295560294" name="modules/org-netbeans-core-browser.jar"/>
+        <file crc="3734538444" name="modules/org-netbeans-core-browser.jar"/>
     </module_version>
 </module>

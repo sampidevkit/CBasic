@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.xml.wsdl.model/1">
-    <module_version install_time="1684755087902" last="true" origin="installer" specification_version="1.53.0.1">
+    <module_version install_time="1692868361203" last="true" origin="installer" specification_version="1.54.0.1">
         <file crc="977523466" name="config/Modules/org-netbeans-modules-xml-wsdl-model.xml"/>
-        <file crc="1724663738" name="modules/ext/generated-wsdl-xsd-2004.08.24.jar"/>
-        <file crc="2770222524" name="modules/org-netbeans-modules-xml-wsdl-model.jar"/>
+        <file crc="3290979125" name="modules/ext/generated-wsdl-xsd-2004.08.24.jar"/>
+        <file crc="1003124300" name="modules/org-netbeans-modules-xml-wsdl-model.jar"/>
     </module_version>
 </module>

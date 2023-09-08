@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.php.api.documentation/0">
-    <module_version install_time="1684755457303" last="true" origin="installer" specification_version="0.33">
+    <module_version install_time="1692869107511" last="true" origin="installer" specification_version="0.34">
         <file crc="2106179124" name="config/Modules/org-netbeans-modules-php-api-documentation.xml"/>
-        <file crc="3587722176" name="modules/org-netbeans-modules-php-api-documentation.jar"/>
+        <file crc="2549402683" name="modules/org-netbeans-modules-php-api-documentation.jar"/>
     </module_version>
 </module>

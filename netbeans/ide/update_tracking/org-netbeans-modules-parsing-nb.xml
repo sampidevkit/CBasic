@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.parsing.nb">
-    <module_version install_time="1684755042147" last="true" origin="installer" specification_version="1.24.0.8.1">
+    <module_version install_time="1692868283646" last="true" origin="installer" specification_version="1.25.0.8.1">
         <file crc="2612073826" name="config/Modules/org-netbeans-modules-parsing-nb.xml"/>
-        <file crc="3779062554" name="modules/org-netbeans-modules-parsing-nb.jar"/>
+        <file crc="29329779" name="modules/org-netbeans-modules-parsing-nb.jar"/>
     </module_version>
 </module>

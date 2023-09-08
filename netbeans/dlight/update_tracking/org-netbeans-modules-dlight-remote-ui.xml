@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.dlight.remote.ui">
-    <module_version install_time="1687015381029" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.1.4">
+    <module_version install_time="1694188449088" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.1.4">
         <file crc="2981156122" name="config/Modules/org-netbeans-modules-dlight-remote-ui.xml"/>
         <file crc="3252298230" name="modules/locale/org-netbeans-modules-dlight-remote-ui_ja.jar"/>
         <file crc="469842570" name="modules/locale/org-netbeans-modules-dlight-remote-ui_pt_BR.jar"/>

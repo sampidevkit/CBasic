@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.groovy.support">
-    <module_version install_time="1684755776352" last="true" origin="installer" specification_version="1.60">
+    <module_version install_time="1692869789226" last="true" origin="installer" specification_version="1.61">
         <file crc="3342082844" name="config/Modules/org-netbeans-modules-groovy-support.xml"/>
-        <file crc="3943203711" name="modules/org-netbeans-modules-groovy-support.jar"/>
+        <file crc="1443486390" name="modules/org-netbeans-modules-groovy-support.jar"/>
     </module_version>
 </module>

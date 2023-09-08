@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.maven.grammar/1">
-    <module_version install_time="1684755361550" last="true" origin="installer" specification_version="1.67.0.1">
+    <module_version install_time="1692868915821" last="true" origin="installer" specification_version="1.68.0.1">
         <file crc="1893164468" name="config/Modules/org-netbeans-modules-maven-grammar.xml"/>
-        <file crc="72861124" name="modules/org-netbeans-modules-maven-grammar.jar"/>
+        <file crc="3176011761" name="modules/org-netbeans-modules-maven-grammar.jar"/>
     </module_version>
 </module>

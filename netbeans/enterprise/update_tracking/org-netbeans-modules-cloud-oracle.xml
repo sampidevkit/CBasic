@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.cloud.oracle">
-    <module_version install_time="1684755584685" last="true" origin="installer" specification_version="1.6">
+    <module_version install_time="1692869350593" last="true" origin="installer" specification_version="1.7">
         <file crc="519643218" name="config/Modules/org-netbeans-modules-cloud-oracle.xml"/>
-        <file crc="3479268786" name="modules/ext/jakarta.activation-api-1.2.1.jar"/>
-        <file crc="984009030" name="modules/ext/jersey-apache-connector-2.34.jar"/>
-        <file crc="16844055" name="modules/ext/jersey-media-json-jackson-2.34.jar"/>
-        <file crc="541077999" name="modules/ext/jsr305-3.0.2.jar"/>
-        <file crc="1785505035" name="modules/ext/nimbus-jose-jwt-9.11.1.jar"/>
-        <file crc="1291407662" name="modules/ext/oci-java-sdk-adm-2.27.0.jar"/>
-        <file crc="2849269762" name="modules/ext/oci-java-sdk-circuitbreaker-2.27.0.jar"/>
-        <file crc="1492669806" name="modules/ext/oci-java-sdk-common-2.27.0.jar"/>
-        <file crc="4067884611" name="modules/ext/oci-java-sdk-database-2.27.0.jar"/>
-        <file crc="612119052" name="modules/ext/oci-java-sdk-devops-2.27.0.jar"/>
-        <file crc="238485817" name="modules/ext/oci-java-sdk-identity-2.27.0.jar"/>
-        <file crc="2730069213" name="modules/ext/oci-java-sdk-workrequests-2.27.0.jar"/>
-        <file crc="519599226" name="modules/ext/resilience4j-circuitbreaker-1.2.0.jar"/>
-        <file crc="2267090735" name="modules/ext/resilience4j-core-1.2.0.jar"/>
+        <file crc="3961946988" name="modules/ext/httpclient-4.5.13.jar"/>
+        <file crc="802074599" name="modules/ext/httpcore-4.4.13.jar"/>
+        <file crc="2448652928" name="modules/ext/javassist-3.25.0-GA.jar"/>
+        <file crc="352275410" name="modules/ext/oci-java-sdk-addons-apache-configurator-jersey-3.9.0.jar"/>
+        <file crc="3009188475" name="modules/ext/oci-java-sdk-adm-3.9.0.jar"/>
+        <file crc="3315307853" name="modules/ext/oci-java-sdk-circuitbreaker-3.9.0.jar"/>
+        <file crc="3355948888" name="modules/ext/oci-java-sdk-common-3.9.0.jar"/>
+        <file crc="2826644556" name="modules/ext/oci-java-sdk-common-httpclient-3.9.0.jar"/>
+        <file crc="2395785949" name="modules/ext/oci-java-sdk-common-httpclient-jersey-3.9.0.jar"/>
+        <file crc="1183207820" name="modules/ext/oci-java-sdk-database-3.9.0.jar"/>
+        <file crc="4142385222" name="modules/ext/oci-java-sdk-devops-3.9.0.jar"/>
+        <file crc="4263394913" name="modules/ext/oci-java-sdk-identity-3.9.0.jar"/>
+        <file crc="669441548" name="modules/ext/oci-java-sdk-workrequests-3.9.0.jar"/>
+        <file crc="631351434" name="modules/ext/resilience4j-circuitbreaker-1.7.1.jar"/>
+        <file crc="2588706981" name="modules/ext/resilience4j-core-1.7.1.jar"/>
         <file crc="1865122622" name="modules/ext/vavr-0.10.2.jar"/>
         <file crc="1368343068" name="modules/ext/vavr-match-0.10.2.jar"/>
-        <file crc="3292778318" name="modules/org-netbeans-modules-cloud-oracle.jar"/>
+        <file crc="271380327" name="modules/org-netbeans-modules-cloud-oracle.jar"/>
     </module_version>
 </module>

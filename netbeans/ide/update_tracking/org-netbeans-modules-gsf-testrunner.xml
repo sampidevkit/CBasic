@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.gsf.testrunner/2">
-    <module_version install_time="1684754992640" last="true" origin="installer" specification_version="2.32">
+    <module_version install_time="1692868197312" last="true" origin="installer" specification_version="2.33">
         <file crc="1009562311" name="config/Modules/org-netbeans-modules-gsf-testrunner.xml"/>
-        <file crc="2973820222" name="modules/org-netbeans-modules-gsf-testrunner.jar"/>
+        <file crc="906273289" name="modules/org-netbeans-modules-gsf-testrunner.jar"/>
     </module_version>
 </module>

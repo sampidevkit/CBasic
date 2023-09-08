@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.cnd.editor/1">
-    <module_version install_time="1687015393516" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.31.12.1">
+    <module_version install_time="1694188462094" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.31.12.1">
         <file crc="141888542" name="config/Modules/org-netbeans-modules-cnd-editor.xml"/>
         <file crc="4260784416" name="modules/locale/org-netbeans-modules-cnd-editor_ja.jar"/>
         <file crc="887202617" name="modules/locale/org-netbeans-modules-cnd-editor_pt_BR.jar"/>

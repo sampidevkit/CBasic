@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.nbjavacapi">
-    <module_version install_time="1684755357402" last="true" origin="installer" specification_version="20.0">
+    <module_version install_time="1692868908349" last="true" origin="installer" specification_version="20.1">
         <file crc="2796673379" name="config/Modules/org-netbeans-libs-nbjavacapi.xml"/>
         <file crc="2007216120" name="modules/ext/nb-javac-jdk-20-34-api.jar"/>
         <file crc="1526518224" name="modules/ext/nb-javac-jdk-20-34.jar"/>
-        <file crc="14094353" name="modules/org-netbeans-libs-nbjavacapi.jar"/>
+        <file crc="1725207210" name="modules/org-netbeans-libs-nbjavacapi.jar"/>
     </module_version>
 </module>

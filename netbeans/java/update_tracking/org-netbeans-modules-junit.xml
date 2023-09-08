@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.junit/2">
-    <module_version install_time="1684755260628" last="true" origin="installer" specification_version="2.94">
+    <module_version install_time="1692868696313" last="true" origin="installer" specification_version="2.95">
         <file crc="3862599605" name="config/Modules/org-netbeans-modules-junit.xml"/>
-        <file crc="4183547769" name="modules/org-netbeans-modules-junit.jar"/>
+        <file crc="1321070967" name="modules/org-netbeans-modules-junit.jar"/>
     </module_version>
 </module>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javafx2.kit">
-    <module_version install_time="1684755389524" last="true" origin="installer" specification_version="1.37">
+    <module_version install_time="1692868966274" last="true" origin="installer" specification_version="1.38">
         <file crc="145657658" name="VERSION.txt"/>
         <file crc="3671458904" name="config/Modules/org-netbeans-modules-javafx2-kit.xml"/>
-        <file crc="2540724503" name="modules/org-netbeans-modules-javafx2-kit.jar"/>
+        <file crc="3864214073" name="modules/org-netbeans-modules-javafx2-kit.jar"/>
     </module_version>
 </module>

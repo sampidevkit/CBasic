@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.svnClientAdapter.javahl/1">
-    <module_version install_time="1684755023059" last="true" origin="installer" specification_version="1.44">
+    <module_version install_time="1692868249814" last="true" origin="installer" specification_version="1.45">
         <file crc="830263214" name="config/Modules/org-netbeans-libs-svnClientAdapter-javahl.xml"/>
         <file crc="2972244292" name="modules/ext/adapter-javahl.jar"/>
         <file crc="3482493445" name="modules/ext/javahl.jar"/>
-        <file crc="820537127" name="modules/org-netbeans-libs-svnClientAdapter-javahl.jar"/>
+        <file crc="1095711749" name="modules/org-netbeans-libs-svnClientAdapter-javahl.jar"/>
     </module_version>
 </module>

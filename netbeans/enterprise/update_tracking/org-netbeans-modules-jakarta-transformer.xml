@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.jakarta.transformer/0">
+    <module_version install_time="1692869553377" last="true" origin="installer" specification_version="2.15">
+        <file crc="796422851" name="config/Modules/org-netbeans-modules-jakarta-transformer.xml"/>
+        <file crc="391026044" name="modules/org-netbeans-modules-jakarta-transformer.jar"/>
+    </module_version>
+</module>

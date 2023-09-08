@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.j2ee.persistenceapi/1">
-    <module_version install_time="1684755254543" last="true" origin="installer" specification_version="1.56.0.1">
+    <module_version install_time="1692868682799" last="true" origin="installer" specification_version="1.57.0.1">
         <file crc="2691299637" name="config/Modules/org-netbeans-modules-j2ee-persistenceapi.xml"/>
-        <file crc="2851948674" name="modules/org-netbeans-modules-j2ee-persistenceapi.jar"/>
+        <file crc="609856519" name="modules/org-netbeans-modules-j2ee-persistenceapi.jar"/>
     </module_version>
 </module>

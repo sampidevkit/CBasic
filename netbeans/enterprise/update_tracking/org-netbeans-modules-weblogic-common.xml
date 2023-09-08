@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.weblogic.common">
-    <module_version install_time="1684755764811" last="true" origin="installer" specification_version="1.34">
+    <module_version install_time="1692869763815" last="true" origin="installer" specification_version="1.35">
         <file crc="4294327782" name="config/Modules/org-netbeans-modules-weblogic-common.xml"/>
-        <file crc="3362903241" name="modules/org-netbeans-modules-weblogic-common.jar"/>
+        <file crc="1470015246" name="modules/org-netbeans-modules-weblogic-common.jar"/>
     </module_version>
 </module>

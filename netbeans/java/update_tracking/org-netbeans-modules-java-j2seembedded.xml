@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.j2seembedded">
-    <module_version install_time="1684755326618" last="true" origin="installer" specification_version="1.29">
+    <module_version install_time="1692868850941" last="true" origin="installer" specification_version="1.30">
         <file crc="723814174" name="config/Modules/org-netbeans-modules-java-j2seembedded.xml"/>
-        <file crc="1739355746" name="modules/ext/org-netbeans-modules-java-j2seembedded-probe.jar"/>
-        <file crc="3580785006" name="modules/org-netbeans-modules-java-j2seembedded.jar"/>
+        <file crc="1997315438" name="modules/ext/org-netbeans-modules-java-j2seembedded-probe.jar"/>
+        <file crc="106762163" name="modules/org-netbeans-modules-java-j2seembedded.jar"/>
     </module_version>
 </module>

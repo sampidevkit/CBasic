@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.cnd.api.remote/1">
-    <module_version install_time="1687015392534" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.29.5.1">
+    <module_version install_time="1694188461116" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.29.5.1">
         <file crc="3966025235" name="config/Modules/org-netbeans-modules-cnd-api-remote.xml"/>
         <file crc="1792742204" name="modules/locale/org-netbeans-modules-cnd-api-remote_ja.jar"/>
         <file crc="2820995562" name="modules/locale/org-netbeans-modules-cnd-api-remote_pt_BR.jar"/>

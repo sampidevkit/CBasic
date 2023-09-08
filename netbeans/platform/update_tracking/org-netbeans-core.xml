@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.core/2">
-    <module_version install_time="1684754803097" last="true" origin="installer" specification_version="3.71">
+    <module_version install_time="1692867873940" last="true" origin="installer" specification_version="3.72">
         <file crc="2753434556" name="config/ModuleAutoDeps/org-netbeans-core.xml"/>
         <file crc="2943625018" name="config/Modules/org-netbeans-core.xml"/>
-        <file crc="2708903583" name="modules/org-netbeans-core.jar"/>
+        <file crc="91304843" name="modules/org-netbeans-core.jar"/>
     </module_version>
 </module>

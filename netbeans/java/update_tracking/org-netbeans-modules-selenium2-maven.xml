@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.selenium2.maven">
-    <module_version install_time="1684755373867" last="true" origin="installer" specification_version="1.22">
+    <module_version install_time="1692868937543" last="true" origin="installer" specification_version="1.23">
         <file crc="2507739693" name="config/Modules/org-netbeans-modules-selenium2-maven.xml"/>
-        <file crc="3193742714" name="modules/org-netbeans-modules-selenium2-maven.jar"/>
+        <file crc="1079279172" name="modules/org-netbeans-modules-selenium2-maven.jar"/>
     </module_version>
 </module>

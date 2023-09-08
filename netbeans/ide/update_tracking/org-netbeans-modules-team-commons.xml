@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.team.commons">
-    <module_version install_time="1684754865317" last="true" origin="installer" specification_version="1.70">
+    <module_version install_time="1692867981417" last="true" origin="installer" specification_version="1.71">
         <file crc="3477206803" name="config/Modules/org-netbeans-modules-team-commons.xml"/>
-        <file crc="2514838185" name="modules/org-netbeans-modules-team-commons.jar"/>
+        <file crc="388018184" name="modules/org-netbeans-modules-team-commons.jar"/>
     </module_version>
 </module>

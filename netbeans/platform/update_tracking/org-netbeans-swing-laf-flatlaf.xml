@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.swing.laf.flatlaf">
-    <module_version install_time="1684754839200" last="true" origin="installer" specification_version="1.13">
+    <module_version install_time="1692867934338" last="true" origin="installer" specification_version="1.14">
         <file crc="2783023400" name="config/Modules/org-netbeans-swing-laf-flatlaf.xml"/>
-        <file crc="1854973850" name="modules/org-netbeans-swing-laf-flatlaf.jar"/>
+        <file crc="3680046184" name="modules/org-netbeans-swing-laf-flatlaf.jar"/>
     </module_version>
 </module>

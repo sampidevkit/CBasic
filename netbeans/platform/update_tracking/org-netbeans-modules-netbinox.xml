@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.netbinox">
-    <module_version install_time="1684754836360" last="true" origin="installer" specification_version="1.61">
+    <module_version install_time="1692867929879" last="true" origin="installer" specification_version="1.62">
         <file crc="3482404302" name="config/Modules/org-netbeans-modules-netbinox.xml"/>
         <file crc="3384881904" name="modules/ext/org.eclipse.osgi_3.9.1.nb9.jar"/>
-        <file crc="625918949" name="modules/org-netbeans-modules-netbinox.jar"/>
+        <file crc="2002817228" name="modules/org-netbeans-modules-netbinox.jar"/>
     </module_version>
 </module>

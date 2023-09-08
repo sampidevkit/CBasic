@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.maven.indexer/2">
-    <module_version install_time="1684755201664" last="true" origin="installer" specification_version="2.60">
+    <module_version install_time="1692868571425" last="true" origin="installer" specification_version="2.61">
         <file crc="3741439804" name="config/Modules/org-netbeans-modules-maven-indexer.xml"/>
-        <file crc="2799077179" name="modules/ext/maven/indexer-core-6.2.2.jar"/>
+        <file crc="3542709268" name="modules/ext/maven/gson-2.10.1.jar"/>
+        <file crc="574859362" name="modules/ext/maven/indexer-core-7.0.3.jar"/>
         <file crc="1922846449" name="modules/ext/maven/javax.annotation-api-1.2.jar"/>
-        <file crc="1073367392" name="modules/ext/maven/lucene-analyzers-common-8.11.1.jar"/>
-        <file crc="3239262036" name="modules/ext/maven/lucene-core-8.11.1.jar"/>
-        <file crc="3999642854" name="modules/ext/maven/lucene-highlighter-8.11.1.jar"/>
-        <file crc="3221683217" name="modules/ext/maven/lucene-queryparser-8.11.1.jar"/>
-        <file crc="3097655569" name="modules/org-netbeans-modules-maven-indexer.jar"/>
+        <file crc="1105552654" name="modules/ext/maven/lucene-analysis-common-9.6.0.jar"/>
+        <file crc="399117559" name="modules/ext/maven/lucene-backward-codecs-9.6.0.jar"/>
+        <file crc="3983314343" name="modules/ext/maven/lucene-core-9.6.0.jar"/>
+        <file crc="2773296586" name="modules/ext/maven/lucene-highlighter-9.6.0.jar"/>
+        <file crc="2894616343" name="modules/ext/maven/lucene-queryparser-9.6.0.jar"/>
+        <file crc="1209658794" name="modules/ext/maven/search-api-7.0.3.jar"/>
+        <file crc="717858903" name="modules/ext/maven/search-backend-smo-7.0.3.jar"/>
+        <file crc="2879899088" name="modules/org-netbeans-modules-maven-indexer.jar"/>
     </module_version>
 </module>

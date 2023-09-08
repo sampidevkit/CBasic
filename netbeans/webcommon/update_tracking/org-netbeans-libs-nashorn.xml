@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.nashorn/3">
-    <module_version install_time="1684755126763" last="true" origin="installer" specification_version="3.0">
+    <module_version install_time="1692868431121" last="true" origin="installer" specification_version="3.2">
         <file crc="250435371" name="config/Modules/org-netbeans-libs-nashorn.xml"/>
-        <file crc="1712879039" name="modules/org-netbeans-libs-nashorn.jar"/>
+        <file crc="2601325484" name="modules/org-netbeans-libs-nashorn.jar"/>
     </module_version>
 </module>

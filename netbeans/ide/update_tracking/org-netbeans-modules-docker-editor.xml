@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.docker.editor/0">
-    <module_version install_time="1684754972040" last="true" origin="installer" specification_version="1.20">
+    <module_version install_time="1692868162382" last="true" origin="installer" specification_version="1.21">
         <file crc="2074874214" name="config/Modules/org-netbeans-modules-docker-editor.xml"/>
-        <file crc="2082201729" name="modules/org-netbeans-modules-docker-editor.jar"/>
+        <file crc="3780194060" name="modules/org-netbeans-modules-docker-editor.jar"/>
     </module_version>
 </module>
