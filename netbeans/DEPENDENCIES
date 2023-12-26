@@ -17,8 +17,6 @@ From: Antlr
     License: BSD-like Antlr Runtime 3 license
   - Antlr: ANother Tool for Language Recognition, is a language tool that provides a framework for constructing recognizers, interpreters, compilers, and translators from grammatical descriptions. (https://www.antlr.org)
     License: BSD-antlr-runtime4-2
-  - Antlr: ANother Tool for Language Recognition, is a language tool that provides a framework for constructing recognizers, interpreters, compilers, and translators from grammatical descriptions. (https://www.antlr.org)
-    License: BSD-like Antlr Runtime 4 license
 
 From: Apache
   - Bean Scripting Framework: Bean Scripting Framework
@@ -64,12 +62,14 @@ From: Apache CXF
   - WSDL Schema: WSDL Schema described as an XML Schema
     License: WSDL-2004
 
-From: Apache NetBeans (version is commit hash)
-  - Profiler Binaries: Profiler Binaries for a large variety of platforms, superseds older CDDL binaries where applicable.
+From: Apache NetBeans (version includes commit hash)
+  - Native Execution binaries: binaries that used by dlight.nativeexecution module (process_start, pty, pty_open - used for dealing with pseude terminals; sigqueue, killall - sending signals to processes; stat - getting detailed file information; unbuffer.so - used when unbuffering is required)
+    License: Apache Version 2.0 with CLA reference (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Profiler Binaries: Profiler Binaries for variety of platforms, supersedes older CDDL binaries where applicable.
     License: Apache Version 2.0 with CLA reference (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: Apache Software Foundation
-  - Apache Ant: Ant build tool. (https://builds.apache.org/view/All/job/Ant_Nightly/lastBuild/)
+  - Apache Ant: Ant build tool. (https://archive.apache.org/dist/ant/binaries/apache-ant-1.10.14-bin.zip)
     License: Apache-2.0-ant
   - Apache CXF: Apache CXF is an open-source services framework that aids in the development of services using front-end programming APIs, like JAX-WS and JAX-RS. (http://cxf.apache.org/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
@@ -77,8 +77,6 @@ From: Apache Software Foundation
   - Apache Commons CSV: The Apache Commons CSV library provides a simple interface for reading and writing CSV files of various types. (https://commons.apache.org/proper/commons-csv/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Apache Commons IO: Assist with developing IO functionality (https://commons.apache.org/proper/commons-io/)
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Apache Commons: Assist with developing IO functionality (https://commons.apache.org/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Apache FreeMarker: Template engine
     License: Apache-2.0-freemarker
@@ -187,7 +185,7 @@ From: Eclipse
   - Equinox: Eclipse OSGi container (http://www.eclipse.org/equinox/)
     License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html) with OSGi materials under Apache License Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - JGit Library: Integration library for Git client (http://www.eclipse.org/jgit/download/)
-    License: EDL-1.0
+    License: EDL-1.0-jgit
   - Mylyn Bugzilla Connector: Mylyn Bugzilla Connector library (http://www.eclipse.org/mylyn)
     License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
   - Mylyn Commons NET library: Mylyn Commons NET library (http://www.eclipse.org/mylyn/)
@@ -490,7 +488,7 @@ From: OW2 Consortium
   - OW2 ASM: Bytecode manipulation library (https://repository.ow2.org/nexus/content/repositories/releases/org/ow2/asm/)
     License: BSD license with INRIA copyright
 
-From: OpenJDK (https://github.com/openjdk/jdk20)
+From: OpenJDK (https://github.com/openjdk/jdk21)
   - Javac Compiler Implementation: Javac Compiler Implementation
     License: GPL v2 with Classpath exception (http://openjdk.java.net/legal/gplv2+ce.html)
     Comment: The binary has been reviewed to be under the Classpath Exception as a whole. Optional at runtime, but used by default.
@@ -744,6 +742,8 @@ From: https://github.com/foojayio/discoclient
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: https://github.com/google/guava
+  - Guava - Failure Access Library: A Guava subproject
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Guava: Guava is a set of core libraries that includes new collection types (such as multimap and multiset), immutable collections, a graph library, and utilities for concurrency, I/O, hashing, primitives, strings, and more.
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 

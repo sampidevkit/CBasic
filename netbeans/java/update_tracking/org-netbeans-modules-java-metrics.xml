@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.metrics">
-    <module_version install_time="1692868869848" last="true" origin="installer" specification_version="1.29">
+    <module_version install_time="1700752725579" last="true" origin="installer" specification_version="1.30">
         <file crc="4061971602" name="config/Modules/org-netbeans-modules-java-metrics.xml"/>
-        <file crc="1941365911" name="modules/org-netbeans-modules-java-metrics.jar"/>
+        <file crc="4180311654" name="modules/org-netbeans-modules-java-metrics.jar"/>
     </module_version>
 </module>

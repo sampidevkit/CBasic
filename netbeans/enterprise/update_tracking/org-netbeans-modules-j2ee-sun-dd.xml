@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.j2ee.sun.dd/1">
-    <module_version install_time="1692869460116" last="true" origin="installer" specification_version="1.54.0.1">
+    <module_version install_time="1700752909645" last="true" origin="installer" specification_version="1.55.0.1">
         <file crc="1841007098" name="config/Modules/org-netbeans-modules-j2ee-sun-dd.xml"/>
-        <file crc="3628920486" name="modules/org-netbeans-modules-j2ee-sun-dd.jar"/>
+        <file crc="12633892" name="modules/org-netbeans-modules-j2ee-sun-dd.jar"/>
     </module_version>
 </module>

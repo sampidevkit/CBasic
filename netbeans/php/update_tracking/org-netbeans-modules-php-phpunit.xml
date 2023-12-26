@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.php.phpunit/0">
-    <module_version install_time="1692869220389" last="true" origin="installer" specification_version="0.46">
+    <module_version install_time="1700752833005" last="true" origin="installer" specification_version="0.47">
         <file crc="1409978273" name="config/Modules/org-netbeans-modules-php-phpunit.xml"/>
-        <file crc="3318296532" name="modules/org-netbeans-modules-php-phpunit.jar"/>
+        <file crc="4240366733" name="modules/org-netbeans-modules-php-phpunit.jar"/>
         <file crc="2630955582" name="phpunit/NetBeansSuite.php"/>
     </module_version>
 </module>

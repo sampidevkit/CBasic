@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.libs.clank/1">
-    <module_version install_time="1694188455200" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="0.4.14.1">
+    <module_version install_time="1703603061260" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="0.4.14.1">
         <file crc="4211140682" name="config/Modules/org-netbeans-libs-clank.xml"/>
         <file crc="3799531414" name="modules/ext/org-clang-analysis.jar"/>
         <file crc="207257786" name="modules/ext/org-clang-arcmigrate.jar"/>

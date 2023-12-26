@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.editor.indent.support">
-    <module_version install_time="1692868172794" last="true" origin="installer" specification_version="1.63">
+    <module_version install_time="1700752054723" last="true" origin="installer" specification_version="1.64">
         <file crc="925692268" name="config/Modules/org-netbeans-modules-editor-indent-support.xml"/>
-        <file crc="2823981859" name="modules/org-netbeans-modules-editor-indent-support.jar"/>
+        <file crc="584192344" name="modules/org-netbeans-modules-editor-indent-support.jar"/>
     </module_version>
 </module>

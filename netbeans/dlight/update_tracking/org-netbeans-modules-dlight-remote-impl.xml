@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.dlight.remote.impl">
-    <module_version install_time="1694188449971" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.27.19.1">
+    <module_version install_time="1703603054400" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.27.19.1">
         <file crc="2305076630" name="bin/FreeBSD-x86/fs_server"/>
         <file crc="3354373432" name="bin/Linux-arm/fs_server"/>
         <file crc="931568252" name="bin/Linux-sparc/fs_server"/>

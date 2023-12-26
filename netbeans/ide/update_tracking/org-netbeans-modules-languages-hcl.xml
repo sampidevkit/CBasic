@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.languages.hcl">
-    <module_version install_time="1692868239502" last="true" origin="installer" specification_version="1.1">
+    <module_version install_time="1700752152260" last="true" origin="installer" specification_version="1.2">
         <file crc="1481690816" name="config/Modules/org-netbeans-modules-languages-hcl.xml"/>
-        <file crc="4145049608" name="modules/org-netbeans-modules-languages-hcl.jar"/>
+        <file crc="2040232828" name="modules/org-netbeans-modules-languages-hcl.jar"/>
     </module_version>
 </module>

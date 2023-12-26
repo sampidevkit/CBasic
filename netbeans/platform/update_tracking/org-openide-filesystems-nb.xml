@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.openide.filesystems.nb">
-    <module_version install_time="1692867847542" last="true" origin="installer" specification_version="9.31">
+    <module_version install_time="1700751682160" last="true" origin="installer" specification_version="9.32">
         <file crc="282384882" name="config/Modules/org-openide-filesystems-nb.xml"/>
-        <file crc="1630831607" name="modules/org-openide-filesystems-nb.jar"/>
+        <file crc="3875004739" name="modules/org-openide-filesystems-nb.jar"/>
     </module_version>
 </module>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.dlight.nativeexecution">
-    <module_version install_time="1692868152936" last="true" origin="installer" specification_version="1.60.0.1">
+    <module_version install_time="1700752035745" last="true" origin="installer" specification_version="1.61.0.1">
         <file crc="3089438335" name="bin/nativeexecution/Linux-aarch64/killall"/>
         <file crc="912295131" name="bin/nativeexecution/Linux-aarch64/process_start"/>
         <file crc="3584150013" name="bin/nativeexecution/Linux-aarch64/pty"/>
@@ -28,6 +28,11 @@
         <file crc="496243041" name="bin/nativeexecution/Linux-x86_64/sigqueue"/>
         <file crc="3632465540" name="bin/nativeexecution/Linux-x86_64/stat"/>
         <file crc="3831061554" name="bin/nativeexecution/Linux-x86_64/unbuffer.so"/>
+        <file crc="763982356" name="bin/nativeexecution/MacOSX-arm_64/privp"/>
+        <file crc="3767284591" name="bin/nativeexecution/MacOSX-arm_64/process_start"/>
+        <file crc="2078328664" name="bin/nativeexecution/MacOSX-arm_64/pty"/>
+        <file crc="4069857212" name="bin/nativeexecution/MacOSX-arm_64/pty_open"/>
+        <file crc="365274958" name="bin/nativeexecution/MacOSX-arm_64/unbuffer.dylib"/>
         <file crc="2739242954" name="bin/nativeexecution/MacOSX-x86/killall"/>
         <file crc="1275998866" name="bin/nativeexecution/MacOSX-x86/process_start"/>
         <file crc="116223212" name="bin/nativeexecution/MacOSX-x86/pty"/>
@@ -76,8 +81,8 @@
         <file crc="1328258185" name="bin/nativeexecution/Windows-x86_64/sigqueue"/>
         <file crc="238068891" name="bin/nativeexecution/Windows-x86_64/unbuffer.dll"/>
         <file crc="2190030010" name="bin/nativeexecution/dorun.sh"/>
-        <file crc="1835906848" name="bin/nativeexecution/hostinfo.sh"/>
+        <file crc="2062504105" name="bin/nativeexecution/hostinfo.sh"/>
         <file crc="249150406" name="config/Modules/org-netbeans-modules-dlight-nativeexecution.xml"/>
-        <file crc="3829906111" name="modules/org-netbeans-modules-dlight-nativeexecution.jar"/>
+        <file crc="3666402024" name="modules/org-netbeans-modules-dlight-nativeexecution.jar"/>
     </module_version>
 </module>

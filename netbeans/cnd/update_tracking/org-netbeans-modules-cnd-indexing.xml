@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.cnd.indexing">
-    <module_version install_time="1694188463076" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.13.4.1">
+    <module_version install_time="1703603069915" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.13.4.1">
         <file crc="3722384464" name="config/Modules/org-netbeans-modules-cnd-indexing.xml"/>
         <file crc="2670930265" name="modules/locale/org-netbeans-modules-cnd-indexing_ja.jar"/>
         <file crc="3196559014" name="modules/locale/org-netbeans-modules-cnd-indexing_pt_BR.jar"/>

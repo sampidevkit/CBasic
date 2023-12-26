@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.nbi.ant">
-    <module_version install_time="1692867966858" last="true" origin="installer" specification_version="1.43">
+    <module_version install_time="1700751823525" last="true" origin="installer" specification_version="1.44">
         <file crc="55657938" name="config/Modules/org-netbeans-libs-nbi-ant.xml"/>
-        <file crc="3550939245" name="modules/ext/nbi-ant-tasks.jar"/>
-        <file crc="2844948517" name="modules/ext/nbi-registries-management.jar"/>
-        <file crc="2836836688" name="modules/org-netbeans-libs-nbi-ant.jar"/>
+        <file crc="884611176" name="modules/ext/nbi-ant-tasks.jar"/>
+        <file crc="4081509311" name="modules/ext/nbi-registries-management.jar"/>
+        <file crc="3844453944" name="modules/org-netbeans-libs-nbi-ant.jar"/>
         <file crc="2350530027" name="nbi/.common/common.properties"/>
         <file crc="2182362675" name="nbi/.common/common.xml"/>
         <file crc="259541933" name="nbi/.common/engine.properties"/>

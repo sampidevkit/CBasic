@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.debugger.jpda.visual/1">
-    <module_version install_time="1692868655227" last="true" origin="installer" specification_version="1.38">
+    <module_version install_time="1700752660980" last="true" origin="installer" specification_version="1.39">
         <file crc="1141697199" name="config/Modules/org-netbeans-modules-debugger-jpda-visual.xml"/>
-        <file crc="2523313963" name="modules/org-netbeans-modules-debugger-jpda-visual.jar"/>
+        <file crc="1348153086" name="modules/org-netbeans-modules-debugger-jpda-visual.jar"/>
     </module_version>
 </module>

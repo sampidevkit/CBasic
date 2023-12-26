@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.spi.viewmodel/2">
-    <module_version install_time="1692868222235" last="true" origin="installer" specification_version="1.72">
+    <module_version install_time="1700752127151" last="true" origin="installer" specification_version="1.73">
         <file crc="2737119136" name="config/Modules/org-netbeans-spi-viewmodel.xml"/>
-        <file crc="1400752393" name="modules/org-netbeans-spi-viewmodel.jar"/>
+        <file crc="856629420" name="modules/org-netbeans-spi-viewmodel.jar"/>
     </module_version>
 </module>

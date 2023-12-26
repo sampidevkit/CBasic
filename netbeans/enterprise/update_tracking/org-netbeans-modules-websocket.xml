@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.websocket">
-    <module_version install_time="1692869765119" last="true" origin="installer" specification_version="1.28">
+    <module_version install_time="1700753009024" last="true" origin="installer" specification_version="1.29">
         <file crc="2381634834" name="config/Modules/org-netbeans-modules-websocket.xml"/>
-        <file crc="3960655354" name="modules/org-netbeans-modules-websocket.jar"/>
+        <file crc="1307837485" name="modules/org-netbeans-modules-websocket.jar"/>
     </module_version>
 </module>

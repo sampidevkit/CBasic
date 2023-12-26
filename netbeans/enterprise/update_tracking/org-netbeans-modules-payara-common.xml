@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.payara.common/0">
-    <module_version install_time="1692869638448" last="true" origin="installer" specification_version="2.16">
+    <module_version install_time="1700752966586" last="true" origin="installer" specification_version="2.17">
         <file crc="1789428045" name="config/Modules/org-netbeans-modules-payara-common.xml"/>
-        <file crc="2494540495" name="modules/org-netbeans-modules-payara-common.jar"/>
+        <file crc="484761733" name="modules/org-netbeans-modules-payara-common.jar"/>
     </module_version>
 </module>

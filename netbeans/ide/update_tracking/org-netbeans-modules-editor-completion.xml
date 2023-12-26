@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.editor.completion/1">
-    <module_version install_time="1692868066618" last="true" origin="installer" specification_version="1.66.0.2">
+    <module_version install_time="1700751943439" last="true" origin="installer" specification_version="1.67.0.2">
         <file crc="1327033579" name="config/Modules/org-netbeans-modules-editor-completion.xml"/>
-        <file crc="1917418655" name="modules/org-netbeans-modules-editor-completion.jar"/>
+        <file crc="4224385990" name="modules/org-netbeans-modules-editor-completion.jar"/>
     </module_version>
 </module>

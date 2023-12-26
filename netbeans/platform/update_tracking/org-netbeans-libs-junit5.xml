@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.junit5">
-    <module_version install_time="1692867923100" last="true" origin="installer" specification_version="1.18">
+    <module_version install_time="1700751773648" last="true" origin="installer" specification_version="1.19">
         <file crc="3766699741" name="config/Modules/org-netbeans-libs-junit5.xml"/>
         <file crc="569411667" name="modules/ext/junit-jupiter-api-5.6.0.jar"/>
         <file crc="75930866" name="modules/ext/junit-jupiter-engine-5.6.0.jar"/>
         <file crc="3935758117" name="modules/ext/junit-jupiter-params-5.6.0.jar"/>
-        <file crc="180738857" name="modules/org-netbeans-libs-junit5.jar"/>
+        <file crc="3225887701" name="modules/org-netbeans-libs-junit5.jar"/>
     </module_version>
 </module>

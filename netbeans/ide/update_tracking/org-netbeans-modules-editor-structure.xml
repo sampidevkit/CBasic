@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.editor.structure/1">
-    <module_version install_time="1692868178045" last="true" origin="installer" specification_version="1.68.0.1">
+    <module_version install_time="1700752063546" last="true" origin="installer" specification_version="1.69.0.1">
         <file crc="215816205" name="config/Modules/org-netbeans-modules-editor-structure.xml"/>
-        <file crc="3036289655" name="modules/org-netbeans-modules-editor-structure.jar"/>
+        <file crc="4114081125" name="modules/org-netbeans-modules-editor-structure.jar"/>
     </module_version>
 </module>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.websvc.saas.api">
-    <module_version install_time="1692868412209" last="true" origin="installer" specification_version="1.52">
+    <module_version install_time="1700752461530" last="true" origin="installer" specification_version="1.53">
         <file crc="3369378520" name="config/Modules/org-netbeans-modules-websvc-saas-api.xml"/>
         <file crc="421401170" name="modules/ext/build-jaxb.xml"/>
-        <file crc="4063014313" name="modules/org-netbeans-modules-websvc-saas-api.jar"/>
+        <file crc="147982470" name="modules/org-netbeans-modules-websvc-saas-api.jar"/>
     </module_version>
 </module>

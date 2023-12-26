@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.notifications">
-    <module_version install_time="1692868272900" last="true" origin="installer" specification_version="1.29">
+    <module_version install_time="1700752215902" last="true" origin="installer" specification_version="1.30">
         <file crc="3812408449" name="config/Modules/org-netbeans-modules-notifications.xml"/>
-        <file crc="2580644684" name="modules/org-netbeans-modules-notifications.jar"/>
+        <file crc="624109659" name="modules/org-netbeans-modules-notifications.jar"/>
     </module_version>
 </module>

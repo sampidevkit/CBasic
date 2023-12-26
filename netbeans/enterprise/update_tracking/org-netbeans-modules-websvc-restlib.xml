@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.websvc.restlib/2">
-    <module_version install_time="1692869344511" last="true" origin="installer" specification_version="2.29">
+    <module_version install_time="1700752877675" last="true" origin="installer" specification_version="2.30">
         <file crc="2279752207" name="config/Modules/org-netbeans-modules-websvc-restlib.xml"/>
         <file crc="3083064478" name="modules/ext/javax.annotation-api-1.3.2.jar"/>
         <file crc="3512803930" name="modules/ext/jaxrs-2.1/jakarta.ws.rs-api-2.1.6.jar"/>
@@ -26,6 +26,6 @@
         <file crc="973357405" name="modules/ext/jersey2/jersey-server-2.35.jar"/>
         <file crc="3864649614" name="modules/ext/jersey2/osgi-resource-locator-1.0.3.jar"/>
         <file crc="1671437719" name="modules/ext/jersey2/osgi.core-8.0.0.jar"/>
-        <file crc="4289895083" name="modules/org-netbeans-modules-websvc-restlib.jar"/>
+        <file crc="486724455" name="modules/org-netbeans-modules-websvc-restlib.jar"/>
     </module_version>
 </module>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.cnd.debugger.common2/3">
-    <module_version install_time="1694188457492" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="3.30.27">
+    <module_version install_time="1703603059378" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="3.30.27">
         <file crc="1046717998" name="bin/GdbKillProc.exe"/>
         <file crc="2917570917" name="config/Modules/org-netbeans-modules-cnd-debugger-common2.xml"/>
         <file crc="1803097638" name="modules/locale/org-netbeans-modules-cnd-debugger-common2_ja.jar"/>

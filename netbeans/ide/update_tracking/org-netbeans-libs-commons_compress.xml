@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.commons_compress/0">
-    <module_version install_time="1692868159616" last="true" origin="installer" specification_version="0.27.0.181">
+    <module_version install_time="1700752042787" last="true" origin="installer" specification_version="0.28.0.181">
         <file crc="283737491" name="config/Modules/org-netbeans-libs-commons_compress.xml"/>
-        <file crc="1462300816" name="modules/ext/commons-compress-1.23.0.jar"/>
-        <file crc="2974410334" name="modules/org-netbeans-libs-commons_compress.jar"/>
+        <file crc="956789113" name="modules/ext/commons-compress-1.24.0.jar"/>
+        <file crc="4108514812" name="modules/org-netbeans-libs-commons_compress.jar"/>
     </module_version>
 </module>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.languages.go">
-    <module_version install_time="1692868235226" last="true" origin="installer" specification_version="1.1">
+    <module_version install_time="1700752144566" last="true" origin="installer" specification_version="1.2">
         <file crc="1664915215" name="config/Modules/org-netbeans-modules-languages-go.xml"/>
-        <file crc="2697553546" name="modules/org-netbeans-modules-languages-go.jar"/>
+        <file crc="2630588081" name="modules/org-netbeans-modules-languages-go.jar"/>
     </module_version>
 </module>

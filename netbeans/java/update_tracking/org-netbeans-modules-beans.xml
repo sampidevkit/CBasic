@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.beans/1">
-    <module_version install_time="1692868620834" last="true" origin="installer" specification_version="1.72.0.1.12">
+    <module_version install_time="1700752644615" last="true" origin="installer" specification_version="1.73.0.1.12">
         <file crc="3458912359" name="config/Modules/org-netbeans-modules-beans.xml"/>
-        <file crc="1606319420" name="modules/org-netbeans-modules-beans.jar"/>
+        <file crc="2984422462" name="modules/org-netbeans-modules-beans.jar"/>
     </module_version>
 </module>

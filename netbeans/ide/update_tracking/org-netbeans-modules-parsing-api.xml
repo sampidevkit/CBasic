@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.parsing.api/1">
-    <module_version install_time="1692868044892" last="true" origin="installer" specification_version="9.28.0.8">
+    <module_version install_time="1700751922783" last="true" origin="installer" specification_version="9.29.0.8">
         <file crc="4019564629" name="config/ModuleAutoDeps/org-netbeans-modules-parsing-api.xml"/>
         <file crc="3233347998" name="config/Modules/org-netbeans-modules-parsing-api.xml"/>
-        <file crc="1971831265" name="modules/org-netbeans-modules-parsing-api.jar"/>
+        <file crc="768343756" name="modules/org-netbeans-modules-parsing-api.jar"/>
     </module_version>
 </module>

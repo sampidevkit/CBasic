@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.cloud.amazon/0">
-    <module_version install_time="1692869343652" last="true" origin="installer" specification_version="1.33">
+    <module_version install_time="1700752877405" last="true" origin="installer" specification_version="1.34">
         <file crc="3273308792" name="config/Modules/org-netbeans-modules-cloud-amazon.xml"/>
-        <file crc="2197743407" name="modules/org-netbeans-modules-cloud-amazon.jar"/>
+        <file crc="3472446353" name="modules/org-netbeans-modules-cloud-amazon.jar"/>
     </module_version>
 </module>
