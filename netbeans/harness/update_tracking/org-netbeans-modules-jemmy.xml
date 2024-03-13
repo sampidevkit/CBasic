@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.jemmy/3">
-    <module_version install_time="1700751815426" last="true" origin="installer" specification_version="3.49">
+    <module_version install_time="1708007142467" last="true" origin="installer" specification_version="3.50">
         <file crc="2792960258" name="config/Modules/org-netbeans-modules-jemmy.xml"/>
         <file crc="4195459132" name="docs/jemmy-2.3.1.1-doc.zip"/>
         <file crc="1182184280" name="docs/jemmy-2.3.1.1-src.zip"/>
         <file crc="779326821" name="modules/ext/jemmy-2.3.1.1.jar"/>
-        <file crc="740685246" name="modules/org-netbeans-modules-jemmy.jar"/>
+        <file crc="1466901881" name="modules/org-netbeans-modules-jemmy.jar"/>
     </module_version>
 </module>

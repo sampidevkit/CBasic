@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.api.debugger/1">
-    <module_version install_time="1700751828231" last="true" origin="installer" specification_version="1.77">
+    <module_version install_time="1708007148817" last="true" origin="installer" specification_version="1.78">
         <file crc="3559887295" name="config/Modules/org-netbeans-api-debugger.xml"/>
-        <file crc="2881982668" name="modules/org-netbeans-api-debugger.jar"/>
+        <file crc="1095059054" name="modules/org-netbeans-api-debugger.jar"/>
     </module_version>
 </module>

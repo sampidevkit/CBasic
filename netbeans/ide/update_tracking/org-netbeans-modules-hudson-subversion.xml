@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.hudson.subversion">
-    <module_version install_time="1700752120265" last="true" origin="installer" specification_version="1.51">
+    <module_version install_time="1708007236498" last="true" origin="installer" specification_version="1.52">
         <file crc="2440603391" name="config/Modules/org-netbeans-modules-hudson-subversion.xml"/>
-        <file crc="1883583875" name="modules/org-netbeans-modules-hudson-subversion.jar"/>
+        <file crc="505685758" name="modules/org-netbeans-modules-hudson-subversion.jar"/>
     </module_version>
 </module>

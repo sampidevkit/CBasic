@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.languages.toml">
-    <module_version install_time="1700752156095" last="true" origin="installer" specification_version="1.4">
+    <module_version install_time="1708007246192" last="true" origin="installer" specification_version="1.5">
         <file crc="3289412272" name="config/Modules/org-netbeans-modules-languages-toml.xml"/>
-        <file crc="4007059379" name="modules/org-netbeans-modules-languages-toml.jar"/>
+        <file crc="2154501393" name="modules/org-netbeans-modules-languages-toml.jar"/>
     </module_version>
 </module>

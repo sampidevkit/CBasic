@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="bcpg">
-    <module_version install_time="1700751837589" last="true" origin="installer" specification_version="1.76">
+    <module_version install_time="1708007150741" last="true" origin="installer" specification_version="1.77">
         <file crc="2082196529" name="config/Modules/bcpg.xml"/>
-        <file crc="461773935" name="modules/bcpg.jar"/>
+        <file crc="4000514749" name="modules/bcpg.jar"/>
     </module_version>
 </module>

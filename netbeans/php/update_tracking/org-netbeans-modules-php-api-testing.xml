@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.php.api.testing/0">
-    <module_version install_time="1700752804490" last="true" origin="installer" specification_version="0.41">
+    <module_version install_time="1708007534605" last="true" origin="installer" specification_version="0.42">
         <file crc="3510836631" name="config/Modules/org-netbeans-modules-php-api-testing.xml"/>
-        <file crc="2154854567" name="modules/org-netbeans-modules-php-api-testing.jar"/>
+        <file crc="491702376" name="modules/org-netbeans-modules-php-api-testing.jar"/>
     </module_version>
 </module>

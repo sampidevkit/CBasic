@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.masterfs.ui">
-    <module_version install_time="1700751784956" last="true" origin="installer" specification_version="2.25.0.2">
+    <module_version install_time="1708007131898" last="true" origin="installer" specification_version="2.26.0.2">
         <file crc="2385583820" name="config/Modules/org-netbeans-modules-masterfs-ui.xml"/>
-        <file crc="4260495196" name="modules/org-netbeans-modules-masterfs-ui.jar"/>
+        <file crc="1718698061" name="modules/org-netbeans-modules-masterfs-ui.jar"/>
     </module_version>
 </module>

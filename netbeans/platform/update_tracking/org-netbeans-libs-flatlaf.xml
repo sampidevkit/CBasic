@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.flatlaf/1">
-    <module_version install_time="1700751770472" last="true" origin="installer" specification_version="1.16">
+    <module_version install_time="1708007129166" last="true" origin="installer" specification_version="1.17">
         <file crc="3525305238" name="config/Modules/org-netbeans-libs-flatlaf.xml"/>
-        <file crc="2006133340" name="modules/ext/flatlaf-3.2.5.jar"/>
-        <file crc="2064502190" name="modules/lib/flatlaf-windows-arm64.dll"/>
-        <file crc="1974209749" name="modules/lib/flatlaf-windows-x86.dll"/>
-        <file crc="613455275" name="modules/lib/flatlaf-windows-x86_64.dll"/>
+        <file crc="773083607" name="modules/ext/flatlaf-3.3.jar"/>
+        <file crc="2978141562" name="modules/lib/flatlaf-windows-arm64.dll"/>
+        <file crc="4276218971" name="modules/lib/flatlaf-windows-x86.dll"/>
+        <file crc="1281021853" name="modules/lib/flatlaf-windows-x86_64.dll"/>
         <file crc="2794066363" name="modules/lib/libflatlaf-linux-x86_64.so"/>
-        <file crc="4264804745" name="modules/org-netbeans-libs-flatlaf.jar"/>
+        <file crc="3792123906" name="modules/lib/libflatlaf-macos-arm64.dylib"/>
+        <file crc="17161466" name="modules/lib/libflatlaf-macos-x86_64.dylib"/>
+        <file crc="2990536231" name="modules/org-netbeans-libs-flatlaf.jar"/>
     </module_version>
 </module>

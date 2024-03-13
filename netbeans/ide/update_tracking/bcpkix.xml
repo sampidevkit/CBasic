@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="bcpkix">
-    <module_version install_time="1700751838015" last="true" origin="installer" specification_version="1.76">
+    <module_version install_time="1708007150876" last="true" origin="installer" specification_version="1.77">
         <file crc="1238390709" name="config/Modules/bcpkix.xml"/>
-        <file crc="1578652716" name="modules/bcpkix.jar"/>
+        <file crc="3895362880" name="modules/bcpkix.jar"/>
     </module_version>
 </module>

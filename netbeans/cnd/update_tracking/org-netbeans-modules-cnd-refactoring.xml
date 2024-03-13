@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.cnd.refactoring/1">
-    <module_version install_time="1703603072228" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.30.13.1">
+    <module_version install_time="1710340344069" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.30.13.1">
         <file crc="545263660" name="config/Modules/org-netbeans-modules-cnd-refactoring.xml"/>
         <file crc="300141507" name="modules/locale/org-netbeans-modules-cnd-refactoring_ja.jar"/>
         <file crc="1005647734" name="modules/locale/org-netbeans-modules-cnd-refactoring_pt_BR.jar"/>

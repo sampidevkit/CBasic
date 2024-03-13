@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.options.editor/1">
-    <module_version install_time="1700751883825" last="true" origin="installer" specification_version="1.82">
+    <module_version install_time="1708007161776" last="true" origin="installer" specification_version="1.83">
         <file crc="871474627" name="config/ModuleAutoDeps/org-netbeans-modules-options-editor.xml"/>
         <file crc="3699321809" name="config/Modules/org-netbeans-modules-options-editor.xml"/>
-        <file crc="1202610353" name="modules/org-netbeans-modules-options-editor.jar"/>
+        <file crc="3190233334" name="modules/org-netbeans-modules-options-editor.jar"/>
     </module_version>
 </module>

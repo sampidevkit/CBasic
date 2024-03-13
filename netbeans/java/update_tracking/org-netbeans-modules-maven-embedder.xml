@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.maven.embedder/2">
-    <module_version install_time="1700752609159" last="true" origin="installer" specification_version="2.77">
+    <module_version install_time="1708007359742" last="true" origin="installer" specification_version="2.78">
         <file crc="2918674022" name="config/Modules/org-netbeans-modules-maven-embedder.xml"/>
-        <file crc="888928332" name="maven/LICENSE"/>
+        <file crc="1033725687" name="maven/LICENSE"/>
         <file crc="3356955967" name="maven/NOTICE"/>
         <file crc="799518996" name="maven/README.txt"/>
         <file crc="3413164043" name="maven/bin/m2.conf"/>
@@ -47,32 +47,32 @@
         <file crc="2263004340" name="maven/lib/javax.inject.license"/>
         <file crc="1498304188" name="maven/lib/jcl-over-slf4j-1.7.36.jar"/>
         <file crc="2263004340" name="maven/lib/jcl-over-slf4j.license"/>
-        <file crc="3512060644" name="maven/lib/maven-artifact-3.9.5.jar"/>
-        <file crc="4000170949" name="maven/lib/maven-builder-support-3.9.5.jar"/>
-        <file crc="1517463670" name="maven/lib/maven-compat-3.9.5.jar"/>
-        <file crc="1689672719" name="maven/lib/maven-core-3.9.5.jar"/>
-        <file crc="2799096948" name="maven/lib/maven-embedder-3.9.5.jar"/>
-        <file crc="1479079581" name="maven/lib/maven-model-3.9.5.jar"/>
-        <file crc="186974248" name="maven/lib/maven-model-builder-3.9.5.jar"/>
-        <file crc="626151878" name="maven/lib/maven-plugin-api-3.9.5.jar"/>
-        <file crc="959552838" name="maven/lib/maven-repository-metadata-3.9.5.jar"/>
-        <file crc="3230903984" name="maven/lib/maven-resolver-api-1.9.16.jar"/>
-        <file crc="4002010493" name="maven/lib/maven-resolver-connector-basic-1.9.16.jar"/>
-        <file crc="3754119467" name="maven/lib/maven-resolver-impl-1.9.16.jar"/>
-        <file crc="718958816" name="maven/lib/maven-resolver-named-locks-1.9.16.jar"/>
-        <file crc="2623396423" name="maven/lib/maven-resolver-provider-3.9.5.jar"/>
-        <file crc="3153408005" name="maven/lib/maven-resolver-spi-1.9.16.jar"/>
-        <file crc="3210144099" name="maven/lib/maven-resolver-transport-file-1.9.16.jar"/>
-        <file crc="1109011126" name="maven/lib/maven-resolver-transport-http-1.9.16.jar"/>
-        <file crc="2515660073" name="maven/lib/maven-resolver-transport-wagon-1.9.16.jar"/>
-        <file crc="1182330954" name="maven/lib/maven-resolver-util-1.9.16.jar"/>
-        <file crc="4002618113" name="maven/lib/maven-settings-3.9.5.jar"/>
-        <file crc="2267526202" name="maven/lib/maven-settings-builder-3.9.5.jar"/>
+        <file crc="767213701" name="maven/lib/maven-artifact-3.9.6.jar"/>
+        <file crc="49112213" name="maven/lib/maven-builder-support-3.9.6.jar"/>
+        <file crc="778260396" name="maven/lib/maven-compat-3.9.6.jar"/>
+        <file crc="824460808" name="maven/lib/maven-core-3.9.6.jar"/>
+        <file crc="342200689" name="maven/lib/maven-embedder-3.9.6.jar"/>
+        <file crc="193692832" name="maven/lib/maven-model-3.9.6.jar"/>
+        <file crc="4136161910" name="maven/lib/maven-model-builder-3.9.6.jar"/>
+        <file crc="3308981653" name="maven/lib/maven-plugin-api-3.9.6.jar"/>
+        <file crc="2763298793" name="maven/lib/maven-repository-metadata-3.9.6.jar"/>
+        <file crc="3784723963" name="maven/lib/maven-resolver-api-1.9.18.jar"/>
+        <file crc="2306736767" name="maven/lib/maven-resolver-connector-basic-1.9.18.jar"/>
+        <file crc="1274055513" name="maven/lib/maven-resolver-impl-1.9.18.jar"/>
+        <file crc="452201951" name="maven/lib/maven-resolver-named-locks-1.9.18.jar"/>
+        <file crc="2558564302" name="maven/lib/maven-resolver-provider-3.9.6.jar"/>
+        <file crc="3491566626" name="maven/lib/maven-resolver-spi-1.9.18.jar"/>
+        <file crc="2059941077" name="maven/lib/maven-resolver-transport-file-1.9.18.jar"/>
+        <file crc="4073898655" name="maven/lib/maven-resolver-transport-http-1.9.18.jar"/>
+        <file crc="180728710" name="maven/lib/maven-resolver-transport-wagon-1.9.18.jar"/>
+        <file crc="1492950862" name="maven/lib/maven-resolver-util-1.9.18.jar"/>
+        <file crc="2956831645" name="maven/lib/maven-settings-3.9.6.jar"/>
+        <file crc="244087282" name="maven/lib/maven-settings-builder-3.9.6.jar"/>
         <file crc="132260789" name="maven/lib/maven-shared-utils-3.3.4.jar"/>
-        <file crc="3492505332" name="maven/lib/maven-slf4j-provider-3.9.5.jar"/>
-        <file crc="1295623138" name="maven/lib/org.eclipse.sisu.inject-0.3.5.jar"/>
+        <file crc="3350069955" name="maven/lib/maven-slf4j-provider-3.9.6.jar"/>
+        <file crc="1138154668" name="maven/lib/org.eclipse.sisu.inject-0.9.0.M2.jar"/>
         <file crc="3130736240" name="maven/lib/org.eclipse.sisu.inject.license"/>
-        <file crc="2577894613" name="maven/lib/org.eclipse.sisu.plexus-0.3.5.jar"/>
+        <file crc="1513367751" name="maven/lib/org.eclipse.sisu.plexus-0.9.0.M2.jar"/>
         <file crc="3130736240" name="maven/lib/org.eclipse.sisu.plexus.license"/>
         <file crc="3419937135" name="maven/lib/plexus-cipher-2.0.jar"/>
         <file crc="2263004340" name="maven/lib/plexus-cipher.license"/>
@@ -93,6 +93,6 @@
         <file crc="3694458392" name="modules/ext/maven/jdom2-2.0.6.1.jar"/>
         <file crc="4091248900" name="modules/ext/maven/maven-dependency-tree-2.2.jar"/>
         <file crc="3716896442" name="modules/ext/maven/rootpackage/default-report.xml"/>
-        <file crc="2665635081" name="modules/org-netbeans-modules-maven-embedder.jar"/>
+        <file crc="2133328647" name="modules/org-netbeans-modules-maven-embedder.jar"/>
     </module_version>
 </module>

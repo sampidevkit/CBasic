@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.jackson/2">
-    <module_version install_time="1700752873020" last="true" origin="installer" specification_version="2.20">
+    <module_version install_time="1708007601307" last="true" origin="installer" specification_version="2.21">
         <file crc="1884153638" name="config/Modules/org-netbeans-libs-jackson.xml"/>
-        <file crc="3821060346" name="modules/ext/jackson/jackson-annotations-2.13.5.jar"/>
-        <file crc="1381038848" name="modules/ext/jackson/jackson-core-2.13.5.jar"/>
-        <file crc="2916956815" name="modules/ext/jackson/jackson-databind-2.13.5.jar"/>
-        <file crc="4289403091" name="modules/ext/jackson/jackson-dataformat-cbor-2.13.5.jar"/>
-        <file crc="3621097756" name="modules/ext/jackson/jackson-datatype-jsr310-2.13.5.jar"/>
-        <file crc="3610860907" name="modules/ext/jackson/jackson-module-jaxb-annotations-2.13.5.jar"/>
-        <file crc="2230841208" name="modules/org-netbeans-libs-jackson.jar"/>
+        <file crc="3104749146" name="modules/ext/jackson/jackson-annotations-2.16.1.jar"/>
+        <file crc="2285081545" name="modules/ext/jackson/jackson-core-2.16.1.jar"/>
+        <file crc="4031932316" name="modules/ext/jackson/jackson-databind-2.16.1.jar"/>
+        <file crc="1358662326" name="modules/ext/jackson/jackson-dataformat-cbor-2.16.1.jar"/>
+        <file crc="1811086013" name="modules/ext/jackson/jackson-datatype-jsr310-2.16.1.jar"/>
+        <file crc="841699993" name="modules/ext/jackson/jackson-module-jaxb-annotations-2.16.1.jar"/>
+        <file crc="804366318" name="modules/org-netbeans-libs-jackson.jar"/>
     </module_version>
 </module>

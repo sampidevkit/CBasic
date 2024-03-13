@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.antlr3.runtime">
-    <module_version install_time="1700751955861" last="true" origin="installer" specification_version="1.43.0.1">
+    <module_version install_time="1708007185639" last="true" origin="installer" specification_version="1.44.0.1">
         <file crc="455280824" name="config/Modules/org-netbeans-libs-antlr3-runtime.xml"/>
         <file crc="3619670635" name="modules/ext/antlr-runtime-3.5.2.jar"/>
-        <file crc="3196434829" name="modules/org-netbeans-libs-antlr3-runtime.jar"/>
+        <file crc="1446726726" name="modules/org-netbeans-libs-antlr3-runtime.jar"/>
     </module_version>
 </module>

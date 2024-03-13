@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.profiler.options">
-    <module_version install_time="1700752775089" last="true" origin="installer" specification_version="1.41">
+    <module_version install_time="1708007507827" last="true" origin="installer" specification_version="1.42">
         <file crc="2546083852" name="config/Modules/org-netbeans-modules-profiler-options.xml"/>
-        <file crc="1613000095" name="modules/org-netbeans-modules-profiler-options.jar"/>
+        <file crc="388136463" name="modules/org-netbeans-modules-profiler-options.jar"/>
     </module_version>
 </module>

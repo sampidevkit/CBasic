@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.db.drivers">
-    <module_version install_time="1700752003023" last="true" origin="installer" specification_version="1.52">
+    <module_version install_time="1708007204729" last="true" origin="installer" specification_version="1.53">
         <file crc="153511136" name="config/Modules/org-netbeans-modules-db-drivers.xml"/>
         <file crc="2236253326" name="modules/ext/postgresql-42.5.4.jar"/>
-        <file crc="2455834915" name="modules/org-netbeans-modules-db-drivers.jar"/>
+        <file crc="1504375562" name="modules/org-netbeans-modules-db-drivers.jar"/>
     </module_version>
 </module>

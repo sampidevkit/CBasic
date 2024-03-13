@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.websvc.projectapi/0">
-    <module_version install_time="1700752960268" last="true" origin="installer" specification_version="1.44">
+    <module_version install_time="1708007690573" last="true" origin="installer" specification_version="1.45">
         <file crc="3908823694" name="config/Modules/org-netbeans-modules-websvc-projectapi.xml"/>
-        <file crc="4147248447" name="modules/org-netbeans-modules-websvc-projectapi.jar"/>
+        <file crc="2744039590" name="modules/org-netbeans-modules-websvc-projectapi.jar"/>
     </module_version>
 </module>

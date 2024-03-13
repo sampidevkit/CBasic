@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.cloud.oracle">
-    <module_version install_time="1700752879866" last="true" origin="installer" specification_version="1.8">
+    <module_version install_time="1708007609287" last="true" origin="installer" specification_version="1.9">
         <file crc="519643218" name="config/Modules/org-netbeans-modules-cloud-oracle.xml"/>
         <file crc="3961946988" name="modules/ext/httpclient-4.5.13.jar"/>
         <file crc="802074599" name="modules/ext/httpcore-4.4.13.jar"/>
@@ -20,6 +20,6 @@
         <file crc="2588706981" name="modules/ext/resilience4j-core-1.7.1.jar"/>
         <file crc="1865122622" name="modules/ext/vavr-0.10.2.jar"/>
         <file crc="1368343068" name="modules/ext/vavr-match-0.10.2.jar"/>
-        <file crc="2757535580" name="modules/org-netbeans-modules-cloud-oracle.jar"/>
+        <file crc="3929844114" name="modules/org-netbeans-modules-cloud-oracle.jar"/>
     </module_version>
 </module>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.graaljs/2">
-    <module_version install_time="1700752550357" last="true" origin="installer" specification_version="1.22">
+    <module_version install_time="1708007335648" last="true" origin="installer" specification_version="1.23">
         <file crc="3890147895" name="config/Modules/org-netbeans-libs-graaljs.xml"/>
         <file crc="1594364830" name="modules/ext/icu4j-67.1.jar"/>
         <file crc="3390045684" name="modules/ext/js-20.3.0.jar"/>
         <file crc="3323518191" name="modules/ext/js-launcher-20.3.0.jar"/>
         <file crc="1445613863" name="modules/ext/regex-20.3.0.jar"/>
-        <file crc="1218782899" name="modules/org-netbeans-libs-graaljs.jar"/>
+        <file crc="83957577" name="modules/org-netbeans-libs-graaljs.jar"/>
     </module_version>
 </module>

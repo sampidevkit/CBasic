@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.upgrader">
-    <module_version install_time="1700752783720" last="true" origin="installer" specification_version="4.57">
-        <file crc="3559210375" name="core/org-netbeans-upgrader.jar"/>
+    <module_version install_time="1708007514694" last="true" origin="installer" specification_version="4.58">
+        <file crc="3019400971" name="core/org-netbeans-upgrader.jar"/>
     </module_version>
 </module>

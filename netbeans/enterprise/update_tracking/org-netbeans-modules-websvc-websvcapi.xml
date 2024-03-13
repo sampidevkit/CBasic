@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.websvc.websvcapi">
-    <module_version install_time="1700752926932" last="true" origin="installer" specification_version="1.53">
+    <module_version install_time="1708007654445" last="true" origin="installer" specification_version="1.54">
         <file crc="3184216548" name="config/Modules/org-netbeans-modules-websvc-websvcapi.xml"/>
-        <file crc="3371899766" name="modules/org-netbeans-modules-websvc-websvcapi.jar"/>
+        <file crc="503306627" name="modules/org-netbeans-modules-websvc-websvcapi.jar"/>
     </module_version>
 </module>

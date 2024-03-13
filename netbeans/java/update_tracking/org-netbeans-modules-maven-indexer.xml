@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.maven.indexer/2">
-    <module_version install_time="1700752613361" last="true" origin="installer" specification_version="2.62">
+    <module_version install_time="1708007361035" last="true" origin="installer" specification_version="2.63">
         <file crc="3741439804" name="config/Modules/org-netbeans-modules-maven-indexer.xml"/>
         <file crc="3542709268" name="modules/ext/maven/gson-2.10.1.jar"/>
-        <file crc="1122689108" name="modules/ext/maven/indexer-core-7.0.4.jar"/>
+        <file crc="3610690569" name="modules/ext/maven/indexer-core-7.1.2.jar"/>
         <file crc="1922846449" name="modules/ext/maven/javax.annotation-api-1.2.jar"/>
-        <file crc="1897867035" name="modules/ext/maven/lucene-analysis-common-9.8.0.jar"/>
-        <file crc="2341170784" name="modules/ext/maven/lucene-backward-codecs-9.8.0.jar"/>
-        <file crc="937490719" name="modules/ext/maven/lucene-core-9.8.0.jar"/>
-        <file crc="2812655494" name="modules/ext/maven/lucene-highlighter-9.8.0.jar"/>
-        <file crc="708321604" name="modules/ext/maven/lucene-queryparser-9.8.0.jar"/>
-        <file crc="491748824" name="modules/ext/maven/search-api-7.0.4.jar"/>
-        <file crc="3320319391" name="modules/ext/maven/search-backend-smo-7.0.4.jar"/>
-        <file crc="3027039944" name="modules/org-netbeans-modules-maven-indexer.jar"/>
+        <file crc="4161624518" name="modules/ext/maven/lucene-analysis-common-9.9.1.jar"/>
+        <file crc="758985212" name="modules/ext/maven/lucene-backward-codecs-9.9.1.jar"/>
+        <file crc="3766853439" name="modules/ext/maven/lucene-core-9.9.1.jar"/>
+        <file crc="981154368" name="modules/ext/maven/lucene-highlighter-9.9.1.jar"/>
+        <file crc="4043844544" name="modules/ext/maven/lucene-queryparser-9.9.1.jar"/>
+        <file crc="3321103956" name="modules/ext/maven/search-api-7.1.2.jar"/>
+        <file crc="3358927182" name="modules/ext/maven/search-backend-smo-7.1.2.jar"/>
+        <file crc="3901466640" name="modules/org-netbeans-modules-maven-indexer.jar"/>
     </module_version>
 </module>

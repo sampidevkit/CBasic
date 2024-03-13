@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.cnd.mixeddev">
-    <module_version install_time="1703603052568" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.4.19">
+    <module_version install_time="1710340333456" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.4.19">
         <file crc="3429967007" name="VERSION.txt"/>
         <file crc="4099782579" name="config/Modules/org-netbeans-modules-cnd-mixeddev.xml"/>
         <file crc="1336334272" name="modules/locale/org-netbeans-modules-cnd-mixeddev_ja.jar"/>

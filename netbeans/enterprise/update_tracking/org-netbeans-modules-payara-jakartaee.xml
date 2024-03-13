@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.payara.jakartaee/0">
-    <module_version install_time="1700752970268" last="true" origin="installer" specification_version="2.17">
+    <module_version install_time="1708007702717" last="true" origin="installer" specification_version="2.18">
         <file crc="680010823" name="config/Modules/org-netbeans-modules-payara-jakartaee.xml"/>
-        <file crc="3391269327" name="modules/org-netbeans-modules-payara-jakartaee.jar"/>
+        <file crc="3305498459" name="modules/org-netbeans-modules-payara-jakartaee.jar"/>
     </module_version>
 </module>

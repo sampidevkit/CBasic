@@ -120,7 +120,7 @@ From: Apache Software Foundation
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Maven Dependency Tree: Maven Dependency Tree (https://maven.apache.org/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Maven Indexer: Maven remote repository indexing engine. (https://repo1.maven.org/maven2/org/apache/maven/indexer/)
+  - Maven Indexer: Maven remote repository indexing engine. (https://repo.maven.apache.org/maven2/org/apache/maven/indexer/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Subversion Java-HL bindings: Java bindings library for subversion client (http://subversion.apache.org/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
@@ -462,7 +462,7 @@ From: NetBeans
     License: CDDL-1.0
   - External Browser DLLs: Windows DLLs for external browser integration
     License: CDDL-1.0
-  - NetBeans Application Launchers: Windows Launchers for the NetBeans Platform
+  - NetBeans Application Launchers: Windows Launchers for NetBeans Applications
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - NetBeans Installer Binaries: NetBeans Installer Binaries
     License: CDDL-1.0

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.cpplite.project">
-    <module_version install_time="1700753025866" last="true" origin="installer" specification_version="1.13">
+    <module_version install_time="1708007758739" last="true" origin="installer" specification_version="1.14">
         <file crc="2691749968" name="config/Modules/org-netbeans-modules-cpplite-project.xml"/>
-        <file crc="3695769062" name="modules/org-netbeans-modules-cpplite-project.jar"/>
+        <file crc="2737372453" name="modules/org-netbeans-modules-cpplite-project.jar"/>
     </module_version>
 </module>

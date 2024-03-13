@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javascript.grunt">
-    <module_version install_time="1700752517568" last="true" origin="installer" specification_version="0.36">
+    <module_version install_time="1708007321060" last="true" origin="installer" specification_version="0.37">
         <file crc="79901762" name="config/Modules/org-netbeans-modules-javascript-grunt.xml"/>
-        <file crc="1110549920" name="modules/org-netbeans-modules-javascript-grunt.jar"/>
+        <file crc="739004301" name="modules/org-netbeans-modules-javascript-grunt.jar"/>
     </module_version>
 </module>

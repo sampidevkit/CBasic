@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.css.model">
-    <module_version install_time="1700751966090" last="true" origin="installer" specification_version="1.53">
+    <module_version install_time="1708007188528" last="true" origin="installer" specification_version="1.54">
         <file crc="2341832687" name="config/Modules/org-netbeans-modules-css-model.xml"/>
-        <file crc="262541778" name="modules/org-netbeans-modules-css-model.jar"/>
+        <file crc="308410026" name="modules/org-netbeans-modules-css-model.jar"/>
     </module_version>
 </module>

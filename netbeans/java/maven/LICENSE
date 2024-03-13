@@ -668,7 +668,7 @@ Project URL: https://codehaus-plexus.github.io/plexus-utils/
 
 
 
-- lib/org.eclipse.sisu.inject-0.3.5.jar: org.eclipse.sisu:org.eclipse.sisu.inject:jar:0.3.5
+- lib/org.eclipse.sisu.inject-0.9.0.M2.jar: org.eclipse.sisu:org.eclipse.sisu.inject:jar:0.9.0.M2
     Project: org.eclipse.sisu.inject
 Project URL: https://www.eclipse.org/sisu/
     License: Eclipse Public License, Version 1.0 (EPL-1.0)
@@ -689,7 +689,7 @@ Project URL: https://www.eclipse.org/sisu/
 
 
 
-- lib/org.eclipse.sisu.plexus-0.3.5.jar: org.eclipse.sisu:org.eclipse.sisu.plexus:jar:0.3.5
+- lib/org.eclipse.sisu.plexus-0.9.0.M2.jar: org.eclipse.sisu:org.eclipse.sisu.plexus:jar:0.9.0.M2
     Project: org.eclipse.sisu.plexus
 Project URL: https://www.eclipse.org/sisu/
     License: Eclipse Public License, Version 1.0 (EPL-1.0)
