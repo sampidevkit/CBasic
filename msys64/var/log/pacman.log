@@ -192,3 +192,24 @@
 [2024-10-29T09:35:21+0700] [ALPM] installed mingw-w64-x86_64-icu (75.1-2)
 [2024-10-29T09:35:39+0700] [ALPM] installed mingw-w64-x86_64-boost (1.86.0-5)
 [2024-10-29T09:35:39+0700] [ALPM] transaction completed
+[2024-10-30T22:31:30+0700] [PACMAN] Running 'pacman -Syu'
+[2024-10-30T22:31:30+0700] [PACMAN] synchronizing package lists
+[2024-10-30T22:31:39+0700] [PACMAN] starting core system upgrade
+[2024-10-30T22:31:40+0700] [PACMAN] starting full system upgrade
+[2024-10-30T22:36:45+0700] [PACMAN] Running 'pacman -S make tar unzip'
+[2024-10-30T22:37:11+0700] [PACMAN] Running 'pacman -S mingw-w64-x86_64-gcc'
+[2024-10-30T22:42:44+0700] [PACMAN] Running 'pacman -S mingw-w64-x86_64-gcc'
+[2024-10-30T22:44:00+0700] [PACMAN] Running 'pacman -S mingw-w64-x86_64-gdb'
+[2024-10-30T22:44:40+0700] [PACMAN] Running 'pacman -Syu'
+[2024-10-30T22:44:40+0700] [PACMAN] synchronizing package lists
+[2024-10-30T22:44:46+0700] [PACMAN] starting core system upgrade
+[2024-10-30T22:44:46+0700] [PACMAN] starting full system upgrade
+[2024-10-30T22:45:10+0700] [PACMAN] Running 'pacman -S make tar unzip'
+[2024-10-30T22:49:12+0700] [PACMAN] Running 'pacman -Sy'
+[2024-10-30T22:49:12+0700] [PACMAN] synchronizing package lists
+[2024-10-30T22:49:23+0700] [PACMAN] Running 'pacman --needed -S bash pacman pacman-mirrors msys2-runtime'
+[2024-10-30T22:49:38+0700] [PACMAN] Running 'pacman -S --needed'
+[2024-10-30T22:49:56+0700] [PACMAN] Running 'pacman -Syu'
+[2024-10-30T22:49:56+0700] [PACMAN] synchronizing package lists
+[2024-10-30T22:50:00+0700] [PACMAN] starting core system upgrade
+[2024-10-30T22:50:00+0700] [PACMAN] starting full system upgrade
