@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.versioning.util">
-    <module_version install_time="1708007166874" last="true" origin="installer" specification_version="1.93.0.42.1">
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.versioning.util/2">
+    <module_version install_time="1747143658254" last="true" origin="installer" specification_version="2.4.0.42.1">
         <file crc="3825279354" name="config/Modules/org-netbeans-modules-versioning-util.xml"/>
-        <file crc="1219381263" name="modules/org-netbeans-modules-versioning-util.jar"/>
+        <file crc="3480734005" name="modules/org-netbeans-modules-versioning-util.jar"/>
     </module_version>
 </module>

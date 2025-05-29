@@ -85,6 +85,16 @@ struct channel
       this->unlink();
     }
 
+    void interrupt_await()
+    {
+      if (!direct)
+      {
+        this->cancelled = true;
+        if (this->awaited_from)
+          this->awaited_from.release().resume();
+      }
+    }
+
     struct cancel_impl;
     bool await_ready() { return !chn->buffer_.empty(); }
     template<typename Promise>
@@ -116,6 +126,16 @@ struct channel
       if (begin_transaction)
           begin_transaction(awaited_from.get());
       this->unlink();
+    }
+
+    void interrupt_await()
+    {
+      if (!direct)
+      {
+        this->cancelled = true;
+        if (this->awaited_from)
+          this->awaited_from.release().resume();
+      }
     }
 
     struct cancel_impl;
@@ -234,6 +254,16 @@ struct channel<void>
       this->unlink();
     }
 
+    void interrupt_await()
+    {
+      if (!direct)
+      {
+        this->cancelled = true;
+        if (this->awaited_from)
+          this->awaited_from.release().resume();
+      }
+    }
+
     struct cancel_impl;
     bool await_ready() { return (chn->n_ > 0); }
     template<typename Promise>
@@ -259,6 +289,16 @@ struct channel<void>
       if (begin_transaction)
           begin_transaction(awaited_from.get());
       this->unlink();
+    }
+
+    void interrupt_await()
+    {
+      if (!direct)
+      {
+        cancelled = true;
+        if (this->awaited_from)
+          this->awaited_from.release().resume();
+      }
     }
 
     struct cancel_impl;

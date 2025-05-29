@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.jakartaee10.api">
-    <module_version install_time="1708007670450" last="true" origin="installer" specification_version="1.22">
+    <module_version install_time="1747144853823" last="true" origin="installer" specification_version="1.27">
         <file crc="2473311397" name="config/Modules/org-netbeans-modules-jakartaee10-api.xml"/>
         <file crc="845677161" name="modules/ext/jakarta.jakartaee-api-10.0.0.jar"/>
         <file crc="60128609" name="modules/ext/jakarta.jakartaee-web-api-10.0.0.jar"/>
-        <file crc="1617155002" name="modules/org-netbeans-modules-jakartaee10-api.jar"/>
+        <file crc="1476169762" name="modules/org-netbeans-modules-jakartaee10-api.jar"/>
     </module_version>
 </module>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.php.api.framework/0">
-    <module_version install_time="1708007534157" last="true" origin="installer" specification_version="0.48">
+    <module_version install_time="1747144512776" last="true" origin="installer" specification_version="0.53">
         <file crc="1248950315" name="config/Modules/org-netbeans-modules-php-api-framework.xml"/>
-        <file crc="4223266269" name="modules/org-netbeans-modules-php-api-framework.jar"/>
+        <file crc="2862387250" name="modules/org-netbeans-modules-php-api-framework.jar"/>
     </module_version>
 </module>

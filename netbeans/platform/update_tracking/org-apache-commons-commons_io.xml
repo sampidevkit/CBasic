@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.apache.commons.commons_io">
-    <module_version install_time="1708007133463" last="true" origin="installer" specification_version="2.14">
+    <module_version install_time="1747143583784" last="true" origin="installer" specification_version="2.19">
         <file crc="1303857524" name="config/ModuleAutoDeps/org-apache-commons-commons_io.xml"/>
         <file crc="2470438491" name="config/Modules/org-apache-commons-commons_io.xml"/>
-        <file crc="3629108973" name="modules/ext/commons-io-2.15.1.jar"/>
-        <file crc="1392116897" name="modules/org-apache-commons-commons_io.jar"/>
+        <file crc="987138559" name="modules/ext/commons-io-2.18.0.jar"/>
+        <file crc="2638079881" name="modules/org-apache-commons-commons_io.jar"/>
     </module_version>
 </module>

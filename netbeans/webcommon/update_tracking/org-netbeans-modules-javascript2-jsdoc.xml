@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javascript2.jsdoc">
-    <module_version install_time="1708007331767" last="true" origin="installer" specification_version="1.21">
+    <module_version install_time="1747144042472" last="true" origin="installer" specification_version="1.26">
         <file crc="97657284" name="config/Modules/org-netbeans-modules-javascript2-jsdoc.xml"/>
-        <file crc="3556141169" name="modules/org-netbeans-modules-javascript2-jsdoc.jar"/>
+        <file crc="2683339536" name="modules/org-netbeans-modules-javascript2-jsdoc.jar"/>
     </module_version>
 </module>

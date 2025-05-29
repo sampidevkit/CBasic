@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.swing.tabcontrol">
-    <module_version install_time="1708007088783" last="true" origin="installer" specification_version="1.80">
+    <module_version install_time="1747143502415" last="true" origin="installer" specification_version="1.85">
         <file crc="327432460" name="config/Modules/org-netbeans-swing-tabcontrol.xml"/>
-        <file crc="3670848942" name="modules/org-netbeans-swing-tabcontrol.jar"/>
+        <file crc="3539171059" name="modules/org-netbeans-swing-tabcontrol.jar"/>
     </module_version>
 </module>

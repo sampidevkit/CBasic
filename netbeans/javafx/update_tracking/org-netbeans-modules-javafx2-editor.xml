@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javafx2.editor">
-    <module_version install_time="1708007488780" last="true" origin="installer" specification_version="1.44.0.12.6">
+    <module_version install_time="1747144400243" last="true" origin="installer" specification_version="1.49.0.12.6">
         <file crc="1804688584" name="config/Modules/org-netbeans-modules-javafx2-editor.xml"/>
-        <file crc="602696032" name="modules/org-netbeans-modules-javafx2-editor.jar"/>
+        <file crc="796250384" name="modules/org-netbeans-modules-javafx2-editor.jar"/>
     </module_version>
 </module>

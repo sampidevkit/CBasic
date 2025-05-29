@@ -1,4 +1,4 @@
-/* Copyright (c) 2018-2023 Marcelo Zimbres Silva (mzimbres@gmail.com)
+/* Copyright (c) 2018-2024 Marcelo Zimbres Silva (mzimbres@gmail.com)
  *
  * Distributed under the Boost Software License, Version 1.0. (See
  * accompanying file LICENSE.txt)
@@ -81,6 +81,9 @@ enum class error
 
    /// Incompatible node depth.
    incompatible_node_depth,
+
+   /// Resp3 hello command error
+   resp3_hello,
 };
 
 /** \internal

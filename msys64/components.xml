@@ -7,10 +7,10 @@
         <Description>Cygwin-derived Posix-like env. for Windows with Arch Linux's Pacman</Description>
         <SortingPriority>0</SortingPriority>
         <TreeName moveChildren="false"></TreeName>
-        <Version>20240727</Version>
+        <Version>20250529</Version>
         <LastUpdateDate></LastUpdateDate>
-        <InstallDate>2024-10-29</InstallDate>
-        <Size>279672178</Size>
+        <InstallDate>2025-05-29</InstallDate>
+        <Size>290210150</Size>
         <Checkable>true</Checkable>
     </Package>
 </Packages>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.glassfish.tooling/0">
-    <module_version install_time="1708007610817" last="true" origin="installer" specification_version="1.30">
+    <module_version install_time="1747144735152" last="true" origin="installer" specification_version="1.35">
         <file crc="2917690634" name="config/Modules/org-netbeans-modules-glassfish-tooling.xml"/>
-        <file crc="2233797221" name="modules/org-netbeans-modules-glassfish-tooling.jar"/>
+        <file crc="1156610817" name="modules/org-netbeans-modules-glassfish-tooling.jar"/>
     </module_version>
 </module>

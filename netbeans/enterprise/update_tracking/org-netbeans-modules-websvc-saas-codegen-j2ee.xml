@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.websvc.saas.codegen.j2ee">
-    <module_version install_time="1708007745872" last="true" origin="installer" specification_version="1.48">
+    <module_version install_time="1747145022502" last="true" origin="installer" specification_version="1.53">
         <file crc="4245319412" name="config/Modules/org-netbeans-modules-websvc-saas-codegen-j2ee.xml"/>
-        <file crc="3119586432" name="modules/org-netbeans-modules-websvc-saas-codegen-j2ee.jar"/>
+        <file crc="2096957849" name="modules/org-netbeans-modules-websvc-saas-codegen-j2ee.jar"/>
     </module_version>
 </module>

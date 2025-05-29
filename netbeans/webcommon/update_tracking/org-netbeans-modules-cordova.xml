@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.cordova">
-    <module_version install_time="1708007310838" last="true" origin="installer" specification_version="1.56">
-        <file crc="1124115557" name="ant/extra/org-netbeans-modules-cordova-projectupdate.jar"/>
+    <module_version install_time="1747143989481" last="true" origin="installer" specification_version="1.61">
+        <file crc="766243867" name="ant/extra/org-netbeans-modules-cordova-projectupdate.jar"/>
         <file crc="106554097" name="config/Modules/org-netbeans-modules-cordova.xml"/>
-        <file crc="4050572817" name="modules/org-netbeans-modules-cordova.jar"/>
+        <file crc="3747474435" name="modules/org-netbeans-modules-cordova.jar"/>
     </module_version>
 </module>

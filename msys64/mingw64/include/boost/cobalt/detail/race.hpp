@@ -101,9 +101,7 @@ struct race_variadic_impl
   struct awaitable : fork::static_shared_state<256 * tuple_size>
   {
 
-#if !defined(BOOST_ASIO_ENABLE_HANDLER_TRACKING)
     boost::source_location loc;
-#endif
 
     template<std::size_t ... Idx>
     awaitable(std::tuple<Args...> & args, URBG & g, std::index_sequence<Idx...>) :
@@ -307,7 +305,7 @@ struct race_variadic_impl
     {
       this->loc = loc;
 
-      this->exec = &cobalt::detail::get_executor(h);
+      this->exec = cobalt::detail::get_executor(h);
       last_forked.release().resume();
 
       if (!this->outstanding_work()) // already done, resume rightaway.
@@ -413,7 +411,6 @@ struct race_ranged_impl
     std::exception_ptr error;
 
 #if !defined(BOOST_COBALT_NO_PMR)
-    pmr::monotonic_buffer_resource res;
     pmr::polymorphic_allocator<void> alloc{&resource};
 
     Range &aws;
@@ -619,7 +616,7 @@ struct race_ranged_impl
                        const boost::source_location & loc = BOOST_CURRENT_LOCATION)
     {
       this->loc = loc;
-      this->exec = &detail::get_executor(h);
+      this->exec = detail::get_executor(h);
       last_forked.release().resume();
 
       if (!this->outstanding_work()) // already done, resume rightaway.
@@ -674,7 +671,7 @@ struct race_ranged_impl
     }
 
     auto await_resume(const as_result_tag & )
-    -> system::result<result_type, std::exception_ptr>
+    -> system::result<std::conditional_t<std::is_void_v<result_type>, std::size_t, std::pair<std::size_t, result_type>>, std::exception_ptr>
     {
       if (error)
         return {system::in_place_error, error};

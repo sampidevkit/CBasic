@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javaee.wildfly/1">
-    <module_version install_time="1708007687538" last="true" origin="installer" specification_version="2.15">
+    <module_version install_time="1747144887108" last="true" origin="installer" specification_version="2.20">
         <file crc="1171290859" name="config/Modules/org-netbeans-modules-javaee-wildfly.xml"/>
-        <file crc="1372235961" name="modules/org-netbeans-modules-javaee-wildfly.jar"/>
+        <file crc="3277661218" name="modules/org-netbeans-modules-javaee-wildfly.jar"/>
     </module_version>
 </module>

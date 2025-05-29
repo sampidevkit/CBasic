@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.eclipse.core.jobs">
-    <module_version install_time="1708007258212" last="false" origin="installer" specification_version="3.5.100.v20110404">
+    <module_version install_time="1747143871045" last="false" origin="installer" specification_version="3.5.100.v20110404">
         <file crc="3820067141" name="config/Modules/org-eclipse-core-jobs.xml"/>
         <file crc="3760773860" name="modules/org-eclipse-core-jobs.jar"/>
     </module_version>
-    <module_version install_time="1710339505483" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="3.5.101">
+    <module_version install_time="1748527439086" last="true" origin="NetBeans 8.2 Distribution" specification_version="3.5.101">
         <file crc="2419101424" name="modules/org-eclipse-core-jobs.jar"/>
         <file crc="3820067141" name="config/Modules/org-eclipse-core-jobs.xml"/>
     </module_version>

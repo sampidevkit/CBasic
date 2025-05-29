@@ -1,10 +1,11 @@
-/* Copyright (c) 2018-2023 Marcelo Zimbres Silva (mzimbres@gmail.com)
+/* Copyright (c) 2018-2024 Marcelo Zimbres Silva (mzimbres@gmail.com)
  *
  * Distributed under the Boost Software License, Version 1.0. (See
  * accompanying file LICENSE.txt)
  */
 
 #include <boost/redis/connection.hpp>
+#include <cstddef>
 
 namespace boost::redis {
 
@@ -29,6 +30,15 @@ connection::async_run_impl(
    asio::any_completion_handler<void(boost::system::error_code)> token)
 {
    impl_.async_run(cfg, l, std::move(token));
+}
+
+void
+connection::async_exec_impl(
+   request const& req,
+   any_adapter&& adapter,
+   asio::any_completion_handler<void(boost::system::error_code, std::size_t)> token)
+{
+   impl_.async_exec(req, std::move(adapter), std::move(token));
 }
 
 void connection::cancel(operation op)

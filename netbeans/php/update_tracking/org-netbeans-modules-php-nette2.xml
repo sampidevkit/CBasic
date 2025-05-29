@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.php.nette2/1">
-    <module_version install_time="1708007563299" last="true" origin="installer" specification_version="1.32">
+    <module_version install_time="1747144600845" last="true" origin="installer" specification_version="1.37">
         <file crc="2424182614" name="config/Modules/org-netbeans-modules-php-nette2.xml"/>
-        <file crc="2532977856" name="modules/org-netbeans-modules-php-nette2.jar"/>
+        <file crc="2892917926" name="modules/org-netbeans-modules-php-nette2.jar"/>
     </module_version>
 </module>

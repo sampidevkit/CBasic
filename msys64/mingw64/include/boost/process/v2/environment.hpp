@@ -43,13 +43,13 @@ namespace environment
  * Windows treats keys as case-insensitive yet perserving. The char traits are made to reflect 
  * that behaviour.
 */
-tempalte<typename Char>
+template<typename Char>
 using key_char_traits = implementation_defined ;
 
 /// A char traits type that reflects the OS rules for string representing environment values.
 /** Can be an alias of std::char_traits. May only be defined for `char` and `wchar_t`.
 */
-tempalte<typename Char>
+template<typename Char>
 using value_char_traits = implementation_defined ;
 
 /// The character type used by the environment. Either `char` or `wchar_t`.
@@ -764,7 +764,7 @@ struct value
     value& operator=( const Source& source )
     {
         value_ = BOOST_PROCESS_V2_NAMESPACE::detail::conv_string<char_type, traits_type>(
-            source.data(), source.size);
+            source.data(), source.size());
         return *this;
     }
 

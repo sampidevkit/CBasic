@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.form.nb/0">
-    <module_version install_time="1708007395765" last="true" origin="installer" specification_version="0.41.0.1.4">
+    <module_version install_time="1747144205594" last="true" origin="installer" specification_version="0.46.0.1.4">
         <file crc="3367404388" name="config/Modules/org-netbeans-modules-form-nb.xml"/>
-        <file crc="4154032249" name="modules/org-netbeans-modules-form-nb.jar"/>
+        <file crc="720864309" name="modules/org-netbeans-modules-form-nb.jar"/>
     </module_version>
 </module>

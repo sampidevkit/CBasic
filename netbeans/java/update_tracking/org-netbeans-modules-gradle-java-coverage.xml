@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.gradle.java.coverage">
-    <module_version install_time="1708007398745" last="true" origin="installer" specification_version="1.16">
+    <module_version install_time="1747144211746" last="true" origin="installer" specification_version="1.21">
         <file crc="1476050695" name="config/Modules/org-netbeans-modules-gradle-java-coverage.xml"/>
-        <file crc="1207012210" name="modules/gradle/org.jacoco.core.jar"/>
-        <file crc="215501999" name="modules/org-netbeans-modules-gradle-java-coverage.jar"/>
+        <file crc="2273293051" name="modules/gradle/org.jacoco.core.jar"/>
+        <file crc="577441769" name="modules/org-netbeans-modules-gradle-java-coverage.jar"/>
     </module_version>
 </module>

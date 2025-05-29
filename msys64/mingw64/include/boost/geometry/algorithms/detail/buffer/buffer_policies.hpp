@@ -2,8 +2,9 @@
 
 // Copyright (c) 2012-2014 Barend Gehrels, Amsterdam, the Netherlands.
 
-// This file was modified by Oracle on 2017-2020.
-// Modifications copyright (c) 2017-2020, Oracle and/or its affiliates.
+// This file was modified by Oracle on 2017-2024.
+// Modifications copyright (c) 2017-2024, Oracle and/or its affiliates.
+// Contributed and/or modified by Vissarion Fysikopoulos, on behalf of Oracle
 // Contributed and/or modified by Adam Wulkiewicz, on behalf of Oracle
 
 // Use, modification and distribution is subject to the Boost Software License,
@@ -38,7 +39,7 @@ namespace detail { namespace buffer
 class backtrack_for_buffer
 {
 public :
-    typedef detail::overlay::backtrack_state state_type;
+    using state_type = detail::overlay::backtrack_state;
 
     template
         <
@@ -47,7 +48,6 @@ public :
             typename Turns,
             typename Geometry,
             typename Strategy,
-            typename RobustPolicy,
             typename Visitor
         >
     static inline void apply(std::size_t size_at_start,
@@ -59,7 +59,6 @@ public :
                 Geometry const& ,
                 Geometry const& ,
                 Strategy const& ,
-                RobustPolicy const& ,
                 state_type& state,
                 Visitor& /*visitor*/
                 )
@@ -88,20 +87,6 @@ g_backtrack_warning_count++;
 struct buffer_overlay_visitor
 {
 public :
-    void print(char const* /*header*/)
-    {
-    }
-
-    template <typename Turns>
-    void print(char const* /*header*/, Turns const& /*turns*/, int /*turn_index*/)
-    {
-    }
-
-    template <typename Turns>
-    void print(char const* /*header*/, Turns const& /*turns*/, int /*turn_index*/, int /*op_index*/)
-    {
-    }
-
     template <typename Turns>
     void visit_turns(int , Turns const& ) {}
 
@@ -131,11 +116,11 @@ struct buffer_turn_operation
     : public detail::overlay::traversal_turn_operation<Point, SegmentRatio>
 {
     signed_size_type piece_index;
-    signed_size_type index_in_robust_ring;
+    signed_size_type index_in_ring;
 
     inline buffer_turn_operation()
         : piece_index(-1)
-        , index_in_robust_ring(-1)
+        , index_in_ring(-1)
     {}
 };
 
@@ -149,7 +134,7 @@ struct buffer_turn_info
             buffer_turn_operation<Point, SegmentRatio>
         >
 {
-    typedef Point point_type;
+    using point_type = Point;
 
     std::size_t turn_index;
 
@@ -169,26 +154,6 @@ struct buffer_turn_info
         , within_original(false)
         , count_in_original(0)
     {}
-};
-
-struct buffer_less
-{
-    template <typename Indexed>
-    inline bool operator()(Indexed const& left, Indexed const& right) const
-    {
-        if (! (left.subject->seg_id == right.subject->seg_id))
-        {
-            return left.subject->seg_id < right.subject->seg_id;
-        }
-
-        // Both left and right are located on the SAME segment.
-        if (! (left.subject->fraction == right.subject->fraction))
-        {
-            return left.subject->fraction < right.subject->fraction;
-        }
-
-        return left.turn_index < right.turn_index;
-    }
 };
 
 template <typename Strategy>

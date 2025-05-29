@@ -1,4 +1,4 @@
-/* Copyright (c) 2018-2023 Marcelo Zimbres Silva (mzimbres@gmail.com)
+/* Copyright (c) 2018-2024 Marcelo Zimbres Silva (mzimbres@gmail.com)
  *
  * Distributed under the Boost Software License, Version 1.0. (See
  * accompanying file LICENSE.txt)
@@ -54,10 +54,15 @@ auto operator==(basic_node<String> const& a, basic_node<String> const& b)
        && a.value == b.value;
 };
 
-/** @brief A node in the response tree.
+/** @brief A node in the response tree that owns its data
  *  @ingroup high-level-api
  */
 using node = basic_node<std::string>;
+
+/** @brief A node view in the response tree
+ *  @ingroup high-level-api
+ */
+using node_view = basic_node<std::string_view>;
 
 } // boost::redis::resp3
 

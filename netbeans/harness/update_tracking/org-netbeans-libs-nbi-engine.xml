@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.nbi.engine">
-    <module_version install_time="1708007146301" last="true" origin="installer" specification_version="1.44">
-        <file crc="2987946696" name="config/Modules/org-netbeans-libs-nbi-engine.xml"/>
-        <file crc="1439017936" name="modules/ext/nbi-engine.jar"/>
-        <file crc="480376264" name="modules/org-netbeans-libs-nbi-engine.jar"/>
-    </module_version>
-</module>

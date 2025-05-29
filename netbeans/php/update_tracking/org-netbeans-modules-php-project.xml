@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.php.project">
-    <module_version install_time="1708007542176" last="true" origin="installer" specification_version="2.166">
+    <module_version install_time="1747144528241" last="true" origin="installer" specification_version="2.172">
         <file crc="1602136690" name="config/Modules/org-netbeans-modules-php-project.xml"/>
-        <file crc="3169709893" name="docs/phpsigfiles.zip"/>
-        <file crc="2531354878" name="modules/org-netbeans-modules-php-project.jar"/>
+        <file crc="3890532341" name="docs/phpsigfiles.zip"/>
+        <file crc="1015723005" name="modules/org-netbeans-modules-php-project.jar"/>
     </module_version>
 </module>

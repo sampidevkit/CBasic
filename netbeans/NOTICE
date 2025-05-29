@@ -1,5 +1,5 @@
 Apache NetBeans
-Copyright 2017-2024 The Apache Software Foundation
+Copyright 2017-2025 The Apache Software Foundation
 
 This product includes software developed at
 The Apache Software Foundation (http://www.apache.org/).
@@ -79,54 +79,6 @@ This product includes software developed by Sebastian Kutsch (http://jacksasylum
 This product includes software developed by Kelvin Luck (http://jscrollpane.kelvinluck.com)
 
 
-Apache Commons BeanUtils
-Copyright 2000-2008 The Apache Software Foundation
-
-
-Apache Commons Chain
-Copyright 2003-2008 The Apache Software Foundation
-
-
-Apache Jakarta Commons Digester
-Copyright 2001-2006 The Apache Software Foundation
-
-
-Apache Jakarta Commons Validator
-Copyright 2001-2006 The Apache Software Foundation
-
-
-Apache Struts
-Copyright 2000-2007 The Apache Software Foundation
-
-
-Apache Struts EL
-Copyright 2000-2007 The Apache Software Foundation
-
-
-Apache Struts Extras
-Copyright 2000-2007 The Apache Software Foundation
-
-
-Apache Struts Faces
-Copyright 2000-2007 The Apache Software Foundation
-
-
-Apache Struts Mailreader DAO
-Copyright 2000-2007 The Apache Software Foundation
-
-
-Apache Struts Scripting
-Copyright 2000-2007 The Apache Software Foundation
-
-
-Apache Struts Taglib
-Copyright 2000-2007 The Apache Software Foundation
-
-
-Apache Struts Tiles
-Copyright 2000-2007 The Apache Software Foundation
-
-
 Apache Ant
 Copyright 1999-2023 The Apache Software Foundation
 
@@ -159,105 +111,6 @@ in the US and other countries. Java™ is a trademark, registered trademark, or
 service mark of Sun Microsystems, Inc. in the US and other countries. All other
 trademarks, registered trademarks, or service marks used in the Content are the
 property of their respective owners and are hereby recognized.
-
-
-Apache Maven Distribution
-Copyright 2001-2023 The Apache Software Foundation
-
-This software bundles the following NOTICE files from third party library providers:
-
-META-INF/NOTICE in archive lib/guice-5.1.0.jar
-Google Guice - Core Library
-Copyright 2006-2022 Google, Inc.
-
-META-INF/NOTICE in archive lib/plexus-utils-3.2.1.jar
-This product includes software developed by the Indiana University
- Extreme! Lab (http://www.extreme.indiana.edu/).
-This product includes software developed by
-ThoughtWorks (http://www.thoughtworks.com).
-This product includes software developed by
-javolution (http://javolution.org/).
-This product includes software developed by
-Rome (https://rome.dev.java.net/).
-
-about.html in archive lib/org.eclipse.sisu.inject-0.9.0.M2.jar
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
-<title>About org.eclipse.sisu.inject</title>
-</head>
-<body lang="EN-US">
-<h2>About org.eclipse.sisu.inject</h2>
- 
-<p>November 5, 2013</p>	
-<h3>License</h3>
-
-<p>The Eclipse Foundation makes available all content in this plug-in (&quot;Content&quot;).  Unless otherwise 
-indicated below, the Content is provided to you under the terms and conditions of the
-Eclipse Public License Version 1.0 (&quot;EPL&quot;).  A copy of the EPL is available 
-at <a href="http://www.eclipse.org/legal/epl-v10.html">http://www.eclipse.org/legal/epl-v10.html</a>.
-For purposes of the EPL, &quot;Program&quot; will mean the Content.</p>
-
-<p>If you did not receive this Content directly from the Eclipse Foundation, the Content is 
-being redistributed by another party (&quot;Redistributor&quot;) and different terms and conditions may
-apply to your use of any object code in the Content.  Check the Redistributor's license that was 
-provided with the Content.  If no such license exists, contact the Redistributor.  Unless otherwise
-indicated below, the terms and conditions of the EPL still apply to any source code in the Content
-and such source code may be obtained at <a href="http://www.eclipse.org/">http://www.eclipse.org</a>.</p>
-
-<h3>Third Party Content</h3>
-<p>The Content includes items that have been sourced from third parties as set 
-out below. If you did not receive this Content directly from the Eclipse Foundation, 
-the following is provided for informational purposes only, and you should look 
-to the Redistributor's license for terms and conditions of use.</p>
-
-<h4>ASM 4.1</h4>
-<p>The plug-in includes software developed by the ObjectWeb consortium as part
-of the ASM project at <a href="http://asm.ow2.org/">http://asm.ow2.org/</a>.</p>
-
-<p>A subset of ASM is re-packaged within the source and binary of the plug-in (org.eclipse.sisu.space.asm.*)
-to avoid version collisions with other usage and is also available from the plug-in's github repository.</p>
-
-<p>Your use of the ASM code is subject to the terms and conditions of the ASM License
-below which is also available at <a href="http://asm.ow2.org/license.html">http://asm.ow2.org/license.html</a>.</p>
-
-<blockquote><pre>
-Copyright (c) 2000-2011 INRIA, France Telecom
-All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions
-are met:
-
-1. Redistributions of source code must retain the above copyright
-   notice, this list of conditions and the following disclaimer.
-
-2. Redistributions in binary form must reproduce the above copyright
-   notice, this list of conditions and the following disclaimer in the
-   documentation and/or other materials provided with the distribution.
-
-3. Neither the name of the copyright holders nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&quot;
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
-ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE
-LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
-CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
-SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
-INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
-CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
-ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
-THE POSSIBILITY OF SUCH DAMAGE.
-</pre></blockquote>
-
-</body>
-</html>
 
 
 Apache Commons Compress
@@ -499,8 +352,103 @@ Apache Commons Lang
 Copyright 2001-2011 The Apache Software Foundation
 
 
-Apache Commons Codec
-Copyright 2002-2023 The Apache Software Foundation
+Apache Maven Distribution
+Copyright 2001-2023 The Apache Software Foundation
+
+This software bundles the following NOTICE files from third party library providers:
+
+META-INF/NOTICE in archive lib/guice-5.1.0.jar
+Google Guice - Core Library
+Copyright 2006-2022 Google, Inc.
+
+META-INF/NOTICE in archive lib/plexus-utils-3.5.1.jar and lib/plexus-xml-3.0.0.jar
+This product includes software developed by the Indiana University
+ Extreme! Lab (http://www.extreme.indiana.edu/).
+This product includes software developed by
+ThoughtWorks (http://www.thoughtworks.com).
+This product includes software developed by
+javolution (http://javolution.org/).
+This product includes software developed by
+Rome (https://rome.dev.java.net/).
+
+about.html in archive lib/org.eclipse.sisu.inject-0.9.0.M3.jar
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
+<title>About org.eclipse.sisu.inject</title>
+</head>
+<body lang="EN-US">
+<h2>About org.eclipse.sisu.inject</h2>
+ 
+<p>November 5, 2013</p>	
+<h3>License</h3>
+
+<p>The Eclipse Foundation makes available all content in this plug-in (&quot;Content&quot;).  Unless otherwise 
+indicated below, the Content is provided to you under the terms and conditions of the
+Eclipse Public License Version 1.0 (&quot;EPL&quot;).  A copy of the EPL is available 
+at <a href="http://www.eclipse.org/legal/epl-v10.html">http://www.eclipse.org/legal/epl-v10.html</a>.
+For purposes of the EPL, &quot;Program&quot; will mean the Content.</p>
+
+<p>If you did not receive this Content directly from the Eclipse Foundation, the Content is 
+being redistributed by another party (&quot;Redistributor&quot;) and different terms and conditions may
+apply to your use of any object code in the Content.  Check the Redistributor's license that was 
+provided with the Content.  If no such license exists, contact the Redistributor.  Unless otherwise
+indicated below, the terms and conditions of the EPL still apply to any source code in the Content
+and such source code may be obtained at <a href="http://www.eclipse.org/">http://www.eclipse.org</a>.</p>
+
+<h3>Third Party Content</h3>
+<p>The Content includes items that have been sourced from third parties as set 
+out below. If you did not receive this Content directly from the Eclipse Foundation, 
+the following is provided for informational purposes only, and you should look 
+to the Redistributor's license for terms and conditions of use.</p>
+
+<h4>ASM 4.1</h4>
+<p>The plug-in includes software developed by the ObjectWeb consortium as part
+of the ASM project at <a href="http://asm.ow2.org/">http://asm.ow2.org/</a>.</p>
+
+<p>A subset of ASM is re-packaged within the source and binary of the plug-in (org.eclipse.sisu.space.asm.*)
+to avoid version collisions with other usage and is also available from the plug-in's github repository.</p>
+
+<p>Your use of the ASM code is subject to the terms and conditions of the ASM License
+below which is also available at <a href="http://asm.ow2.org/license.html">http://asm.ow2.org/license.html</a>.</p>
+
+<blockquote><pre>
+Copyright (c) 2000-2011 INRIA, France Telecom
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+1. Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in the
+   documentation and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holders nor the names of its
+   contributors may be used to endorse or promote products derived from
+   this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&quot;
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
+THE POSSIBILITY OF SUCH DAMAGE.
+</pre></blockquote>
+
+</body>
+</html>
 
 
 Maven :: Indexer Core
@@ -516,7 +464,6 @@ Copyright 2001-2022 The Apache Software Foundation
 
 Includes software from other Apache Software Foundation projects,
 including, but not limited to:
- - Apache Ant
  - Apache Jakarta Regexp
  - Apache Commons
  - Apache Xerces
@@ -547,9 +494,6 @@ under the 2-clause BSD license.
 
 The Google Code Prettify is Apache License 2.0.
 See http://code.google.com/p/google-code-prettify/
-
-JUnit (junit-4.10) is licensed under the Common Public License v. 1.0
-See http://junit.sourceforge.net/cpl-v10.html
 
 This product includes code (JaspellTernarySearchTrie) from Java Spelling Checkin
 g Package (jaspell): http://jaspell.sourceforge.net/
@@ -614,9 +558,6 @@ The Morfologik analyzer (morfologik) includes BSD-licensed software
 developed by Dawid Weiss and Marcin Miłkowski 
 (https://github.com/morfologik/morfologik-stemming) and uses
 data from the BSD-licensed dictionary of Polish (SGJP, http://sgjp.pl/morfeusz/).
-
-Servlet-api.jar and javax.servlet-*.jar are under the CDDL license, the original
-source code for this can be found at http://www.eclipse.org/jetty/downloads.php
 
 ===========================================================================
 Kuromoji Japanese Morphological Analyzer - Apache Lucene Integration
@@ -707,25 +648,14 @@ Nori Korean Morphological Analyzer - Apache Lucene Integration
 
 This software includes a binary and/or source version of data from
 
-  mecab-ko-dic-2.0.3-20170922
+  mecab-ko-dic-2.1.1-20180720
 
 which can be obtained from
 
-  https://bitbucket.org/eunjeon/mecab-ko-dic/downloads/mecab-ko-dic-2.0.3-20170922.tar.gz
-
-The floating point precision conversion in NumericUtils.Float16Converter is derived from work by
-Jeroen van der Zijp, granted for use under the Apache license.
+  https://bitbucket.org/eunjeon/mecab-ko-dic/downloads/mecab-ko-dic-2.1.1-20180720.tar.gz
 
 
-Spring Framework 3.2.18.RELEASE
-Copyright (c) 2002-2016 Pivotal, Inc.
-
-
-Spring Framework 4.3.29.RELEASE
-Copyright (c) 2002-2019 Pivotal, Inc.
-
-
-Spring Framework 5.2.9.RELEASE
+Spring Framework 5.3.31
 Copyright (c) 2002-2019 Pivotal, Inc.
 
 
@@ -735,7 +665,7 @@ developed by EclEmma Project, 2006-2021
 
 phpsigfiles is build from the PHP Manual by converting it to PHPdoc format.
 
-The PHP Manual is Copyright © 1997 - 2018 by the PHP Documentation Group.
+The PHP Manual is Copyright © 1997 - 2025 by the PHP Documentation Group.
 This material may be distributed only subject to the terms and conditions set
 forth in the Creative Commons Attribution 3.0 License or later. A copy of the
 Creative Commons Attribution 3.0 license is distributed with this distribution.
@@ -750,29 +680,12 @@ JCommander Copyright Notices
 Copyright 2010 Cedric Beust <cedric@beust.com>
 
 
-Apache Batik
-Copyright 1999-2020 The Apache Software Foundation
-
-This software contains code from the World Wide Web Consortium (W3C) for the 
-Document Object Model API (DOM API) and SVG Document Type Definition (DTD).
-
-This software contains code from the International Organisation for
-Standardization for the definition of character entities used in the software's
-documentation.
-
-This product includes images from the Tango Desktop Project
-(http://tango.freedesktop.org/).
-
-This product includes images from the Pasodoble Icon Theme
-(http://www.jesusda.com/projects/pasodoble).
-
-
 Apache Commons IO
-Copyright 2002-2023 The Apache Software Foundation
+Copyright 2002-2024 The Apache Software Foundation
 
 
-Apache Felix Framework
-Copyright 2006-2021 The Apache Software Foundation
+Apache Felix Main
+Copyright 2006-2022 The Apache Software Foundation
 
 This product includes software developed at
 The OSGi Alliance (http://www.osgi.org/).
@@ -780,17 +693,8 @@ Copyright (c) OSGi Alliance (2000, 2020).
 Licensed under the Apache License 2.0.
 
 
-Apache XML Commons XML APIs
-Copyright 2006 The Apache Software Foundation.
-
-Portions of this software were originally based on the following:
-  - software copyright (c) 1999, IBM Corporation., http://www.ibm.com.
-  - software copyright (c) 1999, Sun Microsystems., http://www.sun.com.
-  - software copyright (c) 2000 World Wide Web Consortium, http://www.w3.org
-
-
-Apache XML Graphics Commons
-Copyright 2006-2021 The Apache Software Foundation
+Apache Commons Codec
+Copyright 2002-2024 The Apache Software Foundation
 
 
 Apache Commons Lang

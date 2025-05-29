@@ -16,47 +16,7 @@ From: Antlr
   - Antlr: ANother Tool for Language Recognition, is a language tool that provides a framework for constructing recognizers, interpreters, compilers, and translators from grammatical descriptions. (http://www.antlr3.org)
     License: BSD-like Antlr Runtime 3 license
   - Antlr: ANother Tool for Language Recognition, is a language tool that provides a framework for constructing recognizers, interpreters, compilers, and translators from grammatical descriptions. (https://www.antlr.org)
-    License: BSD-antlr-runtime4-2
-
-From: Apache
-  - Bean Scripting Framework: Bean Scripting Framework
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Commons Beanutils: Bean Collections Library
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Commons Chain: Chain Library using Chain of Responsibility
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Commons Digester: Digester layer to better process xml input
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Commons Fileupload: Fileupload component for servlets and web applications
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Commons IO: Utility Libary to assist with developing IO functionality
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Commons Logging: Java-based logging utility
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Commons Validator: Data Validation for Client side and server side
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Generated Javadoc for struts framework: Generated Javadoc for struts framework
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Oro: Text processing Java Classes
-    License: Apache-1.1
-  - Struts Core: Core Struts Library
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Struts EL: Struts Expression Language
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Struts Extras: Struts Extras provides different plugins mostly focused on fixing vulnerabilities in older versions of the framework
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Struts Faces: Struts Faces framework
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Struts Mailreader: Struts mailreader framework focused on maintain accounts with mail servers
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Struts Scripting: Struts scripting allows Struts Actions be written with the scripting language of your choice
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Struts Tiles: Struts Tiles is used to create reusable presentation components
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Struts taglib library: Struts tag library contains JSP custom tags useful in creating dynamic HTML user interfaces
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - jakarta-taglibs 'standard': An implementation of JavaServer Pages Standard Tag Library (JSTL)
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+    License: BSD-antlr-runtime4-3
 
 From: Apache CXF
   - WSDL Schema: WSDL Schema described as an XML Schema
@@ -89,7 +49,7 @@ From: Apache Software Foundation
   - Apache Jakarta Commons Logging: Logging component (https://commons.apache.org/proper/commons-logging/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Apache Lucene: Java-based indexing and search technology (https://lucene.apache.org/)
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt) with Apache Lucene addendums
   - Apache Lucene: Java-based indexing and search technology (https://lucene.apache.org/core/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt) with Apache Lucene addendums
   - Apache Maven Distribution: Apache Maven Distribution (https://maven.apache.org/)
@@ -118,6 +78,8 @@ From: Apache Software Foundation
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Knockout4J: Knockout4J (http://incubator.apache.org/projects/netbeans.html)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Knockout4J: Knockout4J (http://incubator.apache.org/projects/netbeans.html)
+    License: Apache-2.0-ko4j
   - Maven Dependency Tree: Maven Dependency Tree (https://maven.apache.org/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Maven Indexer: Maven remote repository indexing engine. (https://repo.maven.apache.org/maven2/org/apache/maven/indexer/)
@@ -235,6 +197,12 @@ From: Eclipse Foundation (https://mvnrepository.com/artifact/jakarta.platform/ja
   - JakartaEE API 10.0.0: JakartaEE API 10.0.0
     License: Eclipse Public License v2.0
 
+From: Eclipse Foundation (https://mvnrepository.com/artifact/jakarta.platform/jakarta.jakartaee-api/11.0.0-M1)
+  - JakartaEE API 11.0.0 Documentation: JakartaEE API 11.0.0 Documentation
+    License: Eclipse Public License v2.0
+  - JakartaEE API 11.0.0: JakartaEE API 11.0.0
+    License: Eclipse Public License v2.0
+
 From: Eclipse Foundation (https://mvnrepository.com/artifact/jakarta.platform/jakarta.jakartaee-api/8.0.0)
   - JakartaEE API 8.0.0 Documentation: JakartaEE API 8.0.0 Documentation
     License: Eclipse Public License v2.0
@@ -253,6 +221,10 @@ From: Eclipse Foundation (https://mvnrepository.com/artifact/jakarta.platform/ja
   - JakartaEE Web API 10.0.0: JakartaEE Web API 10.0.0
     License: Eclipse Public License v2.0
 
+From: Eclipse Foundation (https://mvnrepository.com/artifact/jakarta.platform/jakarta.jakartaee-web-api/11.0.0-M1)
+  - JakartaEE Web API 11.0.0: JakartaEE Web API 11.0.0
+    License: Eclipse Public License v2.0
+
 From: Eclipse Foundation (https://mvnrepository.com/artifact/jakarta.platform/jakarta.jakartaee-web-api/8.0.0)
   - JakartaEE Web API 8.0.0: JakartaEE Web API 8.0.0
     License: Eclipse Public License v2.0
@@ -263,10 +235,6 @@ From: Eclipse Foundation (https://mvnrepository.com/artifact/jakarta.platform/ja
 
 From: Eclipse Foundation (https://projects.eclipse.org/projects/ee4j)
   - Java API for Jakarta Servlets, Java API for Jakarta Server Pages: Java API for Jakarta Servlets, Java API for Jakarta Server Pages, Java API for Jakarta Expression Language
-    License: Eclipse Public License v2.0
-
-From: Eclipse Foundation (https://projects.eclipse.org/projects/ee4j.jstl)
-  - Jakarta Standard Tag Library: Jakarta Standard Tag Library
     License: Eclipse Public License v2.0
 
 From: FasterXML
@@ -291,6 +259,10 @@ From: Generated from common-util-5.1.0.jar, glassfish-ee-api-5.1.0.jar, jakarta.
 
 From: Generated from jakarta.jakartaee-api-10.0.0-javadoc.jar
   - JakartaEE API 10.0.0 Documentation: JakartaEE API 10.0.0 Documentation
+    License: Eclipse Public License v2.0
+
+From: Generated from jakarta.jakartaee-api-11.0.0-M1-javadoc.jar
+  - JakartaEE API 11.0.0 Documentation: JakartaEE API 11.0.0 Documentation
     License: Eclipse Public License v2.0
 
 From: Generated from jakarta.jakartaee-api-8.0.0-javadoc.jar
@@ -327,6 +299,10 @@ From: GitHub
 
 From: GlassFish Community (https://mvnrepository.com/artifact/com.sun.mail/javax.mail/1.6.2)
   - JavaMail API: JavaMail API 1.6.2
+    License: CDDL-1.1
+
+From: GlassFish Community (https://mvnrepository.com/artifact/javax.annotation/javax.annotation-api/1.2)
+  - Javax Annotation API: Javax Annotation API 1.2
     License: CDDL-1.1
 
 From: GlassFish Community (https://mvnrepository.com/artifact/javax.annotation/javax.annotation-api/1.3.2)
@@ -433,6 +409,10 @@ From: JCraft, Inc.
   - JZlib: Java implementation of zlib (http://www.jcraft.com/jzlib/)
     License: BSD-like zlib license
 
+From: JSVG
+  - JSVG: JSVG - A Java SVG implementation (https://github.com/weisJ/jsvg)
+    License: MIT license JSVG variant
+
 From: JUnit
   - JUnit Jupiter API: JUnit Jupiter API
     License: Eclipse Public License v2.0
@@ -440,7 +420,7 @@ From: JUnit
     License: Eclipse Public License v2.0
   - JUnit Jupiter Params: JUnit Jupiter Params
     License: Eclipse Public License v2.0
-  - JUnit Jupiter: JUnit Jupiter (https://search.maven.org/search?q=g:org.junit.jupiter%20AND%20v:5.6.0)
+  - JUnit Jupiter: JUnit Jupiter (https://search.maven.org/search?q=g:org.junit.jupiter%20AND%20v:5.10.3)
     License: Eclipse Public License v2.0
   - JUnit: JUnit harness runtime (http://search.maven.org/#artifactdetails|junit|junit|4.13.2|jar)
     License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
@@ -460,12 +440,8 @@ From: Krzysztof Rzymkowski
 From: NetBeans
   - CND Debugger parts: CND Debugger parts that didn't go through the Apache IP Clearance yet
     License: CDDL-1.0
-  - External Browser DLLs: Windows DLLs for external browser integration
-    License: CDDL-1.0
   - NetBeans Application Launchers: Windows Launchers for NetBeans Applications
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - NetBeans Installer Binaries: NetBeans Installer Binaries
-    License: CDDL-1.0
   - NetBeans Platform Applications Launchers: Windows Launchers for the NetBeans Platform Applications
     License: CDDL-1.0
   - Profiler Binaries: Profiler Binaries for a large variety of platforms
@@ -488,7 +464,7 @@ From: OW2 Consortium
   - OW2 ASM: Bytecode manipulation library (https://repository.ow2.org/nexus/content/repositories/releases/org/ow2/asm/)
     License: BSD license with INRIA copyright
 
-From: OpenJDK (https://github.com/openjdk/jdk21)
+From: OpenJDK (https://github.com/openjdk/jdk)
   - Javac Compiler Implementation: Javac Compiler Implementation
     License: GPL v2 with Classpath exception (http://openjdk.java.net/legal/gplv2+ce.html)
     Comment: The binary has been reviewed to be under the Classpath Exception as a whole. Optional at runtime, but used by default.
@@ -502,11 +478,7 @@ From: Oracle
     License: CDDL-1.1
   - JavaServer Faces: JavaServer Faces for building component-based user interfaces
     License: CDDL-1.1
-  - JavaServer Pages Standard Tag Library: JavaServer Pages Standard Tag Library
-    License: CDDL-1.1
   - Jersey-core: Jersey-core
-    License: CDDL-1.1
-  - javax.annotation API: Common Annotations for the Java Platform API (http://jcp.org/en/jsr/detail?id=250)
     License: CDDL-1.1
 
 From: Oracle (http://glassfish.dev.java.net)
@@ -543,13 +515,7 @@ From: SourceForge
 
 From: Spring
   - Spring Framework: Java/J2EE application framework (https://spring.io/projects/spring-framework)
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt) with Spring addendums, version 4.X
-  - Spring Framework: Java/J2EE application framework (https://spring.io/projects/spring-framework)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt) with Spring addendums, version 5.X
-
-From: SpringSource
-  - Spring Framework: Java/J2EE application framework (https://spring.io/projects/spring-framework)
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt) with Spring addendums, version 3.X
 
 From: Subclipse
   - SVNClientAdapter Library: Integration library for subversion client (http://subclipse.tigris.org/svnClientAdapter.html)
@@ -595,12 +561,6 @@ From: http://ini4j.sourceforge.net/
   - Ini4J: Java API for handling Windows ini file format
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
-From: http://java.sun.com/javaee/javaserverfaces/download.html
-  - Java Server Faces - Reference Implementation: Java Server Faces - Reference Implementation
-    License: CDDL-1.0
-  - Java Server Faces: Java Server Faces
-    License: CDDL-1.0
-
 From: http://jcp.org/en/jsr/detail?id=88
   - Java EE Deployment API: Java EE Deployment API
     License: CDDL-1.0
@@ -617,7 +577,7 @@ From: http://site.icu-project.org/
   - ICU4J: Unicode and Globalization support
     License: MIT license icu4j variant
   - icu4j: icu4j license
-    License: MIT license icu4j variant
+    License: MIT-icu4j-74
 
 From: http://tomcat.apache.org
   - Apache Tomcat (Annotations Package): Annotations used in Apache Tomcat
@@ -628,10 +588,6 @@ From: http://tomcat.apache.org
 From: http://wordlist.sourceforge.net/
   - SCOWL Wordlist: English dictionary word list
     License: BSD-SCOWL
-
-From: http://www.antlr2.org/
-  - Another Tool for Language Recognition: Another Tool for Language Recognition
-    License: ANTLR-2
 
 From: http://www.eclipse.org/eclipselink/
   - EclipseLink: The Eclipse Persistence Services Project ( EclipseLink) project.
@@ -699,24 +655,6 @@ From: https://github.com/HanSolo/jdktools
   - JDKTools: Collection of classes for working with OpenJDK related things.
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
-From: https://github.com/Microsoft/vscode-languageserver-node#readme
-  - vscode-jsonrpc: A json rpc implementation over streams
-    License: MIT license for jsonrpc
-  - vscode-languageserver-protocol: VSCode Language Server Protocol implementation
-    License: MIT license for vscode-languageserver-protocol
-  - vscode-languageserver-types: Types used by the Language server for node
-    License: MIT license for vscode-languageserver-types
-  - vscode-languageserver: Language server implementation for node
-    License: MIT license for vscode-languageserver
-
-From: https://github.com/Microsoft/vscode-uri#readme
-  - vscode-uri: The URI implementation that is used by VS Code and its extensions
-    License: MIT license for vscode-uri
-
-From: https://github.com/RyanZim/universalify#readme
-  - universalify: Make a callback- or promise-based function support both promises and callbacks.
-    License: MIT license for universalify
-
 From: https://github.com/eclipse-ee4j/beanvalidation-api
   - Jakarta Bean Validation API: Jakarta Bean Validation defines a metadata model and API for JavaBean and method validation
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
@@ -737,6 +675,10 @@ From: https://github.com/eclipse/tm4e
   - TextMate support for Eclipse: Used to interpret TextMate grammars
     License: Eclipse Public License v2.0
 
+From: https://github.com/fabric8io/kubernetes-client
+  - Fabric8: Java client for Kubernetes & OpenShift.
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
 From: https://github.com/foojayio/discoclient
   - DiscoClient: Library to access the Foojay.io Discovery API service.
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
@@ -747,21 +689,13 @@ From: https://github.com/google/guava
   - Guava: Guava is a set of core libraries that includes new collection types (such as multimap and multiset), immutable collections, a graph library, and utilities for concurrency, I/O, hashing, primitives, strings, and more.
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
-From: https://github.com/isaacs/node-graceful-fs#readme
-  - graceful-fs: A drop-in replacement for fs, making various improvements.
-    License: ISC license for graceful-fs
-
 From: https://github.com/jhy/jsoup
   - jsoup: jsoup library
     License: MIT license jsoup variant
 
-From: https://github.com/jprichardson/node-fs-extra
-  - fs-extra: fs-extra contains methods that aren't included in the vanilla Node.js fs package. Such as mkdir -p, cp -r, and rm -rf.
-    License: MIT license for fs-extra
-
-From: https://github.com/jprichardson/node-jsonfile#readme
-  - jsonfile: Easily read/write JSON files.
-    License: MIT license for jsonfile
+From: https://github.com/jline/jline3/tree/master
+  - JLine3 shaded for Graal: JLine3 shaded for Graal
+    License: BSD-jline3
 
 From: https://github.com/jruby/jcodings
   - jcodings: Java-based codings helper classes for Joni and JRuby
@@ -776,18 +710,6 @@ From: https://github.com/kohlschutter/junixsocket/
   - junixsocket: junixsocket is a Java/JNI library that allows the use of Unix Domain Sockets (AF_UNIX sockets) from Java.
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
-From: https://github.com/kohsuke/winp
-  - winp: Library allowing to control windows processes.
-    License: MIT-winp
-
-From: https://github.com/mathisonian/command-exists
-  - command-exists: check whether a command line command exists in the current environment
-    License: MIT license for command-exists
-
-From: https://github.com/matthiasblaesing/netbeans-processtreekiller
-  - NetBeans processtreekiller: Library allowing to kill external process trees.
-    License: MIT
-
 From: https://github.com/microsoft/TypeScript
   - jsstubs: JS Stubs for core library - based on the stub library as distibuted with the typescript compiler
     License: Apache-2.0-typescript2
@@ -800,6 +722,12 @@ From: https://github.com/openjdk/jfx
 From: https://github.com/oracle/graal
   - Graal SDK and Truffle API: Graal SDK and Truffle API
     License: UPL
+  - Graal SDK and Truffle Runtime: Graal SDK and Truffle Runtime
+    License: UPL
+
+From: https://github.com/oracle/graal https://github.com/jruby/jcodings
+  - Truffle API with shaded jcodings library: Truffle API with shaded jcodings library
+    License: UPL-MIT-jcodings
 
 From: https://github.com/oracle/oci-java-sdk
   - OCI Java SDK: Oracle Cloud Infrastructure SDK for Java
@@ -809,33 +737,9 @@ From: https://github.com/resilience4j/resilience4j
   - Resilience4j: Resilience4j is a fault tolerance library designed for Java8 and functional programming
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
-From: https://github.com/sindresorhus/crypto-random-string#readme
-  - crypto-random-string: Generate a cryptographically strong random string
-    License: MIT license for p-debounce, crypto-random-string, temp-dir, unique-string
-
-From: https://github.com/sindresorhus/p-debounce#readme
-  - p-debounce: Debounce promise-returning & async functions
-    License: MIT license for p-debounce, crypto-random-string, temp-dir, unique-string
-
-From: https://github.com/sindresorhus/temp-dir#readme
-  - temp-dir: Get the real path of the system temp directory
-    License: MIT license for p-debounce, crypto-random-string, temp-dir, unique-string
-
-From: https://github.com/sindresorhus/tempy#readme
-  - tempy: Get a random temporary file or directory path
-    License: MIT license for tempy
-
-From: https://github.com/sindresorhus/unique-string#readme
-  - unique-string: Generate a unique random string
-    License: MIT license for p-debounce, crypto-random-string, temp-dir, unique-string
-
-From: https://github.com/theia-ide/typescript-language-server#readme
+From: https://github.com/typescript-language-server/typescript-language-server
   - typescript-language-server: Language Server Protocol (LSP) implementation for TypeScript using tsserver
     License: Apache 2.0 license for typescript-language-server
-
-From: https://github.com/tj/commander.js#readme
-  - commander: the complete solution for node.js command-line programs
-    License: MIT license for commander
 
 From: https://github.com/validator/galimatias
   - ISO-RELAX: Relax validation APIs
@@ -843,6 +747,10 @@ From: https://github.com/validator/galimatias
 
 From: https://github.com/vavr-io/vavr
   - vʌvr: vʌvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: https://github.com/vieiro/toml-java
+  - TOML parser in Java: A parser for Tom's Obvious, Minimal Language (TOML). (http://github.com/vieiro/toml-java)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: https://github.com/vsch/flexmark-java
@@ -878,6 +786,10 @@ From: https://secure.php.net/manual/en/
   - PHP Documentation: Documentation for Predefined Variables
     License: CC-BY-3.0
 
+From: https://square.github.io/okhttp/
+  - okhttp: HTTP client for the JVM, Android, and GraalVM.
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
 From: https://www.bouncycastle.org/latest_releases.html
   - Bouncy Castle ASN.1 Extension and Utility APIs: Legion of the Bouncy Castle Java cryptography APIs
     License: MIT-bouncycastle
@@ -888,25 +800,11 @@ From: https://www.bouncycastle.org/latest_releases.html
 
 From: https://www.slf4j.org/
   - SLF4J: Simple Logging Facade for Java (SLF4J).
-    License: MIT-slf4j
+    License: MIT-slf4j-22
 
 From: https://www.typescriptlang.org/
   - typescript: TypeScript is a language for application scale JavaScript development
     License: Apache 2.0 license for typescript
-
-From: https://xmlgraphics.apache.org/batik/
-  - Apache Batik: Batik is a toolkit for applications that want to use images in the Scalable Vector Graphics (SVG) format for various purposes, such as display, generation or manipulation.
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-
-From: https://xmlgraphics.apache.org/commons/
-  - Apache XML Commons XML APIs: Apache XML Graphics Commons is a library that consists of several reusable components used by Apache Batik and Apache FOP.
-    License: Apache-2.0-XML-Commons-APIs
-  - Apache XML Graphics Commons: Apache XML Graphics Commons is a library that consists of several reusable components used by Apache Batik and Apache FOP.
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-
-From: httpshttps://github.com/microsoft/vscode-textbuffer#readme
-  - vscode-textbuffer: The underling text buffer used in VS Code/Monaco
-    License: MIT license for vscode-textbuffer
 
 From: jemmy.java.net
   - Jemmy: Jemmy UI testing tool (https://web.archive.org/web/20120822233211/http://java.net:80/projects/jemmy)

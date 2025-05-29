@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.maven.profiler/1">
-    <module_version install_time="1708007506197" last="true" origin="installer" specification_version="1.55">
+    <module_version install_time="1747144443077" last="true" origin="installer" specification_version="1.60">
         <file crc="3344657031" name="config/Modules/org-netbeans-modules-maven-profiler.xml"/>
-        <file crc="1734924069" name="modules/org-netbeans-modules-maven-profiler.jar"/>
+        <file crc="656340911" name="modules/org-netbeans-modules-maven-profiler.jar"/>
     </module_version>
 </module>

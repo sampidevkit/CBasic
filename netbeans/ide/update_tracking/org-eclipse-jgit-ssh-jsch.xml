@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.eclipse.jgit.ssh.jsch">
-    <module_version install_time="1708007224527" last="true" origin="installer" specification_version="6.8.0.202311291450-r">
+    <module_version install_time="1747143790649" last="true" origin="installer" specification_version="7.2.0.202503040940-r">
         <file crc="3153021637" name="config/Modules/org-eclipse-jgit-ssh-jsch.xml"/>
-        <file crc="2411997277" name="modules/org-eclipse-jgit-ssh-jsch.jar"/>
+        <file crc="909054143" name="modules/org-eclipse-jgit-ssh-jsch.jar"/>
     </module_version>
 </module>

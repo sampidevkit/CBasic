@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.agent">
+    <module_version install_time="1747143874636" last="true" origin="installer" specification_version="1.0">
+        <file crc="1723746777" name="config/Modules/org-netbeans-agent.xml"/>
+        <file crc="635057551" name="modules/org-netbeans-agent.jar"/>
+    </module_version>
+</module>

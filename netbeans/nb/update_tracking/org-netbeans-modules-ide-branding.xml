@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.ide.branding/1">
-    <module_version install_time="1708007513975" last="true" origin="installer" specification_version="1.55">
+    <module_version install_time="1747144464688" last="true" origin="installer" specification_version="1.60">
+        <file crc="773855301" name="apache-netbeans.ico"/>
+        <file crc="1394549061" name="apache-netbeans.svg"/>
+        <file crc="4172777416" name="apache-netbeans1024.png"/>
+        <file crc="1256286244" name="apache-netbeans256.png"/>
+        <file crc="2969130016" name="apache-netbeans48.png"/>
+        <file crc="3046761052" name="apache-netbeans512.png"/>
         <file crc="2739271892" name="config/Modules/org-netbeans-modules-ide-branding.xml"/>
-        <file crc="422028335" name="core/locale/core_nb.jar"/>
-        <file crc="2593614606" name="modules/ext/locale/updater_nb.jar"/>
-        <file crc="2244301168" name="modules/locale/org-netbeans-core-netigso_nb.jar"/>
-        <file crc="1650292780" name="modules/locale/org-netbeans-core-ui_nb.jar"/>
-        <file crc="4237705404" name="modules/locale/org-netbeans-core-windows_nb.jar"/>
-        <file crc="3445863713" name="modules/locale/org-netbeans-core_nb.jar"/>
-        <file crc="4246135855" name="modules/locale/org-netbeans-modules-autoupdate-ui_nb.jar"/>
-        <file crc="1633293366" name="modules/locale/org-netbeans-modules-options-api_nb.jar"/>
-        <file crc="1689856899" name="modules/locale/org-netbeans-modules-uihandler_nb.jar"/>
-        <file crc="4220236191" name="modules/locale/org-netbeans-spi-quicksearch_nb.jar"/>
-        <file crc="1611122775" name="modules/locale/org-netbeans-swing-plaf_nb.jar"/>
-        <file crc="1181837562" name="modules/org-netbeans-modules-ide-branding.jar"/>
-        <file crc="1557520548" name="netbeans.icns"/>
+        <file crc="136459135" name="core/locale/core_nb.jar"/>
+        <file crc="3057512727" name="modules/ext/locale/updater_nb.jar"/>
+        <file crc="781834705" name="modules/locale/org-netbeans-core-netigso_nb.jar"/>
+        <file crc="606429270" name="modules/locale/org-netbeans-core-ui_nb.jar"/>
+        <file crc="1277602400" name="modules/locale/org-netbeans-core-windows_nb.jar"/>
+        <file crc="1437474171" name="modules/locale/org-netbeans-core_nb.jar"/>
+        <file crc="2490439298" name="modules/locale/org-netbeans-modules-autoupdate-ui_nb.jar"/>
+        <file crc="2010655605" name="modules/locale/org-netbeans-modules-options-api_nb.jar"/>
+        <file crc="1962189114" name="modules/locale/org-netbeans-modules-uihandler_nb.jar"/>
+        <file crc="3731686480" name="modules/locale/org-netbeans-spi-quicksearch_nb.jar"/>
+        <file crc="3829490038" name="modules/locale/org-netbeans-swing-plaf_nb.jar"/>
+        <file crc="3464870731" name="modules/org-netbeans-modules-ide-branding.jar"/>
+        <file crc="4137424815" name="netbeans.icns"/>
         <file crc="1700504758" name="netbeans.png"/>
         <file crc="1864553960" name="shortcuts.pdf"/>
         <file crc="1848947865" name="shortcuts_mac.pdf"/>

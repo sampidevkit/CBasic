@@ -9,9 +9,9 @@
 
 /* Package name      : perl5
  * Source directory  : .
- * Configuration time: Wed May  8 22:21:52 UTC 2024
+ * Configuration time: Sun Apr 20 15:08:17 UTC 2025
  * Configured by     : runneradmin
- * Target system     : msys_nt-10.0-20348 fv-az980-147 3.5.3.x86_64 2024-05-06 06:45 utc x86_64 msys 
+ * Target system     : cygwin_nt-10.0-26100 fv-az1509-32 3.6.1-0cfedd4f.x86_64 2025-04-12 01:44 utc x86_64 cygwin 
  */
 
 #ifndef _config_h_
@@ -1368,8 +1368,8 @@
  *	by Configure.  You shouldn't rely on it too much; the specific
  *	feature tests from Configure are generally more reliable.
  */
-#define OSNAME "msys"		/**/
-#define OSVERS "3.5.3.x86_64"		/**/
+#define OSNAME "cygwin"		/**/
+#define OSVERS "3.6.1-0cfedd4f.x86_64"		/**/
 
 /* CAT2:
  *	This macro concatenates 2 tokens together.
@@ -4478,7 +4478,7 @@
  *	where library files may be held under a private library, for
  *	instance.
  */
-#define ARCHNAME "x86_64-msys-thread-multi"		/**/
+#define ARCHNAME "x86_64-cygwin-thread-multi"		/**/
 
 /* HAS_ASCTIME_R:
  *	This symbol, if defined, indicates that the asctime_r routine

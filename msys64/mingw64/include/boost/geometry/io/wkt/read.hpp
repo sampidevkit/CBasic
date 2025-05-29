@@ -132,7 +132,7 @@ struct parsing_assigner
                              Point& point,
                              std::string const& wkt)
     {
-        using coordinate_type = typename coordinate_type<Point>::type;
+        using coordinate_type = coordinate_type_t<Point>;
 
         // Stop at end of tokens, or at "," ot ")"
         bool finished = (it == end || *it == "," || *it == ")");
@@ -263,7 +263,7 @@ template <typename Geometry,
 struct stateful_range_appender
 {
     // NOTE: Geometry is a reference
-    inline void append(Geometry geom, typename geometry::point_type<Geometry>::type const& point, bool)
+    inline void append(Geometry geom, geometry::point_type_t<Geometry> const& point, bool)
     {
         geometry::append(geom, point);
     }
@@ -272,11 +272,8 @@ struct stateful_range_appender
 template <typename Geometry>
 struct stateful_range_appender<Geometry, open>
 {
-    using point_type = typename geometry::point_type<Geometry>::type;
-    using size_type = typename boost::range_size
-        <
-            typename util::remove_cptrref<Geometry>::type
-        >::type;
+    using point_type = geometry::point_type_t<Geometry>;
+    using size_type = typename boost::range_size<util::remove_cptrref_t<Geometry>>::type;
 
     BOOST_STATIC_ASSERT((util::is_ring<Geometry>::value));
 
@@ -329,7 +326,7 @@ private:
 template <typename Geometry>
 struct container_appender
 {
-    using point_type = typename geometry::point_type<Geometry>::type;
+    using point_type = geometry::point_type_t<Geometry>;
 
     template <typename TokenizerIterator>
     static inline void apply(TokenizerIterator& it,
@@ -422,8 +419,7 @@ struct ring_parser
 template <typename Polygon>
 struct polygon_parser
 {
-    using ring_return_type = typename ring_return_type<Polygon>::type;
-    using appender = container_appender<ring_return_type>;
+    using appender = container_appender<ring_return_type_t<Polygon>>;
 
     template <typename TokenizerIterator>
     static inline void apply(TokenizerIterator& it,
@@ -446,7 +442,7 @@ struct polygon_parser
             }
             else
             {
-                typename ring_type<Polygon>::type ring;
+                ring_type_t<Polygon> ring;
                 appender::apply(it, end, wkt, ring);
                 range::push_back(geometry::interior_rings(poly), std::move(ring));
             }
@@ -521,7 +517,7 @@ inline void handle_empty_z_m(TokenizerIterator& it,
 }
 
 
-template <typename Geometry, typename Tag = typename geometry::tag<Geometry>::type>
+template <typename Geometry, typename Tag = geometry::tag_t<Geometry>>
 struct dimension
     : geometry::dimension<Geometry>
 {};
@@ -786,7 +782,7 @@ struct box_parser
             BOOST_THROW_EXCEPTION(read_wkt_exception("Should start with 'POLYGON' or 'BOX'", wkt));
         }
 
-        using point_type = typename point_type<Box>::type;
+        using point_type = point_type_t<Box>;
         std::vector<point_type> points;
         container_inserter<point_type>::apply(it, end, wkt, std::back_inserter(points));
 
@@ -855,7 +851,7 @@ struct segment_parser
             BOOST_THROW_EXCEPTION(read_wkt_exception("Should start with 'LINESTRING' or 'SEGMENT'", wkt));
         }
 
-        using point_type = typename point_type<Segment>::type;
+        using point_type = point_type_t<Segment>;
         std::vector<point_type> points;
         container_inserter<point_type>::apply(it, end, wkt, std::back_inserter(points));
 
@@ -982,7 +978,7 @@ private:
                                bool = true)
     {
         Geom g;
-        ReadWkt<Geom, typename tag<Geom>::type>::apply(it, end, wkt, g);
+        ReadWkt<Geom, tag_t<Geom>>::apply(it, end, wkt, g);
         AppendPolicy::apply(geometry, g);
         return true;
     }
@@ -1022,7 +1018,7 @@ private:
 namespace dispatch
 {
 
-template <typename Geometry, typename Tag = typename tag<Geometry>::type>
+template <typename Geometry, typename Tag = tag_t<Geometry>>
 struct read_wkt {};
 
 
@@ -1188,10 +1184,10 @@ struct read_wkt<Geometry, geometry_collection_tag>
 #endif // DOXYGEN_NO_DISPATCH
 
 /*!
-\brief Parses OGC Well-Known Text (\ref WKT) into a geometry (any geometry)
+\brief Parses OGC \well_known_text (\wkt) into a geometry (any geometry)
 \ingroup wkt
 \tparam Geometry \tparam_geometry
-\param wkt string containing \ref WKT
+\param wkt string containing \wkt
 \param geometry \param_geometry output geometry
 \ingroup wkt
 \qbk{[include reference/io/read_wkt.qbk]}
@@ -1204,10 +1200,10 @@ inline void read_wkt(std::string const& wkt, Geometry& geometry)
 }
 
 /*!
-\brief Parses OGC Well-Known Text (\ref WKT) into a geometry (any geometry) and returns it
+\brief Parses OGC \well_known_text (\wkt) into a geometry (any geometry) and returns it
 \ingroup wkt
 \tparam Geometry \tparam_geometry
-\param wkt string containing \ref WKT
+\param wkt string containing \wkt
 \ingroup wkt
 \qbk{[include reference/io/from_wkt.qbk]}
 */

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.keyring.impl">
-    <module_version install_time="1708007128043" last="true" origin="installer" specification_version="1.47">
+    <module_version install_time="1747143574073" last="true" origin="installer" specification_version="1.52">
         <file crc="729697579" name="config/Modules/org-netbeans-modules-keyring-impl.xml"/>
-        <file crc="411786456" name="modules/org-netbeans-modules-keyring-impl.jar"/>
+        <file crc="76610868" name="modules/org-netbeans-modules-keyring-impl.jar"/>
     </module_version>
 </module>

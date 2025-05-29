@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.cnd.callgraph">
-    <module_version install_time="1710340339912" last="true" origin="NetBeans 8.2 Plugin Portal" specification_version="1.33.4.1">
+    <module_version install_time="1748527645013" last="true" origin="NetBeans 8.2 Distribution" specification_version="1.33.4.1">
         <file crc="548927510" name="config/Modules/org-netbeans-modules-cnd-callgraph.xml"/>
         <file crc="2839152327" name="modules/locale/org-netbeans-modules-cnd-callgraph_ja.jar"/>
         <file crc="2708269606" name="modules/locale/org-netbeans-modules-cnd-callgraph_pt_BR.jar"/>

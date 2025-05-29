@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.core.output2/1">
-    <module_version install_time="1708007122740" last="true" origin="installer" specification_version="1.65">
+    <module_version install_time="1747143564255" last="true" origin="installer" specification_version="1.70">
         <file crc="1198063063" name="config/Modules/org-netbeans-core-output2.xml"/>
-        <file crc="2967675597" name="modules/org-netbeans-core-output2.jar"/>
+        <file crc="491913331" name="modules/org-netbeans-core-output2.jar"/>
     </module_version>
 </module>

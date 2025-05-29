@@ -3,8 +3,9 @@
 // Copyright (c) 2015 Barend Gehrels, Amsterdam, the Netherlands.
 // Copyright (c) 2017-2023 Adam Wulkiewicz, Lodz, Poland.
 
-// This file was modified by Oracle on 2017-2020.
-// Modifications copyright (c) 2017-2020 Oracle and/or its affiliates.
+// This file was modified by Oracle on 2017-2024.
+// Modifications copyright (c) 2017-2024 Oracle and/or its affiliates.
+// Contributed and/or modified by Vissarion Fysikopoulos, on behalf of Oracle
 // Contributed and/or modified by Adam Wulkiewicz, on behalf of Oracle
 
 // Use, modification and distribution is subject to the Boost Software License,
@@ -259,7 +260,7 @@ template
 inline void check_colocation(bool& has_blocked,
         signed_size_type cluster_id, Turns const& turns, Clusters const& clusters)
 {
-    typedef typename boost::range_value<Turns>::type turn_type;
+    using turn_type = typename boost::range_value<Turns>::type;
 
     has_blocked = false;
 
@@ -315,16 +316,14 @@ template
     typename Geometry0,
     typename Geometry1,
     typename Turns,
-    typename Clusters,
-    typename RobustPolicy
+    typename Clusters
 >
-inline bool handle_colocations(Turns& turns, Clusters& clusters,
-                               RobustPolicy const& robust_policy)
+inline bool handle_colocations(Turns& turns, Clusters& clusters)
 {
     static const detail::overlay::operation_type target_operation
             = detail::overlay::operation_from_overlay<OverlayType>::value;
 
-    get_clusters(turns, clusters, robust_policy);
+    get_clusters(turns, clusters);
 
     if (clusters.empty())
     {
@@ -364,23 +363,6 @@ inline bool handle_colocations(Turns& turns, Clusters& clusters,
 
     return true;
 }
-
-
-struct is_turn_index
-{
-    is_turn_index(signed_size_type index)
-        : m_index(index)
-    {}
-
-    template <typename Indexed>
-    inline bool operator()(Indexed const& indexed) const
-    {
-        // Indexed is a indexed_turn_operation<Operation>
-        return indexed.turn_index == m_index;
-    }
-
-    signed_size_type m_index;
-};
 
 template
 <
@@ -432,16 +414,15 @@ inline void gather_cluster_properties(Clusters& clusters, Turns& turns,
         Geometry1 const& geometry1, Geometry2 const& geometry2,
         Strategy const& strategy)
 {
-    typedef typename boost::range_value<Turns>::type turn_type;
-    typedef typename turn_type::point_type point_type;
-    typedef typename turn_type::turn_operation_type turn_operation_type;
+    using turn_type = typename boost::range_value<Turns>::type;
+    using point_type = typename turn_type::point_type;
+    using turn_operation_type = typename turn_type::turn_operation_type;
 
-    // Define sorter, sorting counter-clockwise such that polygons are on the
-    // right side
-    typedef sort_by_side::side_sorter
+    // Define sorter, sorting counter-clockwise such that polygons are on the right side
+    using sbs_type = sort_by_side::side_sorter
         <
             Reverse1, Reverse2, OverlayType, point_type, Strategy, std::less<int>
-        > sbs_type;
+        >;
 
     for (auto& pair : clusters)
     {

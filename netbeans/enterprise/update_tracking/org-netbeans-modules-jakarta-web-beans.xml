@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.jakarta.web.beans/1">
-    <module_version install_time="1708007670173" last="true" origin="installer" specification_version="2.42">
-        <file crc="568684184" name="config/Modules/org-netbeans-modules-jakarta-web-beans.xml"/>
-        <file crc="1475626446" name="modules/org-netbeans-modules-jakarta-web-beans.jar"/>
-    </module_version>
-</module>

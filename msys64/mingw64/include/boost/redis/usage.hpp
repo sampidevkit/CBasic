@@ -1,4 +1,4 @@
-/* Copyright (c) 2018-2023 Marcelo Zimbres Silva (mzimbres@gmail.com)
+/* Copyright (c) 2018-2024 Marcelo Zimbres Silva (mzimbres@gmail.com)
  *
  * Distributed under the Boost Software License, Version 1.0. (See
  * accompanying file LICENSE.txt)
@@ -15,7 +15,7 @@ namespace boost::redis
  *
  *  @note: To simplify the implementation, the commands_sent and
  *  bytes_sent in the struct below are computed just before writing to
- *  the socket, which means on error they might not represent exaclty
+ *  the socket, which means on error they might not represent exactly
  *  what has been received by the Redis server.
  */
 struct usage {

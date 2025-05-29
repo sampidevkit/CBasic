@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.dlight.nativeexecution">
-    <module_version install_time="1708007212075" last="true" origin="installer" specification_version="1.62.0.1">
+    <module_version install_time="1747143766014" last="true" origin="installer" specification_version="1.67.0.1">
         <file crc="3089438335" name="bin/nativeexecution/Linux-aarch64/killall"/>
         <file crc="912295131" name="bin/nativeexecution/Linux-aarch64/process_start"/>
         <file crc="3584150013" name="bin/nativeexecution/Linux-aarch64/pty"/>
@@ -83,6 +83,6 @@
         <file crc="2190030010" name="bin/nativeexecution/dorun.sh"/>
         <file crc="2062504105" name="bin/nativeexecution/hostinfo.sh"/>
         <file crc="249150406" name="config/Modules/org-netbeans-modules-dlight-nativeexecution.xml"/>
-        <file crc="784507003" name="modules/org-netbeans-modules-dlight-nativeexecution.jar"/>
+        <file crc="582018294" name="modules/org-netbeans-modules-dlight-nativeexecution.jar"/>
     </module_version>
 </module>

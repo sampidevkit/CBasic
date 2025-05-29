@@ -15,7 +15,7 @@ include config/HTMLPalette/.*
 #org.netbeans.modules.code.analysis OptionsExport/Advanced/Inspections
 include config/Preferences/org/netbeans/modules/code/analysis/.*
 #org.netbeans.modules.j2eeserver OptionsExport/Advanced/J2EE
-include config/(J2EE|GlassFish|GlassFishEE6|GlassFishEE6WC||GlassFishEE7|GlassFishEE8|GlassFishJakartaEE8|GlassFishJakartaEE9|GlassFishJakartaEE91|GlassFishJakartaEE10)/.*
+include config/(J2EE|GlassFish|GlassFishEE6|GlassFishEE6WC|PayaraEE6|GlassFishEE7|GlassFishEE8|GlassFishJakartaEE8|GlassFishJakartaEE9|GlassFishJakartaEE91|GlassFishJakartaEE10)/.*
 #org.netbeans.modules.web.core OptionsExport/Advanced/JSPPalette
 include config/JSPPalette/.*
 #null OptionsExport/Advanced/JavaPlatform
@@ -54,9 +54,6 @@ include config/Editors/text/x-java/Preferences/org-netbeans-modules-editor-setti
 include config/Preferences/org/netbeans/core[.]properties|config/Services/Browsers/.*
 #org.netbeans.core.ui OptionsExport/General/Other
 include config/Preferences/.*
-#org.netbeans.modules.welcome OptionsExport/General/Welcome
-include config/Preferences/org/netbeans/modules/welcome[.]properties
-exclude config/Preferences/org/netbeans/modules/welcome[.]properties!feedback.*
 #org.apache.tools.ant.module OptionsExport/Java/AntShortcuts
 include config/(Actions/Build/.*[.]xml|(Menu|Toolbars|Shortcuts)/.*[.]shadow)
 #org.netbeans.modules.form OptionsExport/Java/Form

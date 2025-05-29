@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.templatesui">
-    <module_version install_time="1708007140261" last="true" origin="installer" specification_version="1.26">
+    <module_version install_time="1747143594012" last="true" origin="installer" specification_version="1.31">
         <file crc="1388336889" name="config/Modules/org-netbeans-modules-templatesui.xml"/>
-        <file crc="753911210" name="modules/org-netbeans-modules-templatesui.jar"/>
+        <file crc="2639552147" name="modules/org-netbeans-modules-templatesui.jar"/>
     </module_version>
 </module>

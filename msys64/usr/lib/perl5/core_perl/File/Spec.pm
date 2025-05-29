@@ -13,7 +13,6 @@ my %module = (
 	      symbian => 'Win32', # Yes, File::Spec::Win32 works on symbian.
 	      dos     => 'OS2',   # Yes, File::Spec::OS2 works on DJGPP.
 	      cygwin  => 'Cygwin',
-	      msys    => 'Cygwin',
 	      amigaos => 'AmigaOS');
 
 

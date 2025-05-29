@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="bcutil">
-    <module_version install_time="1708007151209" last="true" origin="installer" specification_version="1.77">
+    <module_version install_time="1747143613720" last="true" origin="installer" specification_version="1.77">
         <file crc="3363374116" name="config/Modules/bcutil.xml"/>
         <file crc="3358521601" name="modules/bcutil.jar"/>
     </module_version>

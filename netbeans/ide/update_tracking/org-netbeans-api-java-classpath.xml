@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.api.java.classpath/1">
-    <module_version install_time="1708007149148" last="true" origin="installer" specification_version="1.77">
+    <module_version install_time="1747143608831" last="true" origin="installer" specification_version="1.82">
         <file crc="4102554259" name="config/Modules/org-netbeans-api-java-classpath.xml"/>
-        <file crc="3372910893" name="modules/org-netbeans-api-java-classpath.jar"/>
+        <file crc="1936883764" name="modules/org-netbeans-api-java-classpath.jar"/>
     </module_version>
 </module>

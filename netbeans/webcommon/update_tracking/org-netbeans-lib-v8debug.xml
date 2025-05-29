@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.lib.v8debug/1">
-    <module_version install_time="1708007324188" last="true" origin="installer" specification_version="1.39">
+    <module_version install_time="1747144033872" last="true" origin="installer" specification_version="1.44">
         <file crc="3680560895" name="config/Modules/org-netbeans-lib-v8debug.xml"/>
-        <file crc="775514888" name="modules/org-netbeans-lib-v8debug.jar"/>
+        <file crc="3227790087" name="modules/org-netbeans-lib-v8debug.jar"/>
     </module_version>
 </module>

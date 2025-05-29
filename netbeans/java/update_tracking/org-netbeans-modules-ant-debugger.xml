@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.ant.debugger/1">
-    <module_version install_time="1708007342616" last="true" origin="installer" specification_version="1.60.0.2">
+    <module_version install_time="1747144074457" last="true" origin="installer" specification_version="1.65.0.2">
         <file crc="658153027" name="config/Modules/org-netbeans-modules-ant-debugger.xml"/>
-        <file crc="4273388396" name="modules/org-netbeans-modules-ant-debugger.jar"/>
+        <file crc="715285289" name="modules/org-netbeans-modules-ant-debugger.jar"/>
     </module_version>
 </module>

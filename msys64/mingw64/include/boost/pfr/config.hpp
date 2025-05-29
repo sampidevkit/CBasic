@@ -1,4 +1,4 @@
-// Copyright (c) 2016-2024 Antony Polukhin
+// Copyright (c) 2016-2025 Antony Polukhin
 // Copyright (c) 2022 Denis Mikhailov
 //
 // Distributed under the Boost Software License, Version 1.0. (See accompanying
@@ -144,5 +144,13 @@
 #endif
 
 #undef BOOST_PFR_NOT_SUPPORTED
+
+#ifndef BOOST_PFR_BEGIN_MODULE_EXPORT
+#   define BOOST_PFR_BEGIN_MODULE_EXPORT
+#endif
+
+#ifndef BOOST_PFR_END_MODULE_EXPORT
+#   define BOOST_PFR_END_MODULE_EXPORT
+#endif
 
 #endif // BOOST_PFR_CONFIG_HPP

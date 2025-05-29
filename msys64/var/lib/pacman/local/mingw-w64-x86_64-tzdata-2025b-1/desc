@@ -1,0 +1,43 @@
+%NAME%
+mingw-w64-x86_64-tzdata
+
+%VERSION%
+2025b-1
+
+%BASE%
+mingw-w64-tzdata
+
+%DESC%
+Sources for time zone and daylight saving time data (mingw-w64)
+
+%URL%
+https://www.iana.org/time-zones
+
+%ARCH%
+any
+
+%BUILDDATE%
+1742797781
+
+%INSTALLDATE%
+1748531178
+
+%PACKAGER%
+CI (msys2/msys2-autobuild/e9e823c2/14028441555)
+
+%SIZE%
+1431094
+
+%REASON%
+1
+
+%LICENSE%
+custom: public domain
+
+%VALIDATION%
+sha256
+pgp
+
+%XDATA%
+pkgtype=pkg
+

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.web.jsf/2">
-    <module_version install_time="1708007728602" last="true" origin="installer" specification_version="2.3.0.3">
+    <module_version install_time="1747144982597" last="true" origin="installer" specification_version="2.8.0.3">
         <file crc="1847041232" name="config/Modules/org-netbeans-modules-web-jsf.xml"/>
-        <file crc="818370199" name="modules/org-netbeans-modules-web-jsf.jar"/>
+        <file crc="1878409659" name="modules/org-netbeans-modules-web-jsf.jar"/>
     </module_version>
 </module>

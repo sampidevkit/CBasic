@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.project.dependency">
-    <module_version install_time="1708007263867" last="true" origin="installer" specification_version="1.7.0.1">
+    <module_version install_time="1747143883727" last="true" origin="installer" specification_version="1.13.0.1">
         <file crc="3639149965" name="config/Modules/org-netbeans-modules-project-dependency.xml"/>
-        <file crc="3339787054" name="modules/org-netbeans-modules-project-dependency.jar"/>
+        <file crc="4212425670" name="modules/org-netbeans-modules-project-dependency.jar"/>
     </module_version>
 </module>

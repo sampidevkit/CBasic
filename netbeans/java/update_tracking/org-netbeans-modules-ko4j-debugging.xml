@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.ko4j.debugging">
-    <module_version install_time="1708007466356" last="true" origin="installer" specification_version="1.25">
+    <module_version install_time="1747144343592" last="true" origin="installer" specification_version="1.30">
         <file crc="1823414818" name="config/Modules/org-netbeans-modules-ko4j-debugging.xml"/>
-        <file crc="656099355" name="modules/org-netbeans-modules-ko4j-debugging.jar"/>
+        <file crc="4003540334" name="modules/org-netbeans-modules-ko4j-debugging.jar"/>
     </module_version>
 </module>

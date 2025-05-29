@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.j2ee.platform/1">
-    <module_version install_time="1708007665334" last="true" origin="installer" specification_version="1.53">
+    <module_version install_time="1747144845690" last="true" origin="installer" specification_version="1.58">
         <file crc="1128986410" name="config/Modules/org-netbeans-modules-j2ee-platform.xml"/>
-        <file crc="758463920" name="docs/javaee-doc-api.jar"/>
-        <file crc="37887212" name="modules/org-netbeans-modules-j2ee-platform.jar"/>
+        <file crc="1016327562" name="docs/javaee-doc-api.jar"/>
+        <file crc="2471851477" name="modules/org-netbeans-modules-j2ee-platform.jar"/>
     </module_version>
 </module>

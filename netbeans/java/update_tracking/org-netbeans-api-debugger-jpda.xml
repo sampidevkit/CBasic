@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.api.debugger.jpda/2">
-    <module_version install_time="1708007354030" last="true" origin="installer" specification_version="3.33">
+    <module_version install_time="1747144104933" last="true" origin="installer" specification_version="3.38">
         <file crc="921362129" name="config/ModuleAutoDeps/org-netbeans-api-debugger-jpda.xml"/>
         <file crc="415085399" name="config/Modules/org-netbeans-api-debugger-jpda.xml"/>
-        <file crc="2085150150" name="modules/org-netbeans-api-debugger-jpda.jar"/>
+        <file crc="501222381" name="modules/org-netbeans-api-debugger-jpda.jar"/>
     </module_version>
 </module>

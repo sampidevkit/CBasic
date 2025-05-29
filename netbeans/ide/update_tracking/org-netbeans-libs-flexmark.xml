@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.flexmark">
-    <module_version install_time="1708007247623" last="true" origin="installer" specification_version="1.16">
+    <module_version install_time="1747143844469" last="true" origin="installer" specification_version="1.21">
         <file crc="3213768697" name="config/Modules/org-netbeans-libs-flexmark.xml"/>
         <file crc="4147696747" name="modules/ext/flexmark-0.64.8.jar"/>
         <file crc="358210538" name="modules/ext/flexmark-ext-anchorlink-0.64.8.jar"/>
@@ -18,6 +18,6 @@
         <file crc="4233825047" name="modules/ext/flexmark-util-sequence-0.64.8.jar"/>
         <file crc="1257671245" name="modules/ext/flexmark-util-visitor-0.64.8.jar"/>
         <file crc="461783358" name="modules/ext/jsoup-1.15.4.jar"/>
-        <file crc="882309218" name="modules/org-netbeans-libs-flexmark.jar"/>
+        <file crc="1614098041" name="modules/org-netbeans-libs-flexmark.jar"/>
     </module_version>
 </module>

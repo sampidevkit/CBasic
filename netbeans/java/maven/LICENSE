@@ -237,7 +237,7 @@ Project URL: http://aopalliance.sourceforge.net
 
 
 
-- lib/failureaccess-1.0.1.jar: com.google.guava:failureaccess:bundle:1.0.1
+- lib/failureaccess-1.0.2.jar: com.google.guava:failureaccess:bundle:1.0.2
     Project: Guava InternalFutureFailureAccess and InternalFutures
 Project URL: https://github.com/google/guava/
     License: The Apache Software License, Version 2.0 (Apache-2.0)
@@ -257,7 +257,7 @@ Project URL: https://github.com/google/guava/
 
 
 
-- lib/guava-32.0.1-jre.jar: com.google.guava:guava:bundle:32.0.1-jre
+- lib/guava-33.2.1-jre.jar: com.google.guava:guava:bundle:33.2.1-jre
     Project: Guava: Google Core Libraries for Java
 Project URL: https://github.com/google/guava
     License: Apache License, Version 2.0 (Apache-2.0)
@@ -298,10 +298,10 @@ Project URL: https://github.com/google/guice/
 
 
 
-- lib/commons-cli-1.5.0.jar: commons-cli:commons-cli:jar:1.5.0
+- lib/commons-cli-1.8.0.jar: commons-cli:commons-cli:jar:1.8.0
     Project: Apache Commons CLI
 Project URL: https://commons.apache.org/proper/commons-cli/
-    License: Apache License, Version 2.0 (Apache-2.0)
+    License: Apache-2.0 (Apache-2.0)
 
     License URL: https://www.apache.org/licenses/LICENSE-2.0.txt (lib/commons-cli.license)
 
@@ -318,7 +318,7 @@ Project URL: https://commons.apache.org/proper/commons-cli/
 
 
 
-- lib/commons-codec-1.16.0.jar: commons-codec:commons-codec:jar:1.16.0
+- lib/commons-codec-1.17.1.jar: commons-codec:commons-codec:jar:1.17.1
     Project: Apache Commons Codec
 Project URL: https://commons.apache.org/proper/commons-codec/
     License: Apache-2.0 (Apache-2.0)
@@ -364,26 +364,6 @@ Project URL: http://code.google.com/p/atinject/
     License: The Apache Software License, Version 2.0 (Apache-2.0)
 
     License URL: http://www.apache.org/licenses/LICENSE-2.0.txt (lib/javax.inject.license)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- lib/commons-lang3-3.12.0.jar: org.apache.commons:commons-lang3:jar:3.12.0
-    Project: Apache Commons Lang
-Project URL: https://commons.apache.org/proper/commons-lang/
-    License: Apache License, Version 2.0 (Apache-2.0)
-
-    License URL: https://www.apache.org/licenses/LICENSE-2.0.txt (lib/commons-lang3.license)
 
 
 
@@ -567,12 +547,12 @@ Project URL: https://codehaus-plexus.github.io/plexus-cipher/
 
 
 
-- boot/plexus-classworlds-2.7.0.jar: org.codehaus.plexus:plexus-classworlds:bundle:2.7.0
+- boot/plexus-classworlds-2.8.0.jar: org.codehaus.plexus:plexus-classworlds:bundle:2.8.0
     Project: Plexus Classworlds
 Project URL: https://codehaus-plexus.github.io/plexus-classworlds/
     License: Apache License, Version 2.0 (Apache-2.0)
 
-    License URL: http://www.apache.org/licenses/LICENSE-2.0.txt (boot/plexus-classworlds.license)
+    License URL: https://www.apache.org/licenses/LICENSE-2.0.txt (boot/plexus-classworlds.license)
 
 
 
@@ -607,12 +587,12 @@ Project URL: http://codehaus-plexus.github.io/plexus-containers/plexus-component
 
 
 
-- lib/plexus-interpolation-1.26.jar: org.codehaus.plexus:plexus-interpolation:bundle:1.26
+- lib/plexus-interpolation-1.27.jar: org.codehaus.plexus:plexus-interpolation:bundle:1.27
     Project: Plexus Interpolation API
-Project URL: http://codehaus-plexus.github.io/plexus-interpolation/
+Project URL: https://codehaus-plexus.github.io/plexus-pom/plexus-interpolation/
     License: Apache License, Version 2.0 (Apache-2.0)
 
-    License URL: http://www.apache.org/licenses/LICENSE-2.0.txt (lib/plexus-interpolation.license)
+    License URL: https://www.apache.org/licenses/LICENSE-2.0.txt (lib/plexus-interpolation.license)
 
 
 
@@ -667,15 +647,33 @@ Project URL: https://codehaus-plexus.github.io/plexus-utils/
 
 
 
+- lib/plexus-xml-3.0.1.jar: org.codehaus.plexus:plexus-xml:jar:3.0.1
+    Project: Plexus XML Utilities
+Project URL: https://codehaus-plexus.github.io/plexus-xml/
+    License: Apache License, Version 2.0 (Apache-2.0)
 
-- lib/org.eclipse.sisu.inject-0.9.0.M2.jar: org.eclipse.sisu:org.eclipse.sisu.inject:jar:0.9.0.M2
+    License URL: https://www.apache.org/licenses/LICENSE-2.0.txt (lib/plexus-xml.license)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- lib/org.eclipse.sisu.inject-0.9.0.M3.jar: org.eclipse.sisu:org.eclipse.sisu.inject:jar:0.9.0.M3
     Project: org.eclipse.sisu.inject
 Project URL: https://www.eclipse.org/sisu/
-    License: Eclipse Public License, Version 1.0 (EPL-1.0)
+    License: Eclipse Public License, Version 2.0 (EPL-2.0)
 
-    License URL: http://www.eclipse.org/legal/epl-v10.html (lib/org.eclipse.sisu.inject.license)
-
-
+    License URL: https://www.eclipse.org/legal/epl-v20.html (lib/org.eclipse.sisu.inject.license)
 
 
 
@@ -689,14 +687,14 @@ Project URL: https://www.eclipse.org/sisu/
 
 
 
-- lib/org.eclipse.sisu.plexus-0.9.0.M2.jar: org.eclipse.sisu:org.eclipse.sisu.plexus:jar:0.9.0.M2
+
+
+- lib/org.eclipse.sisu.plexus-0.9.0.M3.jar: org.eclipse.sisu:org.eclipse.sisu.plexus:jar:0.9.0.M3
     Project: org.eclipse.sisu.plexus
 Project URL: https://www.eclipse.org/sisu/
-    License: Eclipse Public License, Version 1.0 (EPL-1.0)
+    License: Eclipse Public License, Version 2.0 (EPL-2.0)
 
-    License URL: http://www.eclipse.org/legal/epl-v10.html (lib/org.eclipse.sisu.plexus.license)
-
-
+    License URL: https://www.eclipse.org/legal/epl-v20.html (lib/org.eclipse.sisu.plexus.license)
 
 
 
@@ -709,10 +707,12 @@ Project URL: https://www.eclipse.org/sisu/
 
 
 
-- lib/jansi-2.4.0.jar: org.fusesource.jansi:jansi:jar:2.4.0
-    Project: jansi
+
+
+- lib/jansi-2.4.1.jar: org.fusesource.jansi:jansi:jar:2.4.1
+    Project: Jansi
 Project URL: http://fusesource.github.io/jansi
-    License: The Apache Software License, Version 2.0 (Apache-2.0)
+    License: Apache License, Version 2.0 (Apache-2.0)
 
     License URL: http://www.apache.org/licenses/LICENSE-2.0.txt (lib/jansi.license)
 

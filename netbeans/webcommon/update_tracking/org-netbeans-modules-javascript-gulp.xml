@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javascript.gulp">
-    <module_version install_time="1708007321741" last="true" origin="installer" specification_version="0.36">
+    <module_version install_time="1747144028640" last="true" origin="installer" specification_version="0.41">
         <file crc="2853163515" name="config/Modules/org-netbeans-modules-javascript-gulp.xml"/>
-        <file crc="302948843" name="modules/org-netbeans-modules-javascript-gulp.jar"/>
+        <file crc="2444447000" name="modules/org-netbeans-modules-javascript-gulp.jar"/>
     </module_version>
 </module>

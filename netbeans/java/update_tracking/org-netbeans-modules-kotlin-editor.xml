@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.kotlin.editor">
-    <module_version install_time="1708007466773" last="true" origin="installer" specification_version="1.18">
+    <module_version install_time="1747144344423" last="true" origin="installer" specification_version="1.23">
         <file crc="4116234982" name="config/Modules/org-netbeans-modules-kotlin-editor.xml"/>
-        <file crc="108217838" name="modules/org-netbeans-modules-kotlin-editor.jar"/>
+        <file crc="3736710499" name="modules/org-netbeans-modules-kotlin-editor.jar"/>
     </module_version>
 </module>

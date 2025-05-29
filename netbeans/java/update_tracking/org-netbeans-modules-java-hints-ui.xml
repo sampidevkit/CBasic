@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.hints.ui">
-    <module_version install_time="1708007447243" last="true" origin="installer" specification_version="1.41.0.1.13">
+    <module_version install_time="1747144298119" last="true" origin="installer" specification_version="1.46.0.1.13">
         <file crc="1695764978" name="config/Modules/org-netbeans-modules-java-hints-ui.xml"/>
-        <file crc="881900808" name="modules/org-netbeans-modules-java-hints-ui.jar"/>
+        <file crc="4245403584" name="modules/org-netbeans-modules-java-hints-ui.jar"/>
     </module_version>
 </module>

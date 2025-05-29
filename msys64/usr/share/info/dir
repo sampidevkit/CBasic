@@ -49,9 +49,9 @@ GNU Gettext Utilities
                                 Copy gettext infrastructure.
 * envsubst: (gettext)envsubst Invocation.
                                 Expand environment variables.
+* gettext: (gettext).           GNU gettext utilities.
 * gettextize: (gettext)gettextize Invocation.
                                 Prepare a package for gettext.
-* gettext: (gettext).           GNU gettext utilities.
 * ISO3166: (gettext)Country Codes.
                                 ISO 3166 country codes.
 * ISO639: (gettext)Language Codes.
@@ -136,8 +136,8 @@ Individual utilities
 * date: (coreutils)date invocation.             Print/set system date and time.
 * dd: (coreutils)dd invocation.                 Copy and convert a file.
 * df: (coreutils)df invocation.                 Report file system disk usage.
-* dircolors: (coreutils)dircolors invocation.   Color setup for ls.
 * dir: (coreutils)dir invocation.               List directories briefly.
+* dircolors: (coreutils)dircolors invocation.   Color setup for ls.
 * dirname: (coreutils)dirname invocation.       Strip last file name component.
 * du: (coreutils)du invocation.                 Report on disk usage.
 * echo: (coreutils)echo invocation.             Print a line of text.
@@ -253,13 +253,13 @@ Localization
 
 Network applications
 * Wget: (wget).                 Non-interactive network downloader.
-* awkinet: (gawkinet).          TCP/IP Internetworking With ‘gawk’.
+* awkinet: (gawkinet).          TCP/IP Internetworking With 'gawk'.
 
 Programming & development tools
+* GDBM: (gdbm).                 The GNU database manager.
 * gdbm_dump: (gdbm) gdbm_dump.  Dump the GDBM database into a flat file.
 * gdbm_load: (gdbm) gdbm_load.  Load the database from a flat file.
 * gdbmtool: (gdbm) gdbmtool.    Examine and modify a GDBM database.
-* GDBM: (gdbm).                 The GNU database manager.
 
 Software development
 * GNU libunistring: (libunistring).

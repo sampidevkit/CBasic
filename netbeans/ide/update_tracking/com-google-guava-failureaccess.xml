@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="com.google.guava.failureaccess">
-    <module_version install_time="1708007171158" last="true" origin="installer" specification_version="1.0.1">
+    <module_version install_time="1747143667629" last="true" origin="installer" specification_version="1.0.3">
         <file crc="352556902" name="config/Modules/com-google-guava-failureaccess.xml"/>
-        <file crc="379178504" name="modules/com-google-guava-failureaccess.jar"/>
+        <file crc="835965269" name="modules/com-google-guava-failureaccess.jar"/>
     </module_version>
 </module>
