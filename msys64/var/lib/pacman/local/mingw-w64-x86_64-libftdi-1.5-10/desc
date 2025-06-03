@@ -1,0 +1,49 @@
+%NAME%
+mingw-w64-x86_64-libftdi
+
+%VERSION%
+1.5-10
+
+%BASE%
+mingw-w64-libftdi
+
+%DESC%
+Library to talk to FTDI chips, with Python 3 bindings (mingw-w64)
+
+%URL%
+https://www.intra2net.com/en/developer/libftdi/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1730752030
+
+%INSTALLDATE%
+1748622871
+
+%PACKAGER%
+CI (msys2/msys2-autobuild/acafab9b/11670038403)
+
+%SIZE%
+705961
+
+%LICENSE%
+spdx:LGPL-2.1-only AND GPL-2.0-only
+
+%VALIDATION%
+sha256
+pgp
+
+%DEPENDS%
+mingw-w64-x86_64-libusb
+mingw-w64-x86_64-confuse
+mingw-w64-x86_64-gettext-runtime
+mingw-w64-x86_64-libiconv
+
+%OPTDEPENDS%
+mingw-w64-x86_64-python: Python bindings to libftdi
+
+%XDATA%
+pkgtype=pkg
+

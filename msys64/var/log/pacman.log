@@ -166,3 +166,9 @@
 [2025-05-29T22:10:43+0700] [ALPM] installed mingw-w64-x86_64-boost-libs (1.88.0-2)
 [2025-05-29T22:11:24+0700] [ALPM] installed mingw-w64-x86_64-boost (1.88.0-2)
 [2025-05-29T22:11:24+0700] [ALPM] transaction completed
+[2025-05-30T23:34:21+0700] [PACMAN] Running 'pacman -S mingw-w64-x86_64-libftdi'
+[2025-05-30T23:34:31+0700] [ALPM] transaction started
+[2025-05-30T23:34:31+0700] [ALPM] installed mingw-w64-x86_64-libusb (1.0.28-1)
+[2025-05-30T23:34:31+0700] [ALPM] installed mingw-w64-x86_64-confuse (3.3-3)
+[2025-05-30T23:34:31+0700] [ALPM] installed mingw-w64-x86_64-libftdi (1.5-10)
+[2025-05-30T23:34:31+0700] [ALPM] transaction completed

@@ -1,0 +1,17 @@
+%FILES%
+mingw64/
+mingw64/bin/
+mingw64/bin/libusb-1.0.dll
+mingw64/include/
+mingw64/include/libusb-1.0/
+mingw64/include/libusb-1.0/libusb.h
+mingw64/lib/
+mingw64/lib/libusb-1.0.a
+mingw64/lib/libusb-1.0.dll.a
+mingw64/lib/pkgconfig/
+mingw64/lib/pkgconfig/libusb-1.0.pc
+mingw64/share/
+mingw64/share/licenses/
+mingw64/share/licenses/libusb/
+mingw64/share/licenses/libusb/COPYING
+
