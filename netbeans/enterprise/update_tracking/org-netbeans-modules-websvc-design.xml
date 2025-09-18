@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.websvc.design">
-    <module_version install_time="1747145013491" last="true" origin="installer" specification_version="1.53">
+    <module_version install_time="1755253298339" last="true" origin="installer" specification_version="1.54">
         <file crc="1660244104" name="config/Modules/org-netbeans-modules-websvc-design.xml"/>
-        <file crc="3239243824" name="modules/org-netbeans-modules-websvc-design.jar"/>
+        <file crc="3600688337" name="modules/org-netbeans-modules-websvc-design.jar"/>
     </module_version>
 </module>

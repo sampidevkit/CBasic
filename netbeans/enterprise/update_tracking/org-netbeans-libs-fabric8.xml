@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.fabric8/1">
-    <module_version install_time="1747144715421" last="true" origin="installer" specification_version="1.2">
+    <module_version install_time="1755253178127" last="true" origin="installer" specification_version="1.3">
         <file crc="348329958" name="config/Modules/org-netbeans-libs-fabric8.xml"/>
         <file crc="248653859" name="modules/ext/kubernetes-client-6.7.0.jar"/>
         <file crc="4269277996" name="modules/ext/kubernetes-client-api-6.7.0.jar"/>
@@ -29,6 +29,6 @@
         <file crc="322195965" name="modules/ext/okhttp-3.12.12.jar"/>
         <file crc="3305594109" name="modules/ext/okio-1.15.0.jar"/>
         <file crc="274549618" name="modules/ext/zjsonpatch-0.3.0.jar"/>
-        <file crc="3223766334" name="modules/org-netbeans-libs-fabric8.jar"/>
+        <file crc="1381092817" name="modules/org-netbeans-libs-fabric8.jar"/>
     </module_version>
 </module>

@@ -166,8 +166,17 @@ for /F "usebackq delims=" %%a in ("%MAVEN_PROJECTBASEDIR%\.mvn\jvm.config") do s
 
 :endReadAdditionalConfig
 
+@REM do not let MAVEN_PROJECTBASEDIR end with a single backslash which would escape the double quote. This happens when .mvn at drive root.
+if "_%MAVEN_PROJECTBASEDIR:~-1%"=="_\" set "MAVEN_PROJECTBASEDIR=%MAVEN_PROJECTBASEDIR%\"
+
 for %%i in ("%MAVEN_HOME%"\boot\plexus-classworlds-*) do set CLASSWORLDS_JAR="%%i"
 set CLASSWORLDS_LAUNCHER=org.codehaus.plexus.classworlds.launcher.Launcher
+
+@REM MNG-8248
+"%JAVACMD%" --enable-native-access=ALL-UNNAMED -version >nul 2>&1
+if ERRORLEVEL 1 goto skipEnableNativeAccess
+set "MAVEN_OPTS=--enable-native-access=ALL-UNNAMED %MAVEN_OPTS%"
+:skipEnableNativeAccess
 
 "%JAVACMD%" ^
   %JVM_CONFIG_MAVEN_PROPS% ^

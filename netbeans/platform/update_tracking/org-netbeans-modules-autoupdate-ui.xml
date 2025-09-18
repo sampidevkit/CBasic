@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.autoupdate.ui">
-    <module_version install_time="1747143544218" last="true" origin="installer" specification_version="1.74">
+    <module_version install_time="1755252743051" last="true" origin="installer" specification_version="1.75">
         <file crc="123778612" name="config/Modules/org-netbeans-modules-autoupdate-ui.xml"/>
-        <file crc="2768300782" name="modules/org-netbeans-modules-autoupdate-ui.jar"/>
+        <file crc="4215661699" name="modules/org-netbeans-modules-autoupdate-ui.jar"/>
     </module_version>
 </module>

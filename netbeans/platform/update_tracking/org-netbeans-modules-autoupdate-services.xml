@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.autoupdate.services">
-    <module_version install_time="1747143533154" last="true" origin="installer" specification_version="1.84">
+    <module_version install_time="1755252739056" last="true" origin="installer" specification_version="1.85">
         <file crc="83784818" name="config/Modules/org-netbeans-modules-autoupdate-services.xml"/>
-        <file crc="1414702540" name="modules/ext/updater.jar"/>
-        <file crc="2266828212" name="modules/org-netbeans-modules-autoupdate-services.jar"/>
+        <file crc="2509412594" name="modules/ext/updater.jar"/>
+        <file crc="555036180" name="modules/org-netbeans-modules-autoupdate-services.jar"/>
     </module_version>
 </module>

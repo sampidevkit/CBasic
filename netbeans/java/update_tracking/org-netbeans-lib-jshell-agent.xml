@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.lib.jshell.agent">
-    <module_version install_time="1747144351572" last="true" origin="installer" specification_version="1.27">
+    <module_version install_time="1755253055296" last="true" origin="installer" specification_version="1.28">
         <file crc="2428094013" name="config/Modules/org-netbeans-lib-jshell-agent.xml"/>
-        <file crc="2513400651" name="modules/ext/nb-custom-jshell-probe.jar"/>
-        <file crc="2032459528" name="modules/ext/nb-mod-jshell-probe.jar"/>
-        <file crc="988237505" name="modules/org-netbeans-lib-jshell-agent.jar"/>
+        <file crc="4278761443" name="modules/ext/nb-custom-jshell-probe.jar"/>
+        <file crc="2408513877" name="modules/org-netbeans-lib-jshell-agent.jar"/>
     </module_version>
 </module>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.db/1">
-    <module_version install_time="1747143737244" last="true" origin="installer" specification_version="1.97.0.30">
+    <module_version install_time="1755252821988" last="true" origin="installer" specification_version="1.98.0.30">
         <file crc="991214267" name="config/ModuleAutoDeps/org-netbeans-modules-db.xml"/>
         <file crc="1197382036" name="config/Modules/org-netbeans-modules-db.xml"/>
-        <file crc="3167732842" name="modules/ext/ddl.jar"/>
-        <file crc="1100606517" name="modules/org-netbeans-modules-db.jar"/>
+        <file crc="4166049844" name="modules/ext/ddl.jar"/>
+        <file crc="929644849" name="modules/org-netbeans-modules-db.jar"/>
     </module_version>
 </module>

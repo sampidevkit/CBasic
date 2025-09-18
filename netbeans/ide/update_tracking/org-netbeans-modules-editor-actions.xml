@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.editor.actions/1">
-    <module_version install_time="1747143776879" last="true" origin="installer" specification_version="1.59.0.55">
+    <module_version install_time="1755252832677" last="true" origin="installer" specification_version="1.60.0.55">
         <file crc="992536293" name="config/Modules/org-netbeans-modules-editor-actions.xml"/>
-        <file crc="60233277" name="modules/org-netbeans-modules-editor-actions.jar"/>
+        <file crc="2626929325" name="modules/org-netbeans-modules-editor-actions.jar"/>
     </module_version>
 </module>

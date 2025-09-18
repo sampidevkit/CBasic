@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.api.visual">
-    <module_version install_time="1747143529577" last="true" origin="installer" specification_version="2.76">
+    <module_version install_time="1755252737600" last="true" origin="installer" specification_version="2.77">
         <file crc="1235850484" name="config/Modules/org-netbeans-api-visual.xml"/>
-        <file crc="822919026" name="modules/org-netbeans-api-visual.jar"/>
+        <file crc="726756744" name="modules/org-netbeans-api-visual.jar"/>
     </module_version>
 </module>

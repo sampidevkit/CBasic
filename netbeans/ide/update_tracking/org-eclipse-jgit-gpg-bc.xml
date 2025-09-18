@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.eclipse.jgit.gpg.bc">
-    <module_version install_time="1747143872661" last="true" origin="installer" specification_version="7.2.0.202503040940-r">
+    <module_version install_time="1755252868193" last="true" origin="installer" specification_version="7.2.0.202503040940-r">
         <file crc="2433942437" name="config/Modules/org-eclipse-jgit-gpg-bc.xml"/>
         <file crc="1536554036" name="modules/org-eclipse-jgit-gpg-bc.jar"/>
     </module_version>

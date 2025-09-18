@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.web.jsf.icefaces">
-    <module_version install_time="1747144994144" last="true" origin="installer" specification_version="1.44">
+    <module_version install_time="1755253291929" last="true" origin="installer" specification_version="1.45">
         <file crc="3418345207" name="config/Modules/org-netbeans-modules-web-jsf-icefaces.xml"/>
-        <file crc="3112722560" name="modules/org-netbeans-modules-web-jsf-icefaces.jar"/>
+        <file crc="4126723872" name="modules/org-netbeans-modules-web-jsf-icefaces.jar"/>
     </module_version>
 </module>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.websvc.jaxws.lightapi">
-    <module_version install_time="1747144892656" last="true" origin="installer" specification_version="1.50">
+    <module_version install_time="1755253252057" last="true" origin="installer" specification_version="1.51">
         <file crc="301239234" name="config/Modules/org-netbeans-modules-websvc-jaxws-lightapi.xml"/>
-        <file crc="3547067033" name="modules/org-netbeans-modules-websvc-jaxws-lightapi.jar"/>
+        <file crc="406137358" name="modules/org-netbeans-modules-websvc-jaxws-lightapi.jar"/>
     </module_version>
 </module>

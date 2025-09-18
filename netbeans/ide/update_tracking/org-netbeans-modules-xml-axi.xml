@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.xml.axi">
-    <module_version install_time="1747143926196" last="true" origin="installer" specification_version="1.61">
+    <module_version install_time="1755252883960" last="true" origin="installer" specification_version="1.62">
         <file crc="807763827" name="config/Modules/org-netbeans-modules-xml-axi.xml"/>
-        <file crc="4047905808" name="modules/org-netbeans-modules-xml-axi.jar"/>
+        <file crc="3852730436" name="modules/org-netbeans-modules-xml-axi.jar"/>
     </module_version>
 </module>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.svg">
+    <module_version install_time="1755252887950" last="true" origin="installer" specification_version="1.0">
+        <file crc="2008377497" name="config/Modules/org-netbeans-modules-svg.xml"/>
+        <file crc="2282235450" name="modules/org-netbeans-modules-svg.jar"/>
+    </module_version>
+</module>

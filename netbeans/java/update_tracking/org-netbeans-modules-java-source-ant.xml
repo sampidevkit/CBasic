@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.source.ant">
-    <module_version install_time="1747144327137" last="true" origin="installer" specification_version="1.59.0.1.6">
-        <file crc="3340982460" name="ant/nblib/org-netbeans-modules-java-source-ant.jar"/>
+    <module_version install_time="1755253047038" last="true" origin="installer" specification_version="1.60.0.1.6">
+        <file crc="889344318" name="ant/nblib/org-netbeans-modules-java-source-ant.jar"/>
         <file crc="108073265" name="config/Modules/org-netbeans-modules-java-source-ant.xml"/>
-        <file crc="517001629" name="modules/org-netbeans-modules-java-source-ant.jar"/>
+        <file crc="2765688691" name="modules/org-netbeans-modules-java-source-ant.jar"/>
     </module_version>
 </module>

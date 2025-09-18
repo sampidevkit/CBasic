@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.apisupport.refactoring">
-    <module_version install_time="1747144496214" last="true" origin="installer" specification_version="1.65">
+    <module_version install_time="1755253105230" last="true" origin="installer" specification_version="1.66">
         <file crc="2414731012" name="config/Modules/org-netbeans-modules-apisupport-refactoring.xml"/>
-        <file crc="2347269945" name="modules/org-netbeans-modules-apisupport-refactoring.jar"/>
+        <file crc="859374829" name="modules/org-netbeans-modules-apisupport-refactoring.jar"/>
     </module_version>
 </module>

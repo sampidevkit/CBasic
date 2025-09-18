@@ -1,0 +1,16 @@
+Remove installed C/C++ plugin first
+Then Click --> Tools
+Click --> Plugins
+The Plugins window will open. In the Plugins window --> select the Settings tab.
+Click on the button marked Add
+In the Name Field enter: NetBeans Distribution
+In the URL field enter the following URL: http://updates.netbeans.org/netbeans/updates/8.2/uc/final/distribution/catalog.xml.gz
+Click --> OK
+Click on the Updates tab
+Click on Check for updates. If there are any updates, select them and click the Update button
+Click on the Available Plugins tab
+You can now select the plugins you want to install.
+After installation, they should be in the "Installed" Section under "User Installed Plugins"
+Close tab
+Click File --> New Project
+You should see C/C++ available as an option now.

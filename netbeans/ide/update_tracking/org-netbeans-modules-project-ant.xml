@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.project.ant/1">
-    <module_version install_time="1747143719096" last="true" origin="installer" specification_version="1.95">
+    <module_version install_time="1755252815819" last="true" origin="installer" specification_version="1.96">
         <file crc="3139745161" name="config/ModuleAutoDeps/org-netbeans-modules-project-ant.xml"/>
         <file crc="3371719528" name="config/Modules/org-netbeans-modules-project-ant.xml"/>
-        <file crc="3847500631" name="modules/org-netbeans-modules-project-ant.jar"/>
+        <file crc="4040527022" name="modules/org-netbeans-modules-project-ant.jar"/>
     </module_version>
 </module>

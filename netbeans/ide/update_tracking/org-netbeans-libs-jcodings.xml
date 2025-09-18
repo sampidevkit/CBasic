@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.jcodings/2">
-    <module_version install_time="1747143847686" last="true" origin="installer" specification_version="1.1">
+    <module_version install_time="1755252859705" last="true" origin="installer" specification_version="1.2">
         <file crc="1081470360" name="config/Modules/org-netbeans-libs-jcodings.xml"/>
         <file crc="4097399201" name="modules/ext/jcodings-1.0.58.jar"/>
-        <file crc="705439" name="modules/org-netbeans-libs-jcodings.jar"/>
+        <file crc="3663862857" name="modules/org-netbeans-libs-jcodings.jar"/>
     </module_version>
 </module>
