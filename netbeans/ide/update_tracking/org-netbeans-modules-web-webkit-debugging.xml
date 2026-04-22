@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.web.webkit.debugging">
-    <module_version install_time="1755252802676" last="true" origin="installer" specification_version="1.82">
+    <module_version install_time="1771503663664" last="true" origin="installer" specification_version="1.84">
         <file crc="1861675260" name="config/Modules/org-netbeans-modules-web-webkit-debugging.xml"/>
-        <file crc="2230967534" name="modules/org-netbeans-modules-web-webkit-debugging.jar"/>
+        <file crc="3794816013" name="modules/org-netbeans-modules-web-webkit-debugging.jar"/>
     </module_version>
 </module>

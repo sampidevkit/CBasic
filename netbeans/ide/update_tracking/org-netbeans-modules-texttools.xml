@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.texttools/0">
+    <module_version install_time="1771503910495" last="true" origin="installer" specification_version="1.1">
+        <file crc="3420581181" name="config/Modules/org-netbeans-modules-texttools.xml"/>
+        <file crc="973917309" name="modules/org-netbeans-modules-texttools.jar"/>
+    </module_version>
+</module>

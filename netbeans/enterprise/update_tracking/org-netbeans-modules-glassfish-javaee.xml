@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.glassfish.javaee/0">
-    <module_version install_time="1755253204886" last="true" origin="installer" specification_version="1.70">
+    <module_version install_time="1771504545860" last="true" origin="installer" specification_version="1.72">
         <file crc="640143800" name="config/Modules/org-netbeans-modules-glassfish-javaee.xml"/>
-        <file crc="591258218" name="modules/org-netbeans-modules-glassfish-javaee.jar"/>
+        <file crc="3953231153" name="modules/org-netbeans-modules-glassfish-javaee.jar"/>
     </module_version>
 </module>

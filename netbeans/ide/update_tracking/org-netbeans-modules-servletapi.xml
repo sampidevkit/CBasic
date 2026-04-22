@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.servletapi/1">
-    <module_version install_time="1755252848031" last="true" origin="installer" specification_version="1.68">
+    <module_version install_time="1771503796522" last="true" origin="installer" specification_version="1.70">
         <file crc="3516286118" name="config/Modules/org-netbeans-modules-servletapi.xml"/>
         <file crc="3160242437" name="modules/ext/jakarta.servlet-api-4.0.4.jar"/>
-        <file crc="2008987443" name="modules/org-netbeans-modules-servletapi.jar"/>
+        <file crc="2733729921" name="modules/org-netbeans-modules-servletapi.jar"/>
     </module_version>
 </module>

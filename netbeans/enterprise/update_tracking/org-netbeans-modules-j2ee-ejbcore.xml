@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.j2ee.ejbcore">
-    <module_version install_time="1755253217300" last="true" origin="installer" specification_version="1.80">
+    <module_version install_time="1771504564419" last="true" origin="installer" specification_version="1.82">
         <file crc="935395892" name="config/Modules/org-netbeans-modules-j2ee-ejbcore.xml"/>
-        <file crc="2146204729" name="modules/org-netbeans-modules-j2ee-ejbcore.jar"/>
+        <file crc="714190099" name="modules/org-netbeans-modules-j2ee-ejbcore.jar"/>
     </module_version>
 </module>

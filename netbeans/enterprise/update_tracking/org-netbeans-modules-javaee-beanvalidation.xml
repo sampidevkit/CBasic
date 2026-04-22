@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javaee.beanvalidation">
-    <module_version install_time="1755253245916" last="true" origin="installer" specification_version="1.48">
+    <module_version install_time="1771504616258" last="true" origin="installer" specification_version="1.50">
         <file crc="3953264494" name="config/Modules/org-netbeans-modules-javaee-beanvalidation.xml"/>
-        <file crc="1509999326" name="modules/org-netbeans-modules-javaee-beanvalidation.jar"/>
+        <file crc="993673479" name="modules/org-netbeans-modules-javaee-beanvalidation.jar"/>
     </module_version>
 </module>

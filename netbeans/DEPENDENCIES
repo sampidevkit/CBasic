@@ -29,7 +29,7 @@ From: Apache NetBeans (version includes commit hash)
     License: Apache Version 2.0 with CLA reference (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: Apache Software Foundation
-  - Apache Ant: Ant build tool. (https://archive.apache.org/dist/ant/binaries/apache-ant-1.10.14-bin.zip)
+  - Apache Ant: Ant build tool. (https://archive.apache.org/dist/ant/binaries/apache-ant-1.10.15-bin.zip)
     License: Apache-2.0-ant
   - Apache CXF: Apache CXF is an open-source services framework that aids in the development of services using front-end programming APIs, like JAX-WS and JAX-RS. (http://cxf.apache.org/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
@@ -44,8 +44,6 @@ From: Apache Software Foundation
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Apache HttpCore: Apache HttpComponents Core (blocking I/O) (http://hc.apache.org/httpcomponents-core-ga/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Apache Jakarta Commons Lang: Provides a host of helper utilities for the java.lang API (http://commons.apache.org/lang/)
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Apache Jakarta Commons Logging: Logging component (https://commons.apache.org/proper/commons-logging/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Apache Lucene: Java-based indexing and search technology (https://lucene.apache.org/)
@@ -53,10 +51,6 @@ From: Apache Software Foundation
   - Apache Lucene: Java-based indexing and search technology (https://lucene.apache.org/core/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt) with Apache Lucene addendums
   - Apache Maven Distribution: Apache Maven Distribution (https://maven.apache.org/)
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Apache WS Common Utilities: High performance XML processing based on SAX (http://ws.apache.org/commons/util/)
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Apache XMLRPC: Java implementation of XML-RPC (https://ws.apache.org/xmlrpc/index.html)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Apache Xerces: Xerces XML parser. (http://xerces.apache.org/xerces-j/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
@@ -138,8 +132,6 @@ From: Eclipse
     License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
   - Eclipse Language Server Protocol Library: Eclipse Language Server Protocol Library (http://www.eclipse.org/)
     License: Eclipse Public License v2.0
-  - Eclipse Mylyn Commons Core library: Eclipse Mylyn Commons Core library (http://www.eclipse.org/mylyn/)
-    License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
   - Eclipse Xtend library: Eclipse Xtend library (http://www.eclipse.org/)
     License: Eclipse Public License v2.0
   - Equinox Registry: TBD
@@ -148,24 +140,6 @@ From: Eclipse
     License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html) with OSGi materials under Apache License Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - JGit Library: Integration library for Git client (http://www.eclipse.org/jgit/download/)
     License: EDL-1.0-jgit
-  - Mylyn Bugzilla Connector: Mylyn Bugzilla Connector library (http://www.eclipse.org/mylyn)
-    License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
-  - Mylyn Commons NET library: Mylyn Commons NET library (http://www.eclipse.org/mylyn/)
-    License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
-  - Mylyn Commons Repositories library: Mylyn Commons SOAP library (http://www.eclipse.org/mylyn/)
-    License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
-  - Mylyn Commons XMLRPC library: Mylyn Commons XMLRPC library (http://www.eclipse.org/mylyn/)
-    License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
-  - Mylyn Tasks Core library: Mylyn Tasks Core library (http://www.eclipse.org/mylyn/)
-    License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
-  - Mylyn Wikitest Confluence Core: TBD
-    License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
-  - Mylyn Wikitext Core: TBD
-    License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
-  - Mylyn Wikitext Textile Core: TBD
-    License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
-  - org.eclipse.mylyn.wikitext.markdown.core: Support for the Markdown wiki style (http://www.eclipse.org/mylyn/)
-    License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
 
 From: Eclipse EE4J
   - JAX-WS: Eclipse Implementation of Jakarta XML Web Services (https://github.com/eclipse-ee4j/metro-jax-ws)
@@ -424,6 +398,8 @@ From: JUnit
     License: Eclipse Public License v2.0
   - JUnit: JUnit harness runtime (http://search.maven.org/#artifactdetails|junit|junit|4.13.2|jar)
     License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
+  - Open Test Alliance for the JVM: Open Test Alliance for the JVM (https://github.com/ota4j-team/opentest4j)
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: Java Native Access
   - Java Native Access: Dynamically access native libraries from Java without JNI. (https://github.com/java-native-access/jna)
@@ -545,10 +521,6 @@ From: http://groovy-lang.org/
   - Groovy: Groovy Language distribution.
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt) with Apache Groovy addendums
 
-From: http://hc.apache.org/
-  - Apache Commons HttpClient: HTTP client
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-
 From: http://hc.apache.org/httpcomponents-client-ga
   - Apache HttpClient: Apache HttpComponents Client
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
@@ -629,10 +601,6 @@ From: https://commons.apache.org/proper/commons-codec/
 
 From: https://commons.apache.org/proper/commons-compress/index.html
   - Commons Compress: The Apache Commons Compress library defines an API for working with ar, cpio, Unix dump, tar, zip, gzip, XZ, Pack200, bzip2, 7z, arj, lzma, snappy, DEFLATE, lz4, Brotli, Zstandard, DEFLATE64 and Z files.
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-
-From: https://commons.apache.org/proper/commons-fileupload/
-  - Apache Commons FileUpload: File upload component
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: https://commons.apache.org/proper/commons-lang/

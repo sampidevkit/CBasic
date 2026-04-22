@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.spellchecker.bindings.properties">
-    <module_version install_time="1755252878610" last="true" origin="installer" specification_version="1.51">
+    <module_version install_time="1771503863028" last="true" origin="installer" specification_version="1.53">
         <file crc="1082921001" name="config/Modules/org-netbeans-modules-spellchecker-bindings-properties.xml"/>
-        <file crc="4133351767" name="modules/org-netbeans-modules-spellchecker-bindings-properties.jar"/>
+        <file crc="1010853538" name="modules/org-netbeans-modules-spellchecker-bindings-properties.jar"/>
     </module_version>
 </module>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.projectimport.eclipse.j2se">
-    <module_version install_time="1755253063300" last="true" origin="installer" specification_version="1.57.0.48">
+    <module_version install_time="1771504233011" last="true" origin="installer" specification_version="1.59.0.48">
         <file crc="745553176" name="config/Modules/org-netbeans-modules-projectimport-eclipse-j2se.xml"/>
-        <file crc="923650379" name="modules/org-netbeans-modules-projectimport-eclipse-j2se.jar"/>
+        <file crc="3171271479" name="modules/org-netbeans-modules-projectimport-eclipse-j2se.jar"/>
     </module_version>
 </module>

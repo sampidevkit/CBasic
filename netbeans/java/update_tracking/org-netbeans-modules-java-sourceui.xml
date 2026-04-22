@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.sourceui/1">
-    <module_version install_time="1755252962700" last="true" origin="installer" specification_version="1.77.0.2.4.3.32.6">
+    <module_version install_time="1771504048374" last="true" origin="installer" specification_version="1.79.0.2.4.3.32.6">
         <file crc="3053485992" name="config/Modules/org-netbeans-modules-java-sourceui.xml"/>
-        <file crc="3054440188" name="modules/org-netbeans-modules-java-sourceui.jar"/>
+        <file crc="3502720001" name="modules/org-netbeans-modules-java-sourceui.jar"/>
     </module_version>
 </module>

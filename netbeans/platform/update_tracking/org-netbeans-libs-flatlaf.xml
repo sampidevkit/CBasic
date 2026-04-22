@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.flatlaf/1">
-    <module_version install_time="1755252755005" last="true" origin="installer" specification_version="1.23">
+    <module_version install_time="1771503586552" last="true" origin="installer" specification_version="1.25">
         <file crc="3525305238" name="config/Modules/org-netbeans-libs-flatlaf.xml"/>
-        <file crc="3025410921" name="modules/ext/flatlaf-3.6.1.jar"/>
+        <file crc="3792506331" name="modules/ext/flatlaf-3.6.2.jar"/>
         <file crc="1272648788" name="modules/lib/flatlaf-windows-arm64.dll"/>
         <file crc="3951852328" name="modules/lib/flatlaf-windows-x86.dll"/>
         <file crc="3589809541" name="modules/lib/flatlaf-windows-x86_64.dll"/>
@@ -9,6 +9,6 @@
         <file crc="2269144837" name="modules/lib/libflatlaf-linux-x86_64.so"/>
         <file crc="3417578051" name="modules/lib/libflatlaf-macos-arm64.dylib"/>
         <file crc="409616915" name="modules/lib/libflatlaf-macos-x86_64.dylib"/>
-        <file crc="1542887798" name="modules/org-netbeans-libs-flatlaf.jar"/>
+        <file crc="2962660510" name="modules/org-netbeans-libs-flatlaf.jar"/>
     </module_version>
 </module>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="com.google.gson">
-    <module_version install_time="1755252793367" last="true" origin="installer" specification_version="2.12.1">
+    <module_version install_time="1771503649511" last="true" origin="installer" specification_version="2.13.2">
         <file crc="2902890163" name="config/Modules/com-google-gson.xml"/>
-        <file crc="2982440905" name="modules/com-google-gson.jar"/>
+        <file crc="3642551375" name="modules/com-google-gson.jar"/>
     </module_version>
 </module>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.languages.jflex">
+    <module_version install_time="1771503817593" last="true" origin="installer" specification_version="0.1">
+        <file crc="552431836" name="config/Modules/org-netbeans-modules-languages-jflex.xml"/>
+        <file crc="198122969" name="modules/org-netbeans-modules-languages-jflex.jar"/>
+    </module_version>
+</module>

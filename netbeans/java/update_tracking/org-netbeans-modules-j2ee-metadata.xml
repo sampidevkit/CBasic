@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.j2ee.metadata/0">
-    <module_version install_time="1755253006193" last="true" origin="installer" specification_version="1.61">
+    <module_version install_time="1771504117195" last="true" origin="installer" specification_version="1.63">
         <file crc="1967465328" name="config/Modules/org-netbeans-modules-j2ee-metadata.xml"/>
-        <file crc="261550204" name="modules/org-netbeans-modules-j2ee-metadata.jar"/>
+        <file crc="1347106593" name="modules/org-netbeans-modules-j2ee-metadata.jar"/>
     </module_version>
 </module>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.websvc.jaxws21api/1">
-    <module_version install_time="1755253066949" last="true" origin="installer" specification_version="1.61">
+    <module_version install_time="1771504238683" last="true" origin="installer" specification_version="1.63">
         <file crc="1022855919" name="config/Modules/org-netbeans-modules-websvc-jaxws21api.xml"/>
         <file crc="2114667589" name="modules/ext/jaxws22/api/jakarta.jws-api.jar"/>
         <file crc="4246260575" name="modules/ext/jaxws22/api/jakarta.xml.soap-api.jar"/>
         <file crc="3280650896" name="modules/ext/jaxws22/api/jakarta.xml.ws-api.jar"/>
-        <file crc="2277891676" name="modules/org-netbeans-modules-websvc-jaxws21api.jar"/>
+        <file crc="2852568574" name="modules/org-netbeans-modules-websvc-jaxws21api.jar"/>
     </module_version>
 </module>

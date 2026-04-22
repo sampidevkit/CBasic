@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.commons_net/2">
-    <module_version install_time="1755252848516" last="true" origin="installer" specification_version="2.51.0.36">
+    <module_version install_time="1771503820461" last="true" origin="installer" specification_version="2.53.0.36">
         <file crc="1714611622" name="config/Modules/org-netbeans-libs-commons_net.xml"/>
         <file crc="3488818052" name="modules/ext/commons-net-3.11.1.jar"/>
-        <file crc="2624314440" name="modules/org-netbeans-libs-commons_net.jar"/>
+        <file crc="4224292767" name="modules/org-netbeans-libs-commons_net.jar"/>
     </module_version>
 </module>

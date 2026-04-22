@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.maven.graph/1">
-    <module_version install_time="1755253057904" last="true" origin="installer" specification_version="1.61">
+    <module_version install_time="1771504221657" last="true" origin="installer" specification_version="1.63">
         <file crc="997390423" name="config/Modules/org-netbeans-modules-maven-graph.xml"/>
-        <file crc="418520654" name="modules/org-netbeans-modules-maven-graph.jar"/>
+        <file crc="2169285971" name="modules/org-netbeans-modules-maven-graph.jar"/>
     </module_version>
 </module>

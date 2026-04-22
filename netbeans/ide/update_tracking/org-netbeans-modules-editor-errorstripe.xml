@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.editor.errorstripe/2">
-    <module_version install_time="1755252781132" last="true" origin="installer" specification_version="2.63.0.1.1">
+    <module_version install_time="1771503633453" last="true" origin="installer" specification_version="2.65.0.1.1">
         <file crc="2060797385" name="config/Modules/org-netbeans-modules-editor-errorstripe.xml"/>
-        <file crc="2526377450" name="modules/org-netbeans-modules-editor-errorstripe.jar"/>
+        <file crc="2544629753" name="modules/org-netbeans-modules-editor-errorstripe.jar"/>
     </module_version>
 </module>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.springframework/1">
-    <module_version install_time="1755253055841" last="true" origin="installer" specification_version="1.66">
+    <module_version install_time="1771504217185" last="true" origin="installer" specification_version="1.68">
         <file crc="277049246" name="config/Modules/org-netbeans-libs-springframework.xml"/>
         <file crc="76402154" name="modules/ext/spring-5/spring-aop-5.3.31.jar"/>
         <file crc="3660459664" name="modules/ext/spring-5/spring-aspects-5.3.31.jar"/>
@@ -22,6 +22,6 @@
         <file crc="1322298814" name="modules/ext/spring-5/spring-webflux-5.3.31.jar"/>
         <file crc="3922588991" name="modules/ext/spring-5/spring-webmvc-5.3.31.jar"/>
         <file crc="2200518273" name="modules/ext/spring-5/spring-websocket-5.3.31.jar"/>
-        <file crc="973766627" name="modules/org-netbeans-libs-springframework.jar"/>
+        <file crc="1360793036" name="modules/org-netbeans-libs-springframework.jar"/>
     </module_version>
 </module>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.languages.diff">
-    <module_version install_time="1755252854762" last="true" origin="installer" specification_version="1.62">
+    <module_version install_time="1771503809705" last="true" origin="installer" specification_version="1.64">
         <file crc="3703025839" name="config/Modules/org-netbeans-modules-languages-diff.xml"/>
-        <file crc="4163511538" name="modules/org-netbeans-modules-languages-diff.jar"/>
+        <file crc="2439121710" name="modules/org-netbeans-modules-languages-diff.jar"/>
     </module_version>
 </module>

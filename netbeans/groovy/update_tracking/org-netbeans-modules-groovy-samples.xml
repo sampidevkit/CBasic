@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.groovy.samples">
-    <module_version install_time="1755253307841" last="true" origin="installer" specification_version="1.53">
+    <module_version install_time="1771504746389" last="true" origin="installer" specification_version="1.55">
         <file crc="1291827771" name="config/Modules/org-netbeans-modules-groovy-samples.xml"/>
-        <file crc="3445638346" name="modules/org-netbeans-modules-groovy-samples.jar"/>
+        <file crc="3731964883" name="modules/org-netbeans-modules-groovy-samples.jar"/>
     </module_version>
 </module>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.php.symfony2/1">
-    <module_version install_time="1755253143891" last="true" origin="installer" specification_version="1.56">
+    <module_version install_time="1771504408554" last="true" origin="installer" specification_version="1.58">
         <file crc="5191462" name="config/Modules/org-netbeans-modules-php-symfony2.xml"/>
-        <file crc="605381861" name="modules/org-netbeans-modules-php-symfony2.jar"/>
+        <file crc="3928663702" name="modules/org-netbeans-modules-php-symfony2.jar"/>
     </module_version>
 </module>

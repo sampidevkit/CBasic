@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.extexecution.process">
-    <module_version install_time="1755252838473" last="true" origin="installer" specification_version="1.57">
+    <module_version install_time="1771503779122" last="true" origin="installer" specification_version="1.59">
         <file crc="2712401784" name="config/ModuleAutoDeps/org-netbeans-modules-extexecution-process.xml"/>
         <file crc="476046496" name="config/Modules/org-netbeans-modules-extexecution-process.xml"/>
-        <file crc="1895318316" name="modules/org-netbeans-modules-extexecution-process.jar"/>
+        <file crc="1165539410" name="modules/org-netbeans-modules-extexecution-process.jar"/>
     </module_version>
 </module>

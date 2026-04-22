@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.apache.tools.ant.module/3">
-    <module_version install_time="1755252907105" last="true" origin="installer" specification_version="3.113.0.2">
+    <module_version install_time="1771503950175" last="true" origin="installer" specification_version="3.115.0.2">
         <file crc="431967041" name="VERSION.txt"/>
         <file crc="2528762066" name="ant/bin/ant"/>
-        <file crc="485386359" name="ant/bin/ant.bat"/>
+        <file crc="2256991601" name="ant/bin/ant.bat"/>
         <file crc="880510556" name="ant/bin/ant.cmd"/>
         <file crc="3751089714" name="ant/bin/antRun"/>
         <file crc="2515018596" name="ant/bin/antRun.bat"/>
@@ -14,7 +14,7 @@
         <file crc="540355850" name="ant/bin/runant.pl"/>
         <file crc="1783143217" name="ant/bin/runant.py"/>
         <file crc="1620048817" name="ant/bin/runrc.cmd"/>
-        <file crc="141350970" name="ant/etc/ant-bootstrap.jar"/>
+        <file crc="1670303144" name="ant/etc/ant-bootstrap.jar"/>
         <file crc="3407774871" name="ant/etc/changelog.xsl"/>
         <file crc="2689212833" name="ant/etc/checkstyle/checkstyle-frames-sortby-check.xsl"/>
         <file crc="2350132800" name="ant/etc/checkstyle/checkstyle-frames.xsl"/>
@@ -30,34 +30,34 @@
         <file crc="3106310165" name="ant/etc/maudit-frames.xsl"/>
         <file crc="984446527" name="ant/etc/mmetrics-frames.xsl"/>
         <file crc="880395798" name="ant/etc/tagdiff.xsl"/>
-        <file crc="2454380233" name="ant/lib/ant-antlr.jar"/>
-        <file crc="2925546810" name="ant/lib/ant-apache-bcel.jar"/>
-        <file crc="266752158" name="ant/lib/ant-apache-bsf.jar"/>
-        <file crc="1903099565" name="ant/lib/ant-apache-log4j.jar"/>
-        <file crc="1591835128" name="ant/lib/ant-apache-oro.jar"/>
-        <file crc="2794219721" name="ant/lib/ant-apache-regexp.jar"/>
-        <file crc="3564724555" name="ant/lib/ant-apache-resolver.jar"/>
-        <file crc="2302758840" name="ant/lib/ant-apache-xalan2.jar"/>
-        <file crc="1815046901" name="ant/lib/ant-commons-logging.jar"/>
-        <file crc="686603309" name="ant/lib/ant-commons-net.jar"/>
-        <file crc="4282548304" name="ant/lib/ant-imageio.jar"/>
-        <file crc="4290276739" name="ant/lib/ant-jai.jar"/>
-        <file crc="694406269" name="ant/lib/ant-jakartamail.jar"/>
-        <file crc="344846827" name="ant/lib/ant-javamail.jar"/>
-        <file crc="2080113939" name="ant/lib/ant-jdepend.jar"/>
-        <file crc="626114152" name="ant/lib/ant-jmf.jar"/>
-        <file crc="3412607787" name="ant/lib/ant-jsch.jar"/>
-        <file crc="2709719757" name="ant/lib/ant-junit.jar"/>
-        <file crc="81632500" name="ant/lib/ant-junit4.jar"/>
-        <file crc="2103206418" name="ant/lib/ant-junitlauncher.jar"/>
-        <file crc="2841810778" name="ant/lib/ant-launcher.jar"/>
-        <file crc="3741479430" name="ant/lib/ant-netrexx.jar"/>
-        <file crc="509624457" name="ant/lib/ant-swing.jar"/>
-        <file crc="2326872516" name="ant/lib/ant-testutil.jar"/>
-        <file crc="679266523" name="ant/lib/ant-xz.jar"/>
-        <file crc="1733805871" name="ant/lib/ant.jar"/>
-        <file crc="425581671" name="ant/nblib/bridge.jar"/>
+        <file crc="899161107" name="ant/lib/ant-antlr.jar"/>
+        <file crc="7561712" name="ant/lib/ant-apache-bcel.jar"/>
+        <file crc="3392836823" name="ant/lib/ant-apache-bsf.jar"/>
+        <file crc="3643655455" name="ant/lib/ant-apache-log4j.jar"/>
+        <file crc="651282589" name="ant/lib/ant-apache-oro.jar"/>
+        <file crc="1741977349" name="ant/lib/ant-apache-regexp.jar"/>
+        <file crc="3682592913" name="ant/lib/ant-apache-resolver.jar"/>
+        <file crc="1181088917" name="ant/lib/ant-apache-xalan2.jar"/>
+        <file crc="3392021618" name="ant/lib/ant-commons-logging.jar"/>
+        <file crc="2287845225" name="ant/lib/ant-commons-net.jar"/>
+        <file crc="438520376" name="ant/lib/ant-imageio.jar"/>
+        <file crc="3877338810" name="ant/lib/ant-jai.jar"/>
+        <file crc="214575341" name="ant/lib/ant-jakartamail.jar"/>
+        <file crc="901153240" name="ant/lib/ant-javamail.jar"/>
+        <file crc="2158018234" name="ant/lib/ant-jdepend.jar"/>
+        <file crc="1022907655" name="ant/lib/ant-jmf.jar"/>
+        <file crc="2916245719" name="ant/lib/ant-jsch.jar"/>
+        <file crc="299168238" name="ant/lib/ant-junit.jar"/>
+        <file crc="2847994520" name="ant/lib/ant-junit4.jar"/>
+        <file crc="3286384900" name="ant/lib/ant-junitlauncher.jar"/>
+        <file crc="1363439289" name="ant/lib/ant-launcher.jar"/>
+        <file crc="2154076314" name="ant/lib/ant-netrexx.jar"/>
+        <file crc="4253139326" name="ant/lib/ant-swing.jar"/>
+        <file crc="3092917831" name="ant/lib/ant-testutil.jar"/>
+        <file crc="2722864950" name="ant/lib/ant-xz.jar"/>
+        <file crc="2726669012" name="ant/lib/ant.jar"/>
+        <file crc="1700476027" name="ant/nblib/bridge.jar"/>
         <file crc="953143122" name="config/Modules/org-apache-tools-ant-module.xml"/>
-        <file crc="464743603" name="modules/org-apache-tools-ant-module.jar"/>
+        <file crc="1514769635" name="modules/org-apache-tools-ant-module.jar"/>
     </module_version>
 </module>

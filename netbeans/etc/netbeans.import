@@ -113,8 +113,6 @@ include config/Preferences/org/netbeans/modules/projectui/groups/.*|config/Prefe
 include config/Versioning/patch-storage/.*|var/versioning/patch-storage/.*
 #org.netbeans.modules.bugtracking OptionsExport/Team/Tasks/TaskDashboard
 include var/bugtracking/dashboard/.*|config/Preferences/org/netbeans/modules/bugtracking[.]properties
-#org.netbeans.modules.mylyn.util OptionsExport/Team/Tasks/TaskStorage
-include var/tasks/mylyn/.*|config/Preferences/org/netbeans/modules/mylyn/util[.]properties
 #org.netbeans.modules.versioning.ui OptionsExport/Team/VersioningHistory
 include var/filehistory/.*|config/Preferences/org/netbeans/modules/versioning/ui/history[.]properties
 #org.netbeans.modules.templates OptionsExport/Templates/Templates

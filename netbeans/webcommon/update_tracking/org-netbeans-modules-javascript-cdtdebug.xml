@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javascript.cdtdebug/1">
-    <module_version install_time="1755252926550" last="true" origin="installer" specification_version="1.6.0.1">
+    <module_version install_time="1771503987074" last="true" origin="installer" specification_version="1.8.0.1">
         <file crc="1143885686" name="config/Modules/org-netbeans-modules-javascript-cdtdebug.xml"/>
-        <file crc="3527137863" name="modules/org-netbeans-modules-javascript-cdtdebug.jar"/>
+        <file crc="3531290556" name="modules/org-netbeans-modules-javascript-cdtdebug.jar"/>
     </module_version>
 </module>

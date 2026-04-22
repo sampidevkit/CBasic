@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.autoupdate.cli">
-    <module_version install_time="1755252739727" last="true" origin="installer" specification_version="1.43">
+    <module_version install_time="1771503538544" last="true" origin="installer" specification_version="1.45">
         <file crc="1140292232" name="config/Modules/org-netbeans-modules-autoupdate-cli.xml"/>
-        <file crc="3420728938" name="modules/org-netbeans-modules-autoupdate-cli.jar"/>
+        <file crc="2907389272" name="modules/org-netbeans-modules-autoupdate-cli.jar"/>
     </module_version>
 </module>

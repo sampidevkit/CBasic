@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.navigation/1">
-    <module_version install_time="1755253045901" last="true" origin="installer" specification_version="1.70">
+    <module_version install_time="1771504198442" last="true" origin="installer" specification_version="1.72">
         <file crc="555094464" name="config/Modules/org-netbeans-modules-java-navigation.xml"/>
-        <file crc="1579251676" name="modules/org-netbeans-modules-java-navigation.jar"/>
+        <file crc="464924156" name="modules/org-netbeans-modules-java-navigation.jar"/>
     </module_version>
 </module>

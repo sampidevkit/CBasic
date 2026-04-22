@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.lexer.antlr4">
-    <module_version install_time="1755252854958" last="true" origin="installer" specification_version="1.11.0.1">
+    <module_version install_time="1771503810112" last="true" origin="installer" specification_version="1.13.0.1">
         <file crc="1425137483" name="config/Modules/org-netbeans-modules-lexer-antlr4.xml"/>
-        <file crc="4024084142" name="modules/org-netbeans-modules-lexer-antlr4.jar"/>
+        <file crc="4017778490" name="modules/org-netbeans-modules-lexer-antlr4.jar"/>
     </module_version>
 </module>

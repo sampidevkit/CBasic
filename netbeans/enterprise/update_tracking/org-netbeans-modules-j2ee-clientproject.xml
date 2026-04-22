@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.j2ee.clientproject">
-    <module_version install_time="1755253211934" last="true" origin="installer" specification_version="1.75.0.1">
+    <module_version install_time="1771504557211" last="true" origin="installer" specification_version="1.77.0.1">
         <file crc="3228646151" name="config/Modules/org-netbeans-modules-j2ee-clientproject.xml"/>
-        <file crc="1147097699" name="modules/org-netbeans-modules-j2ee-clientproject.jar"/>
+        <file crc="3858053744" name="modules/org-netbeans-modules-j2ee-clientproject.jar"/>
     </module_version>
 </module>

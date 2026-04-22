@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.php.samples">
-    <module_version install_time="1755253141969" last="true" origin="installer" specification_version="1.57">
+    <module_version install_time="1771504404447" last="true" origin="installer" specification_version="1.59">
         <file crc="2189288612" name="config/Modules/org-netbeans-modules-php-samples.xml"/>
-        <file crc="3928277220" name="modules/org-netbeans-modules-php-samples.jar"/>
+        <file crc="2915592428" name="modules/org-netbeans-modules-php-samples.jar"/>
     </module_version>
 </module>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.lib.chrome_devtools_protocol/2">
-    <module_version install_time="1755252923444" last="true" origin="installer" specification_version="2.2">
+    <module_version install_time="1771503980628" last="true" origin="installer" specification_version="2.4">
         <file crc="1535162972" name="config/Modules/org-netbeans-lib-chrome_devtools_protocol.xml"/>
-        <file crc="3360117348" name="modules/org-netbeans-lib-chrome_devtools_protocol.jar"/>
+        <file crc="1818490282" name="modules/org-netbeans-lib-chrome_devtools_protocol.jar"/>
     </module_version>
 </module>

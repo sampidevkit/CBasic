@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.php.doctrine2">
-    <module_version install_time="1755253137432" last="true" origin="installer" specification_version="1.55">
+    <module_version install_time="1771504395426" last="true" origin="installer" specification_version="1.57">
         <file crc="2754433748" name="config/Modules/org-netbeans-modules-php-doctrine2.xml"/>
-        <file crc="2582658741" name="modules/org-netbeans-modules-php-doctrine2.jar"/>
+        <file crc="1105331586" name="modules/org-netbeans-modules-php-doctrine2.jar"/>
     </module_version>
 </module>

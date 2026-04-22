@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.openjdk.project/1">
-    <module_version install_time="1755253046611" last="true" origin="installer" specification_version="1.26">
+    <module_version install_time="1771504200017" last="true" origin="installer" specification_version="1.28">
         <file crc="445224588" name="config/Modules/org-netbeans-modules-java-openjdk-project.xml"/>
-        <file crc="4178908445" name="modules/ext/fakeJdkClasses.zip"/>
-        <file crc="1174868619" name="modules/org-netbeans-modules-java-openjdk-project.jar"/>
+        <file crc="511517874" name="modules/ext/fakeJdkClasses.zip"/>
+        <file crc="3011326776" name="modules/org-netbeans-modules-java-openjdk-project.jar"/>
         <file crc="264280547" name="patterns/project-marker-jdk"/>
         <file crc="2959220674" name="scripts/build-generic.xml"/>
         <file crc="413147670" name="scripts/build-langtools-consol.xml"/>
